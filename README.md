@@ -1,48 +1,58 @@
-# India pre-2008 constituency maps
+# India constituency maps (pre- and post-2008 delimitation)
 
-Shapefiles for India's **pre-delimitation** electoral constituencies - the boundaries
-used before the 2008 delimitation took effect. Two layers:
+Standardised shapefiles for India's electoral constituencies, both **before and after**
+the 2008 delimitation, in one consistent format. Four layers:
 
-- **Assembly (Vidhan Sabha) constituencies** - 4,109 ACs across 30 states/UTs
-- **Parliamentary (Lok Sabha) constituencies** - 543 PCs across 35 states/UTs
+| layer | constituencies | notes |
+|-------|----------------|-------|
+| `pre2008/assembly` | 4,109 ACs / 30 states | pre-delimitation Vidhan Sabha |
+| `pre2008/parliamentary` | 543 PCs / 35 states | pre-delimitation Lok Sabha |
+| `post2008/assembly` | 4,119 ACs / 30 states | post-delimitation Vidhan Sabha |
+| `post2008/parliamentary` | 543 PCs / 36 states | post-delimitation Lok Sabha (2019) |
 
-These are the boundaries in force for elections up to and including the pre-2008 cycle
-(broadly the 1976 delimitation order). Delimitation redrew almost every boundary from
-2008 onward, so if you're mapping old election results (2004 Lok Sabha, pre-2008 state
-assemblies) you need *these*, not the current constituencies.
+Delimitation in 2008 redrew almost every boundary. If you're mapping an election, you
+need the layer that matches its date: pre-2008 boundaries for the 2004 Lok Sabha and
+pre-2008 assembly polls; post-2008 boundaries for everything from 2009 on.
+
+Plus **AC↔PC mappings** (which assembly constituency sits in which Lok Sabha seat) for
+both eras as CSV lookups.
 
 ![preview](docs/preview.png)
+
+> Repo is still named `india-pre2008-constituency-maps` from when it only held the
+> pre-2008 layer. It now covers both eras.
 
 ## Layout
 
 ```
-assembly/
-  S01_AC.shp ... S28_AC.shp, U05_AC.shp, U07_AC.shp   # 30 per-state files
-  india_assembly.shp                                   # national merge
-parliamentary/
-  S01_PC.shp ... U07_PC.shp                            # 35 per-state files
-  india_parliamentary.shp                              # national merge
-manifest.csv                                           # per-state feature counts
-scripts/standardise.py                                 # the build script (reproducible)
+pre2008/
+  assembly/       S01_AC.shp ... + india_assembly.shp        (national merge)
+  parliamentary/  S01_PC.shp ... + india_parliamentary.shp
+post2008/
+  assembly/       S01_AC.shp ... + india_assembly.shp
+  parliamentary/  S01_PC.shp ... + india_parliamentary.shp
+mappings/
+  ac_pc_pre2008.csv       ac_pc_post2008.csv
+manifest.csv              per-state feature counts, all layers
+scripts/build.py          the full reproducible build
 ```
 
-Each shapefile ships with `.shp/.shx/.dbf/.prj`. CRS is **WGS84 (EPSG:4326)**.
-
-State codes are the standard ECI codes (`S01` = Andhra Pradesh, `S24` = Uttar Pradesh,
-`U05` = Delhi, and so on).
+All shapefiles are **WGS84 (EPSG:4326)** with a `.prj`. State codes are the standard
+ECI codes (`S10` = Karnataka, `S24` = Uttar Pradesh, `U05` = Delhi, ...).
 
 ## Attribute schema
 
-**Assembly** (`*_AC`, `india_assembly`)
+**Assembly** (`*_AC`, `india_assembly`, and the mapping CSVs)
 
 | field | type | description |
 |-------|------|-------------|
-| `ST_CODE` | string | ECI state code (e.g. `S10`) |
+| `ST_CODE` | string | ECI state code |
 | `ST_NAME` | string | State name |
 | `AC_NO`   | int    | Assembly constituency number |
 | `AC_NAME` | string | Assembly constituency name |
-| `AC_TYPE` | string | `GEN` / `SC` / `ST` |
-| `PC_NO`   | int    | Parent Lok Sabha constituency number (null for S28) |
+| `AC_TYPE` | string | `GEN`/`SC`/`ST` (see caveat for post-2008) |
+| `PC_NO`   | int    | Parent Lok Sabha constituency number |
+| `PC_NAME` | string | Parent Lok Sabha constituency name |
 
 **Parliamentary** (`*_PC`, `india_parliamentary`)
 
@@ -52,48 +62,52 @@ State codes are the standard ECI codes (`S01` = Andhra Pradesh, `S24` = Uttar Pr
 | `ST_NAME` | string | State name |
 | `PC_NO`   | int    | Lok Sabha constituency number |
 | `PC_NAME` | string | Lok Sabha constituency name |
-| `PC_TYPE` | string | `GEN` / `SC` / `ST` |
+| `PC_TYPE` | string | `GEN`/`SC`/`ST` |
 
-State/constituency names are kept as they were in the source, so you'll see the
-period-accurate names - **Orissa** (not Odisha), **Uttaranchal** (not Uttarakhand),
-**Pondicherry** (not Puducherry). That's deliberate: this is a pre-2008 dataset.
+Names are era-appropriate: pre-2008 keeps **Orissa / Uttaranchal / Pondicherry**;
+post-2008 uses **Odisha / Uttarakhand / Puducherry** (those states were renamed
+2006-2011).
 
-## Coordinate system - read this
+## Sources and how each layer was built
 
-The **parliamentary** set was already in clean WGS84 lon/lat and is untouched.
+- **pre-2008 assembly** - from a properly georeferenced pre-delimitation AC set
+  (`AC_All_Final`, WGS84), with the parent-PC join already present. Per-state counts
+  match the official pre-2008 totals exactly.
+- **pre-2008 parliamentary** - from the state-wise pre-delimitation PC set (WGS84).
+- **post-2008 assembly** - reconciled from two sources: a 2018 national AC file
+  (`India_AC`) dissolved by `(state, AC_NO)` to collapse multipart polygons, which
+  matches official ECI counts for 27 of 30 states; and the per-state pipeline for
+  **Gujarat, Madhya Pradesh and Sikkim**, where the national file was short.
+- **post-2008 parliamentary** - the 2019 Lok Sabha constituency file (WGS84).
 
-The **assembly** set came with no `.prj` and was in an unknown projected coordinate
-system - every state crammed into a small local grid, and Uttaranchal (S28) was
-offset entirely. To get it into WGS84, each assembly state was aligned to the same
-state's parliamentary (WGS84) bounding box by an axis-aligned affine transform. This
-also fixed the misregistered S28 for free.
+Everything is regenerated by one script - see `scripts/build.py`.
 
-So the assembly georeferencing is **approximate**. It's good to roughly state level -
-plenty accurate for choropleths, overlays, and visualising old results - but it is
-**not survey-grade** and shouldn't be used where you need precise boundary geometry.
-Sub-state offsets of a few km are visible in places (the northwest especially). The
-parliamentary layer does not have this caveat.
+## Caveats - read these
 
-The Andaman & Nicobar and Lakshadweep island UTs appear in the parliamentary layer
-but not the assembly layer (the source assembly set only had Delhi and Pondicherry
-among the UTs).
-
-## Provenance
-
-Derived from a pre-2008 constituency shapefile set (state-wise `AC`/`PC` files,
-built ~2004-05). Standardised here: unified field names, consistent title-cased
-names, WGS84 CRS with `.prj`, garbled legacy Hindi-name and ambiguous party columns
-dropped, and a national merge per layer. See `scripts/standardise.py` for exactly
-what was done - the whole thing is reproducible from the source with one script.
+- **Newest re-delimitations are not included.** Assam was re-delimited in 2023 and
+  Jammu & Kashmir in 2022, but those boundaries aren't in the source data. So the
+  **post-2008 layer carries the older boundaries for these two**: Assam 126 ACs
+  (pre-2023) and J&K 87 ACs (pre-2022). Everything else is current.
+- **Post-2008 `AC_TYPE` is mostly blank.** The 2018 national source carries no
+  reservation field and its names don't flag `(SC)/(ST)`, so `AC_TYPE` is only
+  populated for the three pipeline-sourced states. Pre-2008 `AC_TYPE` is complete.
+- **Post-2008 J&K assembly is missing the far-north Ladakh geometry** (the source
+  clips around 35.3°N). The parliamentary layer covers it.
+- **Gujarat post-2008 has 181 ACs, one short of the official 182** - a gap in the
+  pipeline source.
+- Pre-2008 assembly covers all 4,109 seats; the Rann of Kutch just renders sparse
+  because those constituencies are large and thinly drawn.
+- Island UTs (Andaman & Nicobar, Lakshadweep) appear in the parliamentary layers but
+  not the assembly layers (the assembly sources only had Delhi and Puducherry among UTs).
 
 ## Rebuilding
 
 ```bash
-python3 -m pip install pyshp   # pure-Python, no GDAL needed
-python3 scripts/standardise.py
+python3 -m pip install pyshp    # pure-Python, no GDAL needed
+python3 scripts/build.py
 ```
 
 ## License
 
-Boundary geometry is derived from third-party sources; treat as reference data.
-The standardisation code and documentation here are MIT.
+Boundary geometry is derived from third-party sources; treat as reference data. The
+standardisation code and documentation here are MIT.

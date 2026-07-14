@@ -1,66 +1,132 @@
-st_code,st_name,layer,n_features
-S01,Andhra Pradesh,assembly,294
-S02,Arunachal Pradesh,assembly,60
-S03,Assam,assembly,126
-S04,Bihar,assembly,243
-S05,Goa,assembly,40
-S06,Gujarat,assembly,182
-S07,Haryana,assembly,90
-S08,Himachal Pradesh,assembly,68
-S09,Jammu & Kashmir,assembly,76
-S10,Karnataka,assembly,224
-S11,Kerala,assembly,140
-S12,Madhya Pradesh,assembly,230
-S13,Maharashtra,assembly,288
-S14,Manipur,assembly,60
-S15,Meghalaya,assembly,60
-S16,Mizoram,assembly,40
-S17,Nagaland,assembly,60
-S18,Orissa,assembly,147
-S19,Punjab,assembly,117
-S20,Rajasthan,assembly,200
-S21,Sikkim,assembly,32
-S22,Tamil Nadu,assembly,234
-S23,Tripura,assembly,60
-S24,Uttar Pradesh,assembly,403
-S25,West Bengal,assembly,294
-S26,Chhattisgarh,assembly,90
-S27,Jharkhand,assembly,81
-S28,Uttaranchal,assembly,70
-U05,National Capital Territory Of Delhi,assembly,70
-U07,Pondicherry,assembly,30
-S01,Andhra Pradesh,parliamentary,42
-S02,Arunachal Pradesh,parliamentary,2
-S03,Assam,parliamentary,14
-S04,Bihar,parliamentary,40
-S05,Goa,parliamentary,2
-S06,Gujarat,parliamentary,26
-S07,Haryana,parliamentary,10
-S08,Himachal Pradesh,parliamentary,4
-S09,Jammu & Kashmir,parliamentary,6
-S10,Karnataka,parliamentary,28
-S11,Kerala,parliamentary,20
-S12,Madhya Pradesh,parliamentary,29
-S13,Maharashtra,parliamentary,48
-S14,Manipur,parliamentary,2
-S15,Meghalaya,parliamentary,2
-S16,Mizoram,parliamentary,1
-S17,Nagaland,parliamentary,1
-S18,Orissa,parliamentary,21
-S19,Punjab,parliamentary,13
-S20,Rajasthan,parliamentary,25
-S21,Sikkim,parliamentary,1
-S22,Tamil Nadu,parliamentary,39
-S23,Tripura,parliamentary,2
-S24,Uttar Pradesh,parliamentary,80
-S25,West Bengal,parliamentary,42
-S26,Chhattisgarh,parliamentary,11
-S27,Jharkhand,parliamentary,14
-S28,Uttaranchal,parliamentary,5
-U01,Andaman & Nicobar Islands,parliamentary,1
-U02,Chandigarh,parliamentary,1
-U03,Dadra & Nagar Haveli,parliamentary,1
-U04,Daman & Diu,parliamentary,1
-U05,National Capital Territory Of Delhi,parliamentary,7
-U06,Lakshadweep,parliamentary,1
-U07,Pondicherry,parliamentary,1
+layer,st_code,st_name,n_features
+pre2008/assembly,S01,Andhra Pradesh,294
+pre2008/assembly,S02,Arunachal Pradesh,60
+pre2008/assembly,S03,Assam,126
+pre2008/assembly,S04,Bihar,243
+pre2008/assembly,S05,Goa,40
+pre2008/assembly,S06,Gujarat,182
+pre2008/assembly,S07,Haryana,90
+pre2008/assembly,S08,Himachal Pradesh,68
+pre2008/assembly,S09,Jammu & Kashmir,76
+pre2008/assembly,S10,Karnataka,224
+pre2008/assembly,S11,Kerala,140
+pre2008/assembly,S12,Madhya Pradesh,230
+pre2008/assembly,S13,Maharashtra,288
+pre2008/assembly,S14,Manipur,60
+pre2008/assembly,S15,Meghalaya,60
+pre2008/assembly,S16,Mizoram,40
+pre2008/assembly,S17,Nagaland,60
+pre2008/assembly,S18,Odisha,147
+pre2008/assembly,S19,Punjab,117
+pre2008/assembly,S20,Rajasthan,200
+pre2008/assembly,S21,Sikkim,32
+pre2008/assembly,S22,Tamil Nadu,234
+pre2008/assembly,S23,Tripura,60
+pre2008/assembly,S24,Uttar Pradesh,403
+pre2008/assembly,S25,West Bengal,294
+pre2008/assembly,S26,Chhattisgarh,90
+pre2008/assembly,S27,Jharkhand,81
+pre2008/assembly,S28,Uttarakhand,70
+pre2008/assembly,U05,Delhi,70
+pre2008/assembly,U07,Puducherry,30
+pre2008/parliamentary,S01,Andhra Pradesh,42
+pre2008/parliamentary,S02,Arunachal Pradesh,2
+pre2008/parliamentary,S03,Assam,14
+pre2008/parliamentary,S04,Bihar,40
+pre2008/parliamentary,S05,Goa,2
+pre2008/parliamentary,S06,Gujarat,26
+pre2008/parliamentary,S07,Haryana,10
+pre2008/parliamentary,S08,Himachal Pradesh,4
+pre2008/parliamentary,S09,Jammu & Kashmir,6
+pre2008/parliamentary,S10,Karnataka,28
+pre2008/parliamentary,S11,Kerala,20
+pre2008/parliamentary,S12,Madhya Pradesh,29
+pre2008/parliamentary,S13,Maharashtra,48
+pre2008/parliamentary,S14,Manipur,2
+pre2008/parliamentary,S15,Meghalaya,2
+pre2008/parliamentary,S16,Mizoram,1
+pre2008/parliamentary,S17,Nagaland,1
+pre2008/parliamentary,S18,Odisha,21
+pre2008/parliamentary,S19,Punjab,13
+pre2008/parliamentary,S20,Rajasthan,25
+pre2008/parliamentary,S21,Sikkim,1
+pre2008/parliamentary,S22,Tamil Nadu,39
+pre2008/parliamentary,S23,Tripura,2
+pre2008/parliamentary,S24,Uttar Pradesh,80
+pre2008/parliamentary,S25,West Bengal,42
+pre2008/parliamentary,S26,Chhattisgarh,11
+pre2008/parliamentary,S27,Jharkhand,14
+pre2008/parliamentary,S28,Uttarakhand,5
+pre2008/parliamentary,U01,Andaman & Nicobar Islands,1
+pre2008/parliamentary,U02,Chandigarh,1
+pre2008/parliamentary,U03,Dadra & Nagar Haveli,1
+pre2008/parliamentary,U04,Daman & Diu,1
+pre2008/parliamentary,U05,Delhi,7
+pre2008/parliamentary,U06,Lakshadweep,1
+pre2008/parliamentary,U07,Puducherry,1
+post2008/assembly,S01,Andhra Pradesh,294
+post2008/assembly,S02,Arunachal Pradesh,60
+post2008/assembly,S03,Assam,126
+post2008/assembly,S04,Bihar,243
+post2008/assembly,S05,Goa,40
+post2008/assembly,S06,Gujarat,181
+post2008/assembly,S07,Haryana,90
+post2008/assembly,S08,Himachal Pradesh,68
+post2008/assembly,S09,Jammu & Kashmir,87
+post2008/assembly,S10,Karnataka,224
+post2008/assembly,S11,Kerala,140
+post2008/assembly,S12,Madhya Pradesh,230
+post2008/assembly,S13,Maharashtra,288
+post2008/assembly,S14,Manipur,60
+post2008/assembly,S15,Meghalaya,60
+post2008/assembly,S16,Mizoram,40
+post2008/assembly,S17,Nagaland,60
+post2008/assembly,S18,Odisha,147
+post2008/assembly,S19,Punjab,117
+post2008/assembly,S20,Rajasthan,200
+post2008/assembly,S21,Sikkim,32
+post2008/assembly,S22,Tamil Nadu,234
+post2008/assembly,S23,Tripura,60
+post2008/assembly,S24,Uttar Pradesh,403
+post2008/assembly,S25,West Bengal,294
+post2008/assembly,S26,Chhattisgarh,90
+post2008/assembly,S27,Jharkhand,81
+post2008/assembly,S28,Uttarakhand,70
+post2008/assembly,U05,Delhi,70
+post2008/assembly,U07,Puducherry,30
+post2008/parliamentary,S01,Andhra Pradesh,25
+post2008/parliamentary,S02,Arunachal Pradesh,2
+post2008/parliamentary,S03,Assam,14
+post2008/parliamentary,S04,Bihar,40
+post2008/parliamentary,S05,Goa,2
+post2008/parliamentary,S06,Gujarat,26
+post2008/parliamentary,S07,Haryana,10
+post2008/parliamentary,S08,Himachal Pradesh,4
+post2008/parliamentary,S09,Jammu & Kashmir,6
+post2008/parliamentary,S10,Karnataka,28
+post2008/parliamentary,S11,Kerala,20
+post2008/parliamentary,S12,Madhya Pradesh,29
+post2008/parliamentary,S13,Maharashtra,48
+post2008/parliamentary,S14,Manipur,2
+post2008/parliamentary,S15,Meghalaya,2
+post2008/parliamentary,S16,Mizoram,1
+post2008/parliamentary,S17,Nagaland,1
+post2008/parliamentary,S18,Odisha,21
+post2008/parliamentary,S19,Punjab,13
+post2008/parliamentary,S20,Rajasthan,25
+post2008/parliamentary,S21,Sikkim,1
+post2008/parliamentary,S22,Tamil Nadu,39
+post2008/parliamentary,S23,Tripura,2
+post2008/parliamentary,S24,Uttar Pradesh,80
+post2008/parliamentary,S25,West Bengal,42
+post2008/parliamentary,S26,Chhattisgarh,11
+post2008/parliamentary,S27,Jharkhand,14
+post2008/parliamentary,S28,Uttarakhand,5
+post2008/parliamentary,S29,Telangana,17
+post2008/parliamentary,U01,Andaman & Nicobar Islands,1
+post2008/parliamentary,U02,Chandigarh,1
+post2008/parliamentary,U03,Dadra & Nagar Haveli,1
+post2008/parliamentary,U04,Daman & Diu,1
+post2008/parliamentary,U05,Delhi,7
+post2008/parliamentary,U06,Lakshadweep,1
+post2008/parliamentary,U07,Puducherry,1

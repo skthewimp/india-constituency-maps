@@ -1,0 +1,4110 @@
+st_code,st_name,ac_no,ac_name,ac_type,pc_no,pc_name
+S01,Andhra Pradesh,1,Ichapuram,GEN,1,Srikakulam
+S01,Andhra Pradesh,2,Sompeta,GEN,1,Srikakulam
+S01,Andhra Pradesh,3,Tekkali,GEN,1,Srikakulam
+S01,Andhra Pradesh,4,Harishchandra,GEN,1,Srikakulam
+S01,Andhra Pradesh,5,Narasannapeta,GEN,1,Srikakulam
+S01,Andhra Pradesh,6,Patapatnam,GEN,1,Srikakulam
+S01,Andhra Pradesh,7,Kothuru,ST,2,Parvathipuram
+S01,Andhra Pradesh,8,Naguru,ST,2,Parvathipuram
+S01,Andhra Pradesh,9,Parvathipuram,GEN,3,Bobbili
+S01,Andhra Pradesh,10,Salur,ST,4,Visakhapatnam
+S01,Andhra Pradesh,11,Bobbili,GEN,3,Bobbili
+S01,Andhra Pradesh,12,Therlam,GEN,3,Bobbili
+S01,Andhra Pradesh,13,Vunukuru,GEN,2,Parvathipuram
+S01,Andhra Pradesh,14,Palakonda,SC,2,Parvathipuram
+S01,Andhra Pradesh,15,Amadalavalasa,GEN,1,Srikakulam
+S01,Andhra Pradesh,16,Srikakulam,GEN,1,Srikakulam
+S01,Andhra Pradesh,17,Etcherla,SC,3,Bobbili
+S01,Andhra Pradesh,18,Cheepurupalli,GEN,3,Bobbili
+S01,Andhra Pradesh,19,Gajapathinagaram,GEN,3,Bobbili
+S01,Andhra Pradesh,20,Vizianagaram,GEN,4,Visakhapatnam
+S01,Andhra Pradesh,21,Sathivada,GEN,3,Bobbili
+S01,Andhra Pradesh,22,Bhogapuram,GEN,4,Visakhapatnam
+S01,Andhra Pradesh,23,Bheemunipatnam,GEN,4,Visakhapatnam
+S01,Andhra Pradesh,24,Visakhapatnam-I,GEN,4,Visakhapatnam
+S01,Andhra Pradesh,25,Visakhapatnam-II,GEN,0,
+S01,Andhra Pradesh,26,Pendurthi,GEN,4,Visakhapatnam
+S01,Andhra Pradesh,27,Uttarapalli,GEN,4,Visakhapatnam
+S01,Andhra Pradesh,28,Srungavarapukota,ST,4,Visakhapatnam
+S01,Andhra Pradesh,29,Paderu,ST,5,Bhadrachalam
+S01,Andhra Pradesh,30,Madugula,GEN,6,Anakapalli
+S01,Andhra Pradesh,31,Chodavaram,GEN,6,Anakapalli
+S01,Andhra Pradesh,32,Anakapalli,GEN,6,Anakapalli
+S01,Andhra Pradesh,33,Paravada,GEN,6,Anakapalli
+S01,Andhra Pradesh,34,Elamanchili,GEN,6,Anakapalli
+S01,Andhra Pradesh,35,Payakaraopeta,SC,6,Anakapalli
+S01,Andhra Pradesh,36,Narsipatnam,GEN,6,Anakapalli
+S01,Andhra Pradesh,37,Chintapalli,ST,5,Bhadrachalam
+S01,Andhra Pradesh,38,Yellavaram,ST,5,Bhadrachalam
+S01,Andhra Pradesh,39,Burugupudi,GEN,8,Rajahmundry
+S01,Andhra Pradesh,40,Rajahmundry,GEN,8,Rajahmundry
+S01,Andhra Pradesh,41,Kadiam,GEN,8,Rajahmundry
+S01,Andhra Pradesh,42,Jaggampeta,GEN,7,Kakinada
+S01,Andhra Pradesh,43,Peddapuram,GEN,7,Kakinada
+S01,Andhra Pradesh,44,Prathipadu,GEN,7,Kakinada
+S01,Andhra Pradesh,45,Tuni,GEN,7,Kakinada
+S01,Andhra Pradesh,46,Pithapuram,GEN,7,Kakinada
+S01,Andhra Pradesh,47,Sampara,GEN,7,Kakinada
+S01,Andhra Pradesh,48,Kakinada,GEN,9,Amalapuram
+S01,Andhra Pradesh,49,Tallarevu,GEN,9,Amalapuram
+S01,Andhra Pradesh,50,Anaparthy,GEN,8,Rajahmundry
+S01,Andhra Pradesh,51,Ramachandrapuram,GEN,8,Rajahmundry
+S01,Andhra Pradesh,52,Alamuru,GEN,8,Rajahmundry
+S01,Andhra Pradesh,53,Mummidivaram,SC,9,Amalapuram
+S01,Andhra Pradesh,54,Allavaram,SC,9,Amalapuram
+S01,Andhra Pradesh,55,Amalapuram,GEN,9,Amalapuram
+S01,Andhra Pradesh,56,Kothapeta,GEN,9,Amalapuram
+S01,Andhra Pradesh,57,Nagaram,SC,9,Amalapuram
+S01,Andhra Pradesh,58,Razole,GEN,9,Amalapuram
+S01,Andhra Pradesh,59,Narasapur,GEN,10,Narasapur
+S01,Andhra Pradesh,60,Palacole,GEN,10,Narasapur
+S01,Andhra Pradesh,61,Achanta,SC,10,Narasapur
+S01,Andhra Pradesh,62,Bhimavaram,GEN,10,Narasapur
+S01,Andhra Pradesh,63,Undi,GEN,10,Narasapur
+S01,Andhra Pradesh,64,Penugonda,GEN,10,Narasapur
+S01,Andhra Pradesh,65,Tanuku,GEN,11,Eluru
+S01,Andhra Pradesh,66,Attili,GEN,10,Narasapur
+S01,Andhra Pradesh,67,Tadepalligudem,GEN,11,Eluru
+S01,Andhra Pradesh,68,Ungutur,GEN,11,Eluru
+S01,Andhra Pradesh,69,Dendulur,GEN,11,Eluru
+S01,Andhra Pradesh,70,Eluru,GEN,11,Eluru
+S01,Andhra Pradesh,71,Gopalpuram,SC,5,Bhadrachalam
+S01,Andhra Pradesh,72,Kovvur,GEN,5,Bhadrachalam
+S01,Andhra Pradesh,73,Polavaram,ST,5,Bhadrachalam
+S01,Andhra Pradesh,74,Chintalapudi,GEN,11,Eluru
+S01,Andhra Pradesh,75,Jaggayyapet,GEN,13,Vijayawada
+S01,Andhra Pradesh,76,Nandigama,GEN,13,Vijayawada
+S01,Andhra Pradesh,77,Vijayawada West,GEN,13,Vijayawada
+S01,Andhra Pradesh,78,Vijayawada East,GEN,13,Vijayawada
+S01,Andhra Pradesh,79,Kankipadu,GEN,13,Vijayawada
+S01,Andhra Pradesh,80,Mylavaram,GEN,13,Vijayawada
+S01,Andhra Pradesh,81,Tiruvuru,SC,13,Vijayawada
+S01,Andhra Pradesh,82,Nuzvid,GEN,12,Machilipatnam
+S01,Andhra Pradesh,83,Gannavaram,GEN,12,Machilipatnam
+S01,Andhra Pradesh,84,Vuyyur,GEN,12,Machilipatnam
+S01,Andhra Pradesh,85,Gudivada,GEN,12,Machilipatnam
+S01,Andhra Pradesh,86,Mudinepalli,GEN,12,Machilipatnam
+S01,Andhra Pradesh,87,Kaikalur,GEN,11,Eluru
+S01,Andhra Pradesh,88,Malleswaram,GEN,12,Machilipatnam
+S01,Andhra Pradesh,89,Bandar,GEN,12,Machilipatnam
+S01,Andhra Pradesh,90,Nidumolu,SC,14,Tenali
+S01,Andhra Pradesh,91,Avanigadda,GEN,16,Bapatla
+S01,Andhra Pradesh,92,Kuchinapudi,GEN,16,Bapatla
+S01,Andhra Pradesh,93,Repalle,GEN,14,Tenali
+S01,Andhra Pradesh,94,Vemur,GEN,14,Tenali
+S01,Andhra Pradesh,95,Duggirala,GEN,14,Tenali
+S01,Andhra Pradesh,96,Tenali,GEN,14,Tenali
+S01,Andhra Pradesh,97,Ponnur,GEN,16,Bapatla
+S01,Andhra Pradesh,98,Bapatla,GEN,16,Bapatla
+S01,Andhra Pradesh,99,Prathipad,GEN,15,Guntur
+S01,Andhra Pradesh,100,Guntur-I,GEN,15,Guntur
+S01,Andhra Pradesh,101,Guntur-II,GEN,15,Guntur
+S01,Andhra Pradesh,102,Mangalagiri,GEN,14,Tenali
+S01,Andhra Pradesh,103,Tadikonda,SC,15,Guntur
+S01,Andhra Pradesh,104,Sattenapalli,GEN,15,Guntur
+S01,Andhra Pradesh,105,Peddakurapadu,GEN,15,Guntur
+S01,Andhra Pradesh,106,Gurzala,GEN,17,Narasaraopet
+S01,Andhra Pradesh,107,Macherla,GEN,17,Narasaraopet
+S01,Andhra Pradesh,108,Vinukonda,GEN,17,Narasaraopet
+S01,Andhra Pradesh,109,Narasaraopet,GEN,17,Narasaraopet
+S01,Andhra Pradesh,110,Chilakaluripet,GEN,15,Guntur
+S01,Andhra Pradesh,111,Chirala,GEN,16,Bapatla
+S01,Andhra Pradesh,112,Parchur,GEN,16,Bapatla
+S01,Andhra Pradesh,113,Martur,GEN,16,Bapatla
+S01,Andhra Pradesh,114,Addanki,GEN,16,Bapatla
+S01,Andhra Pradesh,115,Ongole,GEN,18,Ongole
+S01,Andhra Pradesh,116,Santhanuthalapadu,SC,18,Ongole
+S01,Andhra Pradesh,117,Kandukur,GEN,18,Ongole
+S01,Andhra Pradesh,118,Kanigiri,GEN,18,Ongole
+S01,Andhra Pradesh,119,Kondepi,GEN,18,Ongole
+S01,Andhra Pradesh,120,Cumbum,GEN,17,Narasaraopet
+S01,Andhra Pradesh,121,Darsi,GEN,17,Narasaraopet
+S01,Andhra Pradesh,122,Markapur,GEN,17,Narasaraopet
+S01,Andhra Pradesh,123,Giddalur,GEN,27,Nandyal
+S01,Andhra Pradesh,124,Udayagiri,GEN,18,Ongole
+S01,Andhra Pradesh,125,Kavali,GEN,18,Ongole
+S01,Andhra Pradesh,126,Allur,GEN,19,Nellore
+S01,Andhra Pradesh,127,Kovur,GEN,19,Nellore
+S01,Andhra Pradesh,128,Atmakur,GEN,19,Nellore
+S01,Andhra Pradesh,129,Rapur,GEN,19,Nellore
+S01,Andhra Pradesh,130,Nellore,GEN,19,Nellore
+S01,Andhra Pradesh,131,Sarvepalli,GEN,19,Nellore
+S01,Andhra Pradesh,132,Gudur,SC,20,Tirupathi
+S01,Andhra Pradesh,133,Sulurpet,SC,20,Tirupathi
+S01,Andhra Pradesh,134,Venkatagiri,GEN,20,Tirupathi
+S01,Andhra Pradesh,135,Sri Kalahasti,GEN,20,Tirupathi
+S01,Andhra Pradesh,136,Satyavedu,SC,20,Tirupathi
+S01,Andhra Pradesh,137,Nagari,GEN,20,Tirupathi
+S01,Andhra Pradesh,138,Puttur,GEN,20,Tirupathi
+S01,Andhra Pradesh,139,Vepanjeri,SC,21,Chittoor
+S01,Andhra Pradesh,140,Chittoor,GEN,21,Chittoor
+S01,Andhra Pradesh,141,Palmaner,SC,21,Chittoor
+S01,Andhra Pradesh,142,Kuppam,GEN,21,Chittoor
+S01,Andhra Pradesh,143,Punganur,GEN,21,Chittoor
+S01,Andhra Pradesh,144,Madanpalle,GEN,22,Rajampet
+S01,Andhra Pradesh,145,Thamballapalle,GEN,22,Rajampet
+S01,Andhra Pradesh,146,Vayalpad,GEN,22,Rajampet
+S01,Andhra Pradesh,147,Pileru,GEN,21,Chittoor
+S01,Andhra Pradesh,148,Chandragiri,GEN,21,Chittoor
+S01,Andhra Pradesh,149,Tirupathi,GEN,20,Tirupathi
+S01,Andhra Pradesh,150,Kodur,SC,22,Rajampet
+S01,Andhra Pradesh,151,Rajampet,GEN,22,Rajampet
+S01,Andhra Pradesh,152,Rayachoty,GEN,22,Rajampet
+S01,Andhra Pradesh,153,Lakkireddipalli,GEN,22,Rajampet
+S01,Andhra Pradesh,154,Cuddapah,GEN,23,Cuddapah
+S01,Andhra Pradesh,155,Badvel,GEN,23,Cuddapah
+S01,Andhra Pradesh,156,Mydukur,GEN,23,Cuddapah
+S01,Andhra Pradesh,157,Proddatur,GEN,23,Cuddapah
+S01,Andhra Pradesh,158,Jammalamadugu,GEN,23,Cuddapah
+S01,Andhra Pradesh,159,Kamalapuram,GEN,23,Cuddapah
+S01,Andhra Pradesh,160,Pulivendla,GEN,23,Cuddapah
+S01,Andhra Pradesh,161,Kadiri,GEN,24,Hindupur
+S01,Andhra Pradesh,162,Nallamada,GEN,24,Hindupur
+S01,Andhra Pradesh,163,Gorantla,GEN,24,Hindupur
+S01,Andhra Pradesh,164,Hindupur,GEN,24,Hindupur
+S01,Andhra Pradesh,165,Madakasira,GEN,24,Hindupur
+S01,Andhra Pradesh,166,Penukonda,GEN,24,Hindupur
+S01,Andhra Pradesh,167,Kalyandrug,SC,25,Anantapur
+S01,Andhra Pradesh,168,Rayadrug,GEN,25,Anantapur
+S01,Andhra Pradesh,169,Uravakonda,GEN,25,Anantapur
+S01,Andhra Pradesh,170,Gooty,GEN,25,Anantapur
+S01,Andhra Pradesh,171,Singanamala,SC,25,Anantapur
+S01,Andhra Pradesh,172,Anantapur,GEN,25,Anantapur
+S01,Andhra Pradesh,173,Dhamavaram,GEN,24,Hindupur
+S01,Andhra Pradesh,174,Tadpatri,GEN,25,Anantapur
+S01,Andhra Pradesh,175,Alur,SC,26,Kurnool
+S01,Andhra Pradesh,176,Adoni,GEN,26,Kurnool
+S01,Andhra Pradesh,177,Yemmiganur,GEN,26,Kurnool
+S01,Andhra Pradesh,178,Kodumur,SC,26,Kurnool
+S01,Andhra Pradesh,179,Kurnool,GEN,26,Kurnool
+S01,Andhra Pradesh,180,Pattikonda,GEN,26,Kurnool
+S01,Andhra Pradesh,181,Dhone,GEN,26,Kurnool
+S01,Andhra Pradesh,182,Koilkuntla,GEN,27,Nandyal
+S01,Andhra Pradesh,183,Allagadda,GEN,27,Nandyal
+S01,Andhra Pradesh,184,Panyam,GEN,27,Nandyal
+S01,Andhra Pradesh,185,Nandikotkur,GEN,27,Nandyal
+S01,Andhra Pradesh,186,Nandyal,GEN,27,Nandyal
+S01,Andhra Pradesh,187,Atmakur,GEN,27,Nandyal
+S01,Andhra Pradesh,188,Achampet,SC,28,Nagarkurnool
+S01,Andhra Pradesh,189,Nagarkurnool,GEN,28,Nagarkurnool
+S01,Andhra Pradesh,190,Kalwakurthi,GEN,28,Nagarkurnool
+S01,Andhra Pradesh,191,Shadnagar,SC,28,Nagarkurnool
+S01,Andhra Pradesh,192,Jadcherla,GEN,28,Nagarkurnool
+S01,Andhra Pradesh,193,Mahbubnagar,GEN,29,Mahabubnagar
+S01,Andhra Pradesh,194,Wanaparthy,GEN,29,Mahabubnagar
+S01,Andhra Pradesh,195,Kollapur,GEN,28,Nagarkurnool
+S01,Andhra Pradesh,196,Alampur,GEN,29,Mahabubnagar
+S01,Andhra Pradesh,197,Gadwal,GEN,29,Mahabubnagar
+S01,Andhra Pradesh,198,Amarchinta,GEN,29,Mahabubnagar
+S01,Andhra Pradesh,199,Makthal,GEN,29,Mahabubnagar
+S01,Andhra Pradesh,200,Kodangal,GEN,29,Mahabubnagar
+S01,Andhra Pradesh,201,Tandur,GEN,30,Hyderabad
+S01,Andhra Pradesh,202,Vicarabad,SC,30,Hyderabad
+S01,Andhra Pradesh,203,Pargi,GEN,28,Nagarkurnool
+S01,Andhra Pradesh,204,Chevella,GEN,30,Hyderabad
+S01,Andhra Pradesh,205,Ibrahimpatnam,SC,41,Nalgonda
+S01,Andhra Pradesh,206,Musheerabad,GEN,31,Secunderabad
+S01,Andhra Pradesh,207,Himayatnagar,GEN,31,Secunderabad
+S01,Andhra Pradesh,208,Sanathnagar,GEN,31,Secunderabad
+S01,Andhra Pradesh,209,Secunderabad,GEN,31,Secunderabad
+S01,Andhra Pradesh,210,Khairatabad,GEN,30,Hyderabad
+S01,Andhra Pradesh,211,Secunderabad Cantonment,SC,31,Secunderabad
+S01,Andhra Pradesh,212,Malakpet,GEN,41,Nalgonda
+S01,Andhra Pradesh,213,Asafnagar,GEN,30,Hyderabad
+S01,Andhra Pradesh,214,Maharajgunj,GEN,30,Hyderabad
+S01,Andhra Pradesh,215,Karwan,GEN,30,Hyderabad
+S01,Andhra Pradesh,216,Yakutpura,GEN,30,Hyderabad
+S01,Andhra Pradesh,217,Chandrayangutta,GEN,41,Nalgonda
+S01,Andhra Pradesh,218,Charminar,GEN,30,Hyderabad
+S01,Andhra Pradesh,219,Medchal,GEN,31,Secunderabad
+S01,Andhra Pradesh,220,Siddipet,GEN,32,Siddipet
+S01,Andhra Pradesh,221,Dommat,GEN,32,Siddipet
+S01,Andhra Pradesh,222,Gajwel,SC,32,Siddipet
+S01,Andhra Pradesh,223,Narsapur,GEN,32,Siddipet
+S01,Andhra Pradesh,224,Sangareddy,GEN,30,Hyderabad
+S01,Andhra Pradesh,225,Zahirabad,GEN,33,Medak
+S01,Andhra Pradesh,226,Narayankhed,GEN,33,Medak
+S01,Andhra Pradesh,227,Medak,GEN,33,Medak
+S01,Andhra Pradesh,228,Ramayampet,GEN,32,Siddipet
+S01,Andhra Pradesh,229,Andole,SC,33,Medak
+S01,Andhra Pradesh,230,Balkonda,GEN,34,Nizamabad
+S01,Andhra Pradesh,231,Armoor,GEN,34,Nizamabad
+S01,Andhra Pradesh,232,Kamareddy,GEN,33,Medak
+S01,Andhra Pradesh,233,Yellareddy,GEN,33,Medak
+S01,Andhra Pradesh,234,Jukkal,SC,34,Nizamabad
+S01,Andhra Pradesh,235,Banswada,GEN,34,Nizamabad
+S01,Andhra Pradesh,236,Bodhan,GEN,34,Nizamabad
+S01,Andhra Pradesh,237,Nizamabad,GEN,34,Nizamabad
+S01,Andhra Pradesh,238,Dichpalli,GEN,34,Nizamabad
+S01,Andhra Pradesh,239,Mudhole,GEN,35,Adilabad
+S01,Andhra Pradesh,240,Nirmal,GEN,35,Adilabad
+S01,Andhra Pradesh,241,Boath,ST,35,Adilabad
+S01,Andhra Pradesh,242,Adilabad,GEN,35,Adilabad
+S01,Andhra Pradesh,243,Khanapur,ST,35,Adilabad
+S01,Andhra Pradesh,244,Asifabad,SC,35,Adilabad
+S01,Andhra Pradesh,245,Luxettipet,GEN,36,Peddapalli
+S01,Andhra Pradesh,246,Sirpur,GEN,35,Adilabad
+S01,Andhra Pradesh,247,Chinnur,SC,36,Peddapalli
+S01,Andhra Pradesh,248,Manthani,GEN,36,Peddapalli
+S01,Andhra Pradesh,249,Peddapalli,GEN,36,Peddapalli
+S01,Andhra Pradesh,250,Mydaram,SC,36,Peddapalli
+S01,Andhra Pradesh,251,Huzurabad,GEN,36,Peddapalli
+S01,Andhra Pradesh,252,Kamalapur,GEN,38,Hanamkonda
+S01,Andhra Pradesh,253,Indurthi,GEN,36,Peddapalli
+S01,Andhra Pradesh,254,Karimnagar,GEN,36,Peddapalli
+S01,Andhra Pradesh,255,Choppadandi,GEN,37,Karimnagar
+S01,Andhra Pradesh,256,Jagtial,GEN,37,Karimnagar
+S01,Andhra Pradesh,257,Buggaram,GEN,37,Karimnagar
+S01,Andhra Pradesh,258,Metpalli,GEN,37,Karimnagar
+S01,Andhra Pradesh,259,Sircilla,GEN,37,Karimnagar
+S01,Andhra Pradesh,260,Nerella,SC,37,Karimnagar
+S01,Andhra Pradesh,261,Cheriyal,GEN,38,Hanamkonda
+S01,Andhra Pradesh,262,Jangaon,GEN,38,Hanamkonda
+S01,Andhra Pradesh,263,Chennur,GEN,42,Miryalguda
+S01,Andhra Pradesh,264,Dornakal,GEN,40,Khammam
+S01,Andhra Pradesh,265,Mahbubabad,GEN,39,Warangal
+S01,Andhra Pradesh,266,Narsampet,GEN,39,Warangal
+S01,Andhra Pradesh,267,Wardhannapet,GEN,39,Warangal
+S01,Andhra Pradesh,268,Ghanpur,SC,38,Hanamkonda
+S01,Andhra Pradesh,269,Warangal,GEN,39,Warangal
+S01,Andhra Pradesh,270,Hanamkonda,GEN,38,Hanamkonda
+S01,Andhra Pradesh,271,Shyampet,GEN,38,Hanamkonda
+S01,Andhra Pradesh,272,Parkal,SC,38,Hanamkonda
+S01,Andhra Pradesh,273,Mulug,ST,39,Warangal
+S01,Andhra Pradesh,274,Bhadrachalam,ST,9,Bastar
+S01,Andhra Pradesh,275,Burgampahad,ST,5,Bhadrachalam
+S01,Andhra Pradesh,276,Kothagudem,GEN,40,Khammam
+S01,Andhra Pradesh,277,Sathupalli,GEN,40,Khammam
+S01,Andhra Pradesh,278,Madhira,GEN,13,Vijayawada
+S01,Andhra Pradesh,279,Palair,SC,40,Khammam
+S01,Andhra Pradesh,280,Khammam,GEN,40,Khammam
+S01,Andhra Pradesh,281,Shujatnagar,GEN,40,Khammam
+S01,Andhra Pradesh,282,Yellandu,ST,40,Khammam
+S01,Andhra Pradesh,283,Tungaturthi,GEN,42,Miryalguda
+S01,Andhra Pradesh,284,Suryapet,SC,42,Miryalguda
+S01,Andhra Pradesh,285,Kodad,GEN,42,Miryalguda
+S01,Andhra Pradesh,286,Miryalguda,GEN,42,Miryalguda
+S01,Andhra Pradesh,287,Chalakurthi,GEN,42,Miryalguda
+S01,Andhra Pradesh,288,Nakrekal,GEN,42,Miryalguda
+S01,Andhra Pradesh,289,Nalgonda,GEN,41,Nalgonda
+S01,Andhra Pradesh,290,Ramannapet,GEN,42,Miryalguda
+S01,Andhra Pradesh,291,Alair,SC,41,Nalgonda
+S01,Andhra Pradesh,292,Bhongir,GEN,41,Nalgonda
+S01,Andhra Pradesh,293,Mungode,GEN,41,Nalgonda
+S01,Andhra Pradesh,294,Deverkonda,ST,41,Nalgonda
+S02,Arunachal Pradesh,1,Lumla,ST,1,Arunachal West
+S02,Arunachal Pradesh,2,Tawang,ST,1,Arunachal West
+S02,Arunachal Pradesh,3,Mukto,ST,1,Arunachal West
+S02,Arunachal Pradesh,4,Dirang,ST,1,Arunachal West
+S02,Arunachal Pradesh,5,Kalaktang,ST,1,Arunachal West
+S02,Arunachal Pradesh,6,Thrizino-Buragaon,ST,1,Arunachal West
+S02,Arunachal Pradesh,7,Bomdila,ST,1,Arunachal West
+S02,Arunachal Pradesh,8,Bameng,ST,1,Arunachal West
+S02,Arunachal Pradesh,9,Chayangtajo,ST,1,Arunachal West
+S02,Arunachal Pradesh,10,Seppa East,ST,1,Arunachal West
+S02,Arunachal Pradesh,11,Seppa West,ST,1,Arunachal West
+S02,Arunachal Pradesh,12,Pakke-Kasang,ST,1,Arunachal West
+S02,Arunachal Pradesh,13,Itanagar,ST,1,Arunachal West
+S02,Arunachal Pradesh,14,Doimukh,ST,1,Arunachal West
+S02,Arunachal Pradesh,15,Sagalee,ST,1,Arunachal West
+S02,Arunachal Pradesh,16,Yachuli,ST,1,Arunachal West
+S02,Arunachal Pradesh,17,Ziro-Hapoli,ST,1,Arunachal West
+S02,Arunachal Pradesh,18,Palin,ST,1,Arunachal West
+S02,Arunachal Pradesh,19,Nyapin,ST,1,Arunachal West
+S02,Arunachal Pradesh,20,Tali,ST,1,Arunachal West
+S02,Arunachal Pradesh,21,Koloriang,ST,1,Arunachal West
+S02,Arunachal Pradesh,22,Nacho,ST,1,Arunachal West
+S02,Arunachal Pradesh,23,Taliha,ST,1,Arunachal West
+S02,Arunachal Pradesh,24,Daporijo,ST,1,Arunachal West
+S02,Arunachal Pradesh,25,Raga,ST,1,Arunachal West
+S02,Arunachal Pradesh,26,Damporijo,ST,1,Arunachal West
+S02,Arunachal Pradesh,27,Liromoba,ST,1,Arunachal West
+S02,Arunachal Pradesh,28,Likabali,ST,1,Arunachal West
+S02,Arunachal Pradesh,29,Basar,ST,1,Arunachal West
+S02,Arunachal Pradesh,30,Along West,ST,1,Arunachal West
+S02,Arunachal Pradesh,31,Along East,ST,1,Arunachal West
+S02,Arunachal Pradesh,32,Rumgong,ST,1,Arunachal West
+S02,Arunachal Pradesh,33,Mechuka,ST,1,Arunachal West
+S02,Arunachal Pradesh,34,Tuting-Yinkgkiong,ST,2,Arunachal East
+S02,Arunachal Pradesh,35,Pangin,ST,2,Arunachal East
+S02,Arunachal Pradesh,36,Nari-Koyu,ST,2,Arunachal East
+S02,Arunachal Pradesh,37,Pasighat West,ST,2,Arunachal East
+S02,Arunachal Pradesh,38,Pasighat East,ST,2,Arunachal East
+S02,Arunachal Pradesh,39,Mebo,ST,2,Arunachal East
+S02,Arunachal Pradesh,40,Mariyang-Geku,ST,2,Arunachal East
+S02,Arunachal Pradesh,41,Anini,ST,2,Arunachal East
+S02,Arunachal Pradesh,42,Dambuk,ST,2,Arunachal East
+S02,Arunachal Pradesh,43,Roing,ST,2,Arunachal East
+S02,Arunachal Pradesh,44,Tezu,ST,2,Arunachal East
+S02,Arunachal Pradesh,45,Hauyuliang,ST,2,Arunachal East
+S02,Arunachal Pradesh,46,Chowkham,ST,2,Arunachal East
+S02,Arunachal Pradesh,47,Namsai,ST,2,Arunachal East
+S02,Arunachal Pradesh,48,Lekang,ST,2,Arunachal East
+S02,Arunachal Pradesh,49,Bordumsa-Diyum,GEN,2,Arunachal East
+S02,Arunachal Pradesh,50,Miao,ST,2,Arunachal East
+S02,Arunachal Pradesh,51,Nampong,ST,2,Arunachal East
+S02,Arunachal Pradesh,52,Changlang South,ST,2,Arunachal East
+S02,Arunachal Pradesh,53,Changlang North,ST,2,Arunachal East
+S02,Arunachal Pradesh,54,Namsang,ST,2,Arunachal East
+S02,Arunachal Pradesh,55,Khonsa East,ST,2,Arunachal East
+S02,Arunachal Pradesh,56,Khonsa West,ST,2,Arunachal East
+S02,Arunachal Pradesh,57,Borduria- Bagapani,ST,2,Arunachal East
+S02,Arunachal Pradesh,58,Kanubari,ST,2,Arunachal East
+S02,Arunachal Pradesh,59,Longding-Pumao,ST,2,Arunachal East
+S02,Arunachal Pradesh,60,Pongchou-Wakka,ST,2,Arunachal East
+S03,Assam,1,Ratabari,SC,1,Karimganj
+S03,Assam,2,Patharkandi,GEN,1,Karimganj
+S03,Assam,3,Karimganj North,GEN,1,Karimganj
+S03,Assam,4,Karimganj South,GEN,1,Karimganj
+S03,Assam,5,Badarpur,GEN,1,Karimganj
+S03,Assam,6,Hailakandi,GEN,1,Karimganj
+S03,Assam,7,Katlicherra,GEN,1,Karimganj
+S03,Assam,8,Algapur,GEN,1,Karimganj
+S03,Assam,9,Silchar,GEN,2,Silchar
+S03,Assam,10,Sonai,GEN,2,Silchar
+S03,Assam,11,Dholai,SC,2,Silchar
+S03,Assam,12,Udharbond,GEN,2,Silchar
+S03,Assam,13,Lakhipur,GEN,2,Silchar
+S03,Assam,14,Barkhola,GEN,2,Silchar
+S03,Assam,15,Katigora,GEN,2,Silchar
+S03,Assam,16,Haflong,ST,3,Autonomous District
+S03,Assam,17,Bokajan,ST,3,Autonomous District
+S03,Assam,18,Howraghat,ST,3,Autonomous District
+S03,Assam,19,Diphu,ST,3,Autonomous District
+S03,Assam,20,Baithalangso,ST,3,Autonomous District
+S03,Assam,21,Mankachar,GEN,4,Dhubri
+S03,Assam,22,Salmara South,GEN,4,Dhubri
+S03,Assam,23,Dhubri,GEN,4,Dhubri
+S03,Assam,24,Gauripur,GEN,4,Dhubri
+S03,Assam,25,Golakganj,GEN,4,Dhubri
+S03,Assam,26,Bilasipara West,GEN,4,Dhubri
+S03,Assam,27,Bilasipara East,GEN,4,Dhubri
+S03,Assam,28,Gossaigaon,GEN,5,Kokrajhar
+S03,Assam,29,Kokrajhar West,ST,5,Kokrajhar
+S03,Assam,30,Kokrajhar East,ST,5,Kokrajhar
+S03,Assam,31,Sidli,ST,5,Kokrajhar
+S03,Assam,32,Bongaigaon,GEN,6,Barpeta
+S03,Assam,33,Bijni,GEN,5,Kokrajhar
+S03,Assam,34,Abhayapuri North,GEN,6,Barpeta
+S03,Assam,35,Abhayapuri South,SC,6,Barpeta
+S03,Assam,36,Dudhnai,ST,7,Gauhati
+S03,Assam,37,Goalpara East,GEN,4,Dhubri
+S03,Assam,38,Goalpara West,GEN,4,Dhubri
+S03,Assam,39,Jaleswar,GEN,4,Dhubri
+S03,Assam,40,Sorbhog,GEN,5,Kokrajhar
+S03,Assam,41,Bhabanipur,GEN,5,Kokrajhar
+S03,Assam,42,Patacharkuchi,GEN,6,Barpeta
+S03,Assam,43,Barpeta,GEN,6,Barpeta
+S03,Assam,44,Jania,GEN,6,Barpeta
+S03,Assam,45,Baghbar,GEN,6,Barpeta
+S03,Assam,46,Sarukhetri,GEN,6,Barpeta
+S03,Assam,47,Chenga,GEN,6,Barpeta
+S03,Assam,48,Boko,SC,7,Gauhati
+S03,Assam,49,Chaygaon,GEN,7,Gauhati
+S03,Assam,50,Palasbari,GEN,7,Gauhati
+S03,Assam,51,Jalukbari,GEN,7,Gauhati
+S03,Assam,52,Dispur,GEN,7,Gauhati
+S03,Assam,53,Gauhati East,GEN,7,Gauhati
+S03,Assam,54,Gauhati West,GEN,7,Gauhati
+S03,Assam,55,Hajo,GEN,7,Gauhati
+S03,Assam,56,Kamalpur,GEN,8,Mangaldoi
+S03,Assam,57,Rangiya,GEN,8,Mangaldoi
+S03,Assam,58,Tamulpur,GEN,5,Kokrajhar
+S03,Assam,59,Nalbari,GEN,8,Mangaldoi
+S03,Assam,60,Barkhetry,GEN,7,Gauhati
+S03,Assam,61,Dharmapur,GEN,6,Barpeta
+S03,Assam,62,Barama,ST,5,Kokrajhar
+S03,Assam,63,Chapaguri,ST,5,Kokrajhar
+S03,Assam,64,Panery,GEN,8,Mangaldoi
+S03,Assam,65,Kalaigaon,GEN,8,Mangaldoi
+S03,Assam,66,Sipajhar,GEN,8,Mangaldoi
+S03,Assam,67,Mangaldoi,SC,8,Mangaldoi
+S03,Assam,68,Dalgaon,GEN,8,Mangaldoi
+S03,Assam,69,Udalguri,ST,8,Mangaldoi
+S03,Assam,70,Majbat,GEN,8,Mangaldoi
+S03,Assam,71,Dhekiajuli,GEN,9,Tezpur
+S03,Assam,72,Barchalla,GEN,9,Tezpur
+S03,Assam,73,Tezpur,GEN,9,Tezpur
+S03,Assam,74,Rangapara,GEN,9,Tezpur
+S03,Assam,75,Sootea,GEN,9,Tezpur
+S03,Assam,76,Biswanath,GEN,9,Tezpur
+S03,Assam,77,Behali,GEN,9,Tezpur
+S03,Assam,78,Gohpur,GEN,9,Tezpur
+S03,Assam,79,Jagiroad,SC,10,Nowgong
+S03,Assam,80,Marigaon,GEN,10,Nowgong
+S03,Assam,81,Laharighat,GEN,10,Nowgong
+S03,Assam,82,Raha,SC,10,Nowgong
+S03,Assam,83,Dhing,GEN,11,Kaliabor
+S03,Assam,84,Batadroba,GEN,11,Kaliabor
+S03,Assam,85,Rupohihat,GEN,11,Kaliabor
+S03,Assam,86,Nowgong,GEN,10,Nowgong
+S03,Assam,87,Barhampur,GEN,10,Nowgong
+S03,Assam,88,Samaguri,GEN,11,Kaliabor
+S03,Assam,89,Kaliabor,GEN,11,Kaliabor
+S03,Assam,90,Jamunamukh,GEN,10,Nowgong
+S03,Assam,91,Hojai,GEN,10,Nowgong
+S03,Assam,92,Lumding,GEN,10,Nowgong
+S03,Assam,93,Bokakhat,GEN,11,Kaliabor
+S03,Assam,94,Sarupathar,GEN,11,Kaliabor
+S03,Assam,95,Golaghat,GEN,11,Kaliabor
+S03,Assam,96,Khumtai,GEN,11,Kaliabor
+S03,Assam,97,Dergaon,SC,11,Kaliabor
+S03,Assam,98,Jorhat,GEN,12,Jorhat
+S03,Assam,99,Majuli,ST,14,Lakhimpur
+S03,Assam,100,Titabar,GEN,12,Jorhat
+S03,Assam,101,Mariani,GEN,12,Jorhat
+S03,Assam,102,Teok,GEN,12,Jorhat
+S03,Assam,103,Amguri,GEN,12,Jorhat
+S03,Assam,104,Nazira,GEN,12,Jorhat
+S03,Assam,105,Mahmara,GEN,12,Jorhat
+S03,Assam,106,Sonari,GEN,12,Jorhat
+S03,Assam,107,Thowra,GEN,12,Jorhat
+S03,Assam,108,Sibsagar,GEN,12,Jorhat
+S03,Assam,109,Bihpuria,GEN,9,Tezpur
+S03,Assam,110,Naoboicha,GEN,14,Lakhimpur
+S03,Assam,111,Lakhimpur,GEN,14,Lakhimpur
+S03,Assam,112,Dhakuakhana,ST,14,Lakhimpur
+S03,Assam,113,Dhemaji,ST,14,Lakhimpur
+S03,Assam,114,Jonai,ST,14,Lakhimpur
+S03,Assam,115,Moran,GEN,13,Dibrugarh
+S03,Assam,116,Dibrugarh,GEN,13,Dibrugarh
+S03,Assam,117,Lahowal,GEN,13,Dibrugarh
+S03,Assam,118,Duliajan,GEN,13,Dibrugarh
+S03,Assam,119,Tingkhong,GEN,13,Dibrugarh
+S03,Assam,120,Naharkatia,GEN,13,Dibrugarh
+S03,Assam,121,Chabua,GEN,14,Lakhimpur
+S03,Assam,122,Tinsukia,GEN,13,Dibrugarh
+S03,Assam,123,Digboi,GEN,13,Dibrugarh
+S03,Assam,124,Margherita,GEN,13,Dibrugarh
+S03,Assam,125,Doom Dooma,GEN,13,Dibrugarh
+S03,Assam,126,Sadiya,GEN,14,Lakhimpur
+S04,Bihar,1,Dhanaha,GEN,1,Bagaha
+S04,Bihar,2,Bagha,SC,1,Bagaha
+S04,Bihar,3,Ramnagar,GEN,1,Bagaha
+S04,Bihar,4,Shikarpur,SC,1,Bagaha
+S04,Bihar,5,Sikta,GEN,1,Bagaha
+S04,Bihar,6,Lauria,GEN,1,Bagaha
+S04,Bihar,7,Chanpatia,GEN,2,Bettiah
+S04,Bihar,8,Bettiah,GEN,2,Bettiah
+S04,Bihar,9,Nautan,GEN,2,Bettiah
+S04,Bihar,10,Raxaul,GEN,2,Bettiah
+S04,Bihar,11,Sugauli,GEN,2,Bettiah
+S04,Bihar,12,Motihari,GEN,3,Motihari
+S04,Bihar,13,Adapur,GEN,2,Bettiah
+S04,Bihar,14,Dhaka,GEN,12,Sheohar
+S04,Bihar,15,Ghorasahan,GEN,12,Sheohar
+S04,Bihar,16,Madhuban,GEN,3,Motihari
+S04,Bihar,17,Pipra,SC,3,Motihari
+S04,Bihar,18,Kesariya,GEN,3,Motihari
+S04,Bihar,19,Harsidhi,GEN,3,Motihari
+S04,Bihar,20,Gobindganj,GEN,3,Motihari
+S04,Bihar,21,Kateya,GEN,4,Gopalganj
+S04,Bihar,22,Bhore,SC,4,Gopalganj
+S04,Bihar,23,Mirganj,GEN,4,Gopalganj
+S04,Bihar,24,Gopalganj,GEN,4,Gopalganj
+S04,Bihar,25,Barauli,GEN,4,Gopalganj
+S04,Bihar,26,Baikunthpur,GEN,4,Gopalganj
+S04,Bihar,27,Basantpur,GEN,6,Maharajganj
+S04,Bihar,28,Goreakothi,GEN,5,Siwan
+S04,Bihar,29,Siwan,GEN,5,Siwan
+S04,Bihar,30,Mairwa,SC,5,Siwan
+S04,Bihar,31,Darauli,GEN,5,Siwan
+S04,Bihar,32,Ziradei,GEN,5,Siwan
+S04,Bihar,33,Maharajganj,GEN,6,Maharajganj
+S04,Bihar,34,Raghunathpur,GEN,5,Siwan
+S04,Bihar,35,Manjhi,GEN,6,Maharajganj
+S04,Bihar,36,Baniapur,GEN,6,Maharajganj
+S04,Bihar,37,Masrakh,GEN,6,Maharajganj
+S04,Bihar,38,Taraiya,GEN,7,Chapra
+S04,Bihar,39,Marhaura,GEN,7,Chapra
+S04,Bihar,40,Jalalpur,GEN,6,Maharajganj
+S04,Bihar,41,Chapra,GEN,7,Chapra
+S04,Bihar,42,Garkha,SC,7,Chapra
+S04,Bihar,43,Parsa,GEN,7,Chapra
+S04,Bihar,44,Sonepur,GEN,7,Chapra
+S04,Bihar,45,Hajipur,GEN,8,Hajipur
+S04,Bihar,46,Raghopur,GEN,8,Hajipur
+S04,Bihar,47,Mahnar,GEN,8,Hajipur
+S04,Bihar,48,Jandaha,GEN,8,Hajipur
+S04,Bihar,49,Patepur,SC,8,Hajipur
+S04,Bihar,50,Mahua,SC,8,Hajipur
+S04,Bihar,51,Lalganj,GEN,9,Vaishali
+S04,Bihar,52,Vaishali,GEN,9,Vaishali
+S04,Bihar,53,Paru,GEN,9,Vaishali
+S04,Bihar,54,Sahebganj,GEN,9,Vaishali
+S04,Bihar,55,Baruraj,GEN,9,Vaishali
+S04,Bihar,56,Kanti,GEN,9,Vaishali
+S04,Bihar,57,Kurhani,GEN,10,Muzaffarpur
+S04,Bihar,58,Sakra,SC,10,Muzaffarpur
+S04,Bihar,59,Muzaffarpur,GEN,10,Muzaffarpur
+S04,Bihar,60,Bochaha,SC,10,Muzaffarpur
+S04,Bihar,61,Gaighatti,GEN,10,Muzaffarpur
+S04,Bihar,62,Aurai,GEN,11,Sitamarhi
+S04,Bihar,63,Minapur,GEN,10,Muzaffarpur
+S04,Bihar,64,Runisaidpur,GEN,11,Sitamarhi
+S04,Bihar,65,Belsand,GEN,12,Sheohar
+S04,Bihar,66,Sheohar,GEN,12,Sheohar
+S04,Bihar,67,Sitamarhi,GEN,11,Sitamarhi
+S04,Bihar,68,Bathnaha,GEN,11,Sitamarhi
+S04,Bihar,69,Majorganj,SC,12,Sheohar
+S04,Bihar,70,Sonbarsa,GEN,11,Sitamarhi
+S04,Bihar,71,Sursand,GEN,11,Sitamarhi
+S04,Bihar,72,Pupri,GEN,11,Sitamarhi
+S04,Bihar,73,Benipatti,GEN,13,Madhubani
+S04,Bihar,74,Bisfi,GEN,13,Madhubani
+S04,Bihar,75,Harlakhi,GEN,13,Madhubani
+S04,Bihar,76,Khajauli,SC,13,Madhubani
+S04,Bihar,77,Babubarhi,GEN,14,Jhanjharpur
+S04,Bihar,78,Madhubani,GEN,13,Madhubani
+S04,Bihar,79,Pandaul,GEN,14,Jhanjharpur
+S04,Bihar,80,Jhanjharpur,GEN,14,Jhanjharpur
+S04,Bihar,81,Phulparas,GEN,14,Jhanjharpur
+S04,Bihar,82,Laukaha,GEN,14,Jhanjharpur
+S04,Bihar,83,Madhepur,GEN,14,Jhanjharpur
+S04,Bihar,84,Manigachhi,GEN,15,Darbhanga
+S04,Bihar,85,Bahera,GEN,15,Darbhanga
+S04,Bihar,86,Ghanshyampur,GEN,16,Rosera
+S04,Bihar,87,Baheri,GEN,16,Rosera
+S04,Bihar,88,Darbhanga Rural,SC,15,Darbhanga
+S04,Bihar,89,Darbhanga,GEN,15,Darbhanga
+S04,Bihar,90,Keoti,GEN,15,Darbhanga
+S04,Bihar,91,Jale,GEN,13,Madhubani
+S04,Bihar,92,Hayaghat,GEN,15,Darbhanga
+S04,Bihar,93,Kalyanpur,GEN,17,Samastipur
+S04,Bihar,94,Warisnagar,SC,16,Rosera
+S04,Bihar,95,Samastipur,GEN,17,Samastipur
+S04,Bihar,96,Sarairanjan,GEN,17,Samastipur
+S04,Bihar,97,Mohiuddin Nagar,GEN,17,Samastipur
+S04,Bihar,98,Dalsinghsarai,GEN,17,Samastipur
+S04,Bihar,99,Bibhutpur,GEN,17,Samastipur
+S04,Bihar,100,Rosera,GEN,16,Rosera
+S04,Bihar,101,Singhia,SC,16,Rosera
+S04,Bihar,102,Hasanpur,GEN,16,Rosera
+S04,Bihar,103,Balia,GEN,19,Balia
+S04,Bihar,104,Matihani,GEN,30,Begusarai
+S04,Bihar,105,Begusarai,GEN,30,Begusarai
+S04,Bihar,106,Barauni,GEN,19,Balia
+S04,Bihar,107,Bachwara,GEN,19,Balia
+S04,Bihar,108,Cheria Bariarpur,GEN,19,Balia
+S04,Bihar,109,Bakhri,SC,19,Balia
+S04,Bihar,110,Raghopur,GEN,20,Saharsa
+S04,Bihar,111,Kishunpur,GEN,20,Saharsa
+S04,Bihar,112,Supaul,GEN,20,Saharsa
+S04,Bihar,113,Tribeniganj,GEN,22,Araria
+S04,Bihar,114,Chhatapur,SC,22,Araria
+S04,Bihar,115,Kumarkhand,SC,21,Madhepura
+S04,Bihar,116,Singheshwar,GEN,21,Madhepura
+S04,Bihar,117,Saharsa,GEN,20,Saharsa
+S04,Bihar,118,Mahishi,GEN,20,Saharsa
+S04,Bihar,119,Simri-Bakhtiarpur,GEN,20,Saharsa
+S04,Bihar,120,Madhepura,GEN,21,Madhepura
+S04,Bihar,121,Sonbarsa,GEN,21,Madhepura
+S04,Bihar,122,Kishanganj,GEN,21,Madhepura
+S04,Bihar,123,Alamnagar,GEN,21,Madhepura
+S04,Bihar,124,Rupauli,GEN,24,Purnea
+S04,Bihar,125,Dhamdaha,GEN,24,Purnea
+S04,Bihar,126,Banmankhi,SC,24,Purnea
+S04,Bihar,127,Raniganj,SC,22,Araria
+S04,Bihar,128,Narpatganj,GEN,22,Araria
+S04,Bihar,129,Forbesganj,GEN,22,Araria
+S04,Bihar,130,Araria,GEN,22,Araria
+S04,Bihar,131,Sikti,GEN,23,Kishanganj
+S04,Bihar,132,Jokihat,GEN,23,Kishanganj
+S04,Bihar,133,Bahadurganj,GEN,23,Kishanganj
+S04,Bihar,134,Thakurganj,GEN,23,Kishanganj
+S04,Bihar,135,Kishanganj,GEN,23,Kishanganj
+S04,Bihar,136,Amour,GEN,23,Kishanganj
+S04,Bihar,137,Baisi,GEN,24,Purnea
+S04,Bihar,138,Kasba,GEN,24,Purnea
+S04,Bihar,139,Purnea,GEN,24,Purnea
+S04,Bihar,140,Korha,SC,25,Katihar
+S04,Bihar,141,Barari,GEN,28,Khagaria
+S04,Bihar,142,Katihar,GEN,25,Katihar
+S04,Bihar,143,Kadwa,GEN,25,Katihar
+S04,Bihar,144,Barsoi,GEN,25,Katihar
+S04,Bihar,145,Pranpur,GEN,25,Katihar
+S04,Bihar,146,Manihari,GEN,25,Katihar
+S04,Bihar,147,Pirpainti,GEN,27,Bhagalpur
+S04,Bihar,148,Colgong,GEN,27,Bhagalpur
+S04,Bihar,149,Nathnagar,GEN,27,Bhagalpur
+S04,Bihar,150,Bhagalpur,GEN,27,Bhagalpur
+S04,Bihar,151,Gopalpur,GEN,28,Khagaria
+S04,Bihar,152,Bihpur,GEN,28,Khagaria
+S04,Bihar,153,Sultanganj,SC,27,Bhagalpur
+S04,Bihar,154,Amarpur,GEN,26,Banka
+S04,Bihar,155,Dhuraiya,SC,26,Banka
+S04,Bihar,156,Banka,GEN,26,Banka
+S04,Bihar,157,Belhar,GEN,26,Banka
+S04,Bihar,158,Katoria,GEN,26,Banka
+S04,Bihar,159,Chakai,GEN,26,Banka
+S04,Bihar,160,Jhajha,GEN,26,Banka
+S04,Bihar,161,Tarapur,GEN,29,Monghyr
+S04,Bihar,162,Kharagpur,GEN,29,Monghyr
+S04,Bihar,163,Parbatta,GEN,28,Khagaria
+S04,Bihar,164,Chautham,GEN,28,Khagaria
+S04,Bihar,165,Khagaria,GEN,28,Khagaria
+S04,Bihar,166,Alauli,SC,19,Balia
+S04,Bihar,167,Monghyr,GEN,29,Monghyr
+S04,Bihar,168,Jamalpur,GEN,29,Monghyr
+S04,Bihar,169,Surajgarha,GEN,29,Monghyr
+S04,Bihar,170,Jamui,GEN,29,Monghyr
+S04,Bihar,171,Sikandra,SC,30,Begusarai
+S04,Bihar,172,Lakhisarai,GEN,30,Begusarai
+S04,Bihar,173,Sheikhpura,GEN,30,Begusarai
+S04,Bihar,174,Barbigha,SC,30,Begusarai
+S04,Bihar,175,Asthawan,GEN,31,Nalanda
+S04,Bihar,176,Bihar,GEN,31,Nalanda
+S04,Bihar,177,Rajgir,SC,31,Nalanda
+S04,Bihar,178,Nalanda,GEN,31,Nalanda
+S04,Bihar,179,Islampur,GEN,31,Nalanda
+S04,Bihar,180,Hilsa,GEN,31,Nalanda
+S04,Bihar,181,Chandi,GEN,18,Barh
+S04,Bihar,182,Harnaut,GEN,31,Nalanda
+S04,Bihar,183,Mokameh,GEN,18,Barh
+S04,Bihar,184,Barh,GEN,18,Barh
+S04,Bihar,185,Bakhtiarpur,GEN,18,Barh
+S04,Bihar,186,Fatwa,SC,18,Barh
+S04,Bihar,187,Masaurhi,GEN,38,Jahanabad
+S04,Bihar,188,Patna West,GEN,32,Patna
+S04,Bihar,189,Patna Central,GEN,32,Patna
+S04,Bihar,190,Patna East,GEN,32,Patna
+S04,Bihar,191,Dinapur,GEN,32,Patna
+S04,Bihar,192,Maner,GEN,33,Arrah
+S04,Bihar,193,Phulwari,SC,18,Barh
+S04,Bihar,194,Bikram,GEN,32,Patna
+S04,Bihar,195,Paliganj,GEN,33,Arrah
+S04,Bihar,196,Sandesh,GEN,33,Arrah
+S04,Bihar,197,Barhara,GEN,33,Arrah
+S04,Bihar,198,Arrah,GEN,33,Arrah
+S04,Bihar,199,Shahpur,GEN,34,Buxar
+S04,Bihar,200,Brahmpur,GEN,34,Buxar
+S04,Bihar,201,Buxar,GEN,34,Buxar
+S04,Bihar,202,Rajpur,SC,34,Buxar
+S04,Bihar,203,Dumraon,GEN,34,Buxar
+S04,Bihar,204,Jagdishpur,GEN,34,Buxar
+S04,Bihar,205,Piro,GEN,36,Bikramganj
+S04,Bihar,206,Sahar,SC,33,Arrah
+S04,Bihar,207,Karakat,GEN,36,Bikramganj
+S04,Bihar,208,Bikramganj,GEN,36,Bikramganj
+S04,Bihar,209,Dinara,GEN,36,Bikramganj
+S04,Bihar,210,Ramgarh,GEN,35,Sasaram
+S04,Bihar,211,Mohania,SC,35,Sasaram
+S04,Bihar,212,Bhabhua,GEN,35,Sasaram
+S04,Bihar,213,Chainpur,GEN,35,Sasaram
+S04,Bihar,214,Sasaram,GEN,35,Sasaram
+S04,Bihar,215,Chenari,SC,35,Sasaram
+S04,Bihar,216,Nokha,GEN,36,Bikramganj
+S04,Bihar,217,Dehri,GEN,36,Bikramganj
+S04,Bihar,218,Nabinagar,GEN,37,Aurangabad
+S04,Bihar,219,Deo,SC,37,Aurangabad
+S04,Bihar,220,Aurangabad,GEN,37,Aurangabad
+S04,Bihar,221,Rafiganj,GEN,37,Aurangabad
+S04,Bihar,222,Obra,GEN,37,Aurangabad
+S04,Bihar,223,Goh,GEN,37,Aurangabad
+S04,Bihar,224,Arwal,GEN,38,Jahanabad
+S04,Bihar,225,Kurtha,GEN,38,Jahanabad
+S04,Bihar,226,Makhdumpur,GEN,38,Jahanabad
+S04,Bihar,227,Jahanabad,GEN,38,Jahanabad
+S04,Bihar,228,Ghosi,GEN,38,Jahanabad
+S04,Bihar,229,Belaganj,GEN,40,Gaya
+S04,Bihar,230,Konch,GEN,40,Gaya
+S04,Bihar,231,Gaya Mufassil,GEN,40,Gaya
+S04,Bihar,232,Gaya Town,GEN,40,Gaya
+S04,Bihar,233,Imamganj,SC,37,Aurangabad
+S04,Bihar,234,Gurua,GEN,40,Gaya
+S04,Bihar,235,Bodh Gaya,SC,40,Gaya
+S04,Bihar,236,Barachatti,SC,40,Gaya
+S04,Bihar,237,Fatehpur,SC,40,Gaya
+S04,Bihar,238,Atri,GEN,39,Nawada
+S04,Bihar,239,Nawada,GEN,39,Nawada
+S04,Bihar,240,Rajauli,SC,39,Nawada
+S04,Bihar,241,Gobindpur,GEN,5,Kodarma
+S04,Bihar,242,Warsaliganj,GEN,39,Nawada
+S04,Bihar,243,Hisua,GEN,39,Nawada
+S05,Goa,1,Mandrem,GEN,0,
+S05,Goa,2,Pernem,GEN,2,Mormugao
+S05,Goa,3,Dargalim,SC,2,Mormugao
+S05,Goa,4,Tivim,GEN,2,Mormugao
+S05,Goa,5,Mapusa,GEN,2,Mormugao
+S05,Goa,6,Siolim,GEN,0,
+S05,Goa,7,Calangute,GEN,1,Panaji
+S05,Goa,8,Saligao,GEN,2,Mormugao
+S05,Goa,9,Aldona,GEN,2,Mormugao
+S05,Goa,10,Panaji,GEN,1,Panaji
+S05,Goa,11,Taleigao,GEN,1,Panaji
+S05,Goa,12,Santa Cruz,GEN,1,Panaji
+S05,Goa,13,St. Andre,GEN,1,Panaji
+S05,Goa,14,Cumbarjua,GEN,1,Panaji
+S05,Goa,15,Bicholim,GEN,2,Mormugao
+S05,Goa,16,Maem,GEN,1,Panaji
+S05,Goa,17,Pale,GEN,1,Panaji
+S05,Goa,18,Poriem,GEN,2,Mormugao
+S05,Goa,19,Valpoi,GEN,1,Panaji
+S05,Goa,20,Ponda,GEN,1,Panaji
+S05,Goa,21,Priol,GEN,1,Panaji
+S05,Goa,22,Marcaim,GEN,1,Panaji
+S05,Goa,23,Siroda,GEN,1,Panaji
+S05,Goa,24,Mormugao,GEN,0,
+S05,Goa,25,Vasco Da Gama,GEN,1,Panaji
+S05,Goa,26,Cortalim,GEN,1,Panaji
+S05,Goa,27,Loutolim,GEN,1,Panaji
+S05,Goa,28,Benaulim,GEN,1,Panaji
+S05,Goa,29,Fatorda,GEN,1,Panaji
+S05,Goa,30,Margao,GEN,1,Panaji
+S05,Goa,31,Curtorim,GEN,1,Panaji
+S05,Goa,32,Navelim,GEN,1,Panaji
+S05,Goa,33,Velim,GEN,1,Panaji
+S05,Goa,34,Cuncolim,GEN,1,Panaji
+S05,Goa,35,Sanvordem,GEN,1,Panaji
+S05,Goa,36,Sanguem,GEN,1,Panaji
+S05,Goa,37,Curchorem,GEN,1,Panaji
+S05,Goa,38,Quepem,GEN,1,Panaji
+S05,Goa,39,Canacona,GEN,1,Panaji
+S05,Goa,40,Poinguinim,GEN,22,Kanara
+S06,Gujarat,1,Abdasa,GEN,1,Kutch
+S06,Gujarat,2,Mandvi,GEN,1,Kutch
+S06,Gujarat,3,Bhuj,GEN,1,Kutch
+S06,Gujarat,4,Mundra,SC,1,Kutch
+S06,Gujarat,5,Anjar,GEN,1,Kutch
+S06,Gujarat,6,Rapar,GEN,1,Kutch
+S06,Gujarat,7,Dasada,SC,2,Surendranagar
+S06,Gujarat,8,Wadhwan,GEN,2,Surendranagar
+S06,Gujarat,9,Limbdi,GEN,2,Surendranagar
+S06,Gujarat,10,Chotila,GEN,2,Surendranagar
+S06,Gujarat,11,Halvad,GEN,2,Surendranagar
+S06,Gujarat,12,Dhrangadhra,GEN,2,Surendranagar
+S06,Gujarat,13,Morvi,GEN,4,Rajkot
+S06,Gujarat,14,Tankara,GEN,4,Rajkot
+S06,Gujarat,15,Wankaner,GEN,2,Surendranagar
+S06,Gujarat,16,Jasdan,GEN,4,Rajkot
+S06,Gujarat,17,Rajkot-I,GEN,4,Rajkot
+S06,Gujarat,18,Rajkot-II,GEN,4,Rajkot
+S06,Gujarat,19,Rajkot Rural,SC,4,Rajkot
+S06,Gujarat,20,Gondal,GEN,4,Rajkot
+S06,Gujarat,21,Jetpur,GEN,4,Rajkot
+S06,Gujarat,22,Dhoraji,GEN,5,Porbandar
+S06,Gujarat,23,Upleta,GEN,5,Porbandar
+S06,Gujarat,24,Jodiya,GEN,3,Jamnagar
+S06,Gujarat,25,Jamnagar,GEN,3,Jamnagar
+S06,Gujarat,26,Jamnagar Rural,SC,3,Jamnagar
+S06,Gujarat,27,Kalawad,GEN,3,Jamnagar
+S06,Gujarat,28,Jamjodhpur,GEN,5,Porbandar
+S06,Gujarat,29,Bhanvad,GEN,3,Jamnagar
+S06,Gujarat,30,Khambhalia,GEN,3,Jamnagar
+S06,Gujarat,31,Dwarka,GEN,3,Jamnagar
+S06,Gujarat,32,Porbandar,GEN,5,Porbandar
+S06,Gujarat,33,Kutiyana,GEN,5,Porbandar
+S06,Gujarat,34,Mangrol,GEN,5,Porbandar
+S06,Gujarat,35,Manavadar,GEN,5,Porbandar
+S06,Gujarat,36,Keshod,SC,6,Junagadh
+S06,Gujarat,37,Talala,GEN,6,Junagadh
+S06,Gujarat,38,Somnath,GEN,6,Junagadh
+S06,Gujarat,39,Una,GEN,6,Junagadh
+S06,Gujarat,40,Visavadar,GEN,6,Junagadh
+S06,Gujarat,41,Maliya,GEN,6,Junagadh
+S06,Gujarat,42,Junagadh,GEN,6,Junagadh
+S06,Gujarat,43,Babra,GEN,7,Amreli
+S06,Gujarat,44,Lathi,GEN,7,Amreli
+S06,Gujarat,45,Amreli,GEN,7,Amreli
+S06,Gujarat,46,Dhari,GEN,7,Amreli
+S06,Gujarat,47,Kodinar,GEN,6,Junagadh
+S06,Gujarat,48,Rajula,GEN,7,Amreli
+S06,Gujarat,49,Botad,GEN,9,Dhandhuka
+S06,Gujarat,50,Gadhada,SC,9,Dhandhuka
+S06,Gujarat,51,Palitana,GEN,8,Bhavnagar
+S06,Gujarat,52,Sihor,GEN,8,Bhavnagar
+S06,Gujarat,53,Kundla,GEN,7,Amreli
+S06,Gujarat,54,Mahuva,GEN,8,Bhavnagar
+S06,Gujarat,55,Talaja,GEN,8,Bhavnagar
+S06,Gujarat,56,Ghogho,GEN,8,Bhavnagar
+S06,Gujarat,57,Bhavnagar North,GEN,8,Bhavnagar
+S06,Gujarat,58,Bhavnagar South,GEN,8,Bhavnagar
+S06,Gujarat,59,Dhandhuka,GEN,9,Dhandhuka
+S06,Gujarat,60,Dholka,GEN,9,Dhandhuka
+S06,Gujarat,61,Bavla,SC,9,Dhandhuka
+S06,Gujarat,62,Mandal,GEN,9,Dhandhuka
+S06,Gujarat,63,Viramgam,GEN,9,Dhandhuka
+S06,Gujarat,64,Sarkhej,GEN,11,Gandhinagar
+S06,Gujarat,65,Daskroi,GEN,16,Kapadvanj
+S06,Gujarat,66,Dehgam,GEN,16,Kapadvanj
+S06,Gujarat,67,Sabarmati,GEN,10,Ahmedabad
+S06,Gujarat,68,Ellis Bridge,GEN,10,Ahmedabad
+S06,Gujarat,69,Dariapur-Kazipur,GEN,10,Ahmedabad
+S06,Gujarat,70,Shahpur,GEN,10,Ahmedabad
+S06,Gujarat,71,Kalupur,GEN,10,Ahmedabad
+S06,Gujarat,72,Asarwa,GEN,10,Ahmedabad
+S06,Gujarat,73,Rakhial,GEN,16,Kapadvanj
+S06,Gujarat,74,Shaher Kotda,SC,16,Kapadvanj
+S06,Gujarat,75,Khadia,GEN,16,Kapadvanj
+S06,Gujarat,76,Jamalpur,GEN,10,Ahmedabad
+S06,Gujarat,77,Maninagar,GEN,16,Kapadvanj
+S06,Gujarat,78,Naroda,GEN,16,Kapadvanj
+S06,Gujarat,79,Gandhinagar,GEN,11,Gandhinagar
+S06,Gujarat,80,Kalol,GEN,11,Gandhinagar
+S06,Gujarat,81,Kadi,GEN,12,Mehsana
+S06,Gujarat,82,Jotana,SC,12,Mehsana
+S06,Gujarat,83,Mehsana,GEN,12,Mehsana
+S06,Gujarat,84,Mansa,GEN,12,Mehsana
+S06,Gujarat,85,Vijapur,GEN,12,Mehsana
+S06,Gujarat,86,Visnagar,GEN,12,Mehsana
+S06,Gujarat,87,Kheralu,GEN,13,Patan
+S06,Gujarat,88,Unjha,GEN,12,Mehsana
+S06,Gujarat,89,Sidhpur,GEN,13,Patan
+S06,Gujarat,90,Vagdod,GEN,13,Patan
+S06,Gujarat,91,Patan,GEN,13,Patan
+S06,Gujarat,92,Chanasma,GEN,13,Patan
+S06,Gujarat,93,Sami,GEN,13,Patan
+S06,Gujarat,94,Radhanpur,GEN,14,Banaskantha
+S06,Gujarat,95,Vav,GEN,14,Banaskantha
+S06,Gujarat,96,Deodar,GEN,14,Banaskantha
+S06,Gujarat,97,Kankrej,GEN,14,Banaskantha
+S06,Gujarat,98,Deesa,GEN,14,Banaskantha
+S06,Gujarat,99,Dhanera,GEN,14,Banaskantha
+S06,Gujarat,100,Palanpur,GEN,14,Banaskantha
+S06,Gujarat,101,Vadgam,SC,15,Sabarkantha
+S06,Gujarat,102,Danta,GEN,15,Sabarkantha
+S06,Gujarat,103,Khedbrahma,ST,17,Salumber
+S06,Gujarat,104,Idar,SC,15,Sabarkantha
+S06,Gujarat,105,Bhiloda,GEN,15,Sabarkantha
+S06,Gujarat,106,Himatnagar,GEN,15,Sabarkantha
+S06,Gujarat,107,Prantij,GEN,16,Kapadvanj
+S06,Gujarat,108,Modasa,GEN,15,Sabarkantha
+S06,Gujarat,109,Bayad,GEN,16,Kapadvanj
+S06,Gujarat,110,Meghraj,GEN,16,Kapadvanj
+S06,Gujarat,111,Santrampur,GEN,17,Dohad
+S06,Gujarat,112,Jhalod,ST,17,Dohad
+S06,Gujarat,113,Limdi,ST,17,Dohad
+S06,Gujarat,114,Dohad,ST,17,Dohad
+S06,Gujarat,115,Limkheda,ST,17,Dohad
+S06,Gujarat,116,Devgadh Baria,GEN,17,Dohad
+S06,Gujarat,117,Rajgadh,GEN,18,Godhra
+S06,Gujarat,118,Halol,GEN,18,Godhra
+S06,Gujarat,119,Kalol,GEN,18,Godhra
+S06,Gujarat,120,Godhra,GEN,18,Godhra
+S06,Gujarat,121,Shehra,GEN,18,Godhra
+S06,Gujarat,122,Lunavada,GEN,18,Godhra
+S06,Gujarat,123,Randhikpur,ST,17,Dohad
+S06,Gujarat,124,Balasinor,GEN,18,Godhra
+S06,Gujarat,125,Kapadvanj,GEN,16,Kapadvanj
+S06,Gujarat,126,Thasra,GEN,19,Kaira
+S06,Gujarat,127,Umreth,GEN,19,Kaira
+S06,Gujarat,128,Kathlal,GEN,19,Kaira
+S06,Gujarat,129,Mehmedabad,GEN,19,Kaira
+S06,Gujarat,130,Mahudha,GEN,19,Kaira
+S06,Gujarat,131,Nadiad,GEN,19,Kaira
+S06,Gujarat,132,Chakalasi,GEN,19,Kaira
+S06,Gujarat,133,Anand,GEN,20,Anand
+S06,Gujarat,134,Sarsa,GEN,20,Anand
+S06,Gujarat,135,Petlad,GEN,20,Anand
+S06,Gujarat,136,Sojitra,SC,19,Kaira
+S06,Gujarat,137,Matar,GEN,19,Kaira
+S06,Gujarat,138,Borsad,GEN,20,Anand
+S06,Gujarat,139,Bhadran,GEN,20,Anand
+S06,Gujarat,140,Cambay,GEN,20,Anand
+S06,Gujarat,141,Chhota Udaipur,ST,28,Jhabua
+S06,Gujarat,142,Jetpur,GEN,21,Chhota Udaipur
+S06,Gujarat,143,Nasvadi,ST,21,Chhota Udaipur
+S06,Gujarat,144,Sankheda,ST,21,Chhota Udaipur
+S06,Gujarat,145,Dabhoi,GEN,21,Chhota Udaipur
+S06,Gujarat,146,Savli,GEN,22,Baroda
+S06,Gujarat,147,Baroda City,GEN,22,Baroda
+S06,Gujarat,148,Sayajiganj,GEN,22,Baroda
+S06,Gujarat,149,Raopura,GEN,22,Baroda
+S06,Gujarat,150,Vaghodia,GEN,22,Baroda
+S06,Gujarat,151,Baroda Rural,GEN,22,Baroda
+S06,Gujarat,152,Padra,GEN,22,Baroda
+S06,Gujarat,153,Karjan,SC,21,Chhota Udaipur
+S06,Gujarat,154,Jambusar,GEN,23,Broach
+S06,Gujarat,155,Vagra,GEN,23,Broach
+S06,Gujarat,156,Broach,GEN,23,Broach
+S06,Gujarat,157,Ankleshwar,GEN,23,Broach
+S06,Gujarat,158,Jhagadia,ST,23,Broach
+S06,Gujarat,159,Dediapada,ST,23,Broach
+S06,Gujarat,160,Rajpipla,ST,21,Chhota Udaipur
+S06,Gujarat,161,Nijhar,ST,15,Nandurbar
+S06,Gujarat,162,Mangrol,ST,23,Broach
+S06,Gujarat,163,Songadh,ST,25,Mandvi
+S06,Gujarat,164,Vyara,ST,25,Mandvi
+S06,Gujarat,165,Mahuva,ST,25,Mandvi
+S06,Gujarat,166,Bardoli,ST,25,Mandvi
+S06,Gujarat,167,Kamrej,ST,25,Mandvi
+S06,Gujarat,168,Olpad,GEN,24,Surat
+S06,Gujarat,169,Surat City North,GEN,24,Surat
+S06,Gujarat,170,Surat City East,GEN,24,Surat
+S06,Gujarat,171,Surat City West,GEN,0,
+S06,Gujarat,172,Chorasi,GEN,24,Surat
+S06,Gujarat,173,Jalalpore,GEN,0,
+S06,Gujarat,174,Navsari,ST,24,Surat
+S06,Gujarat,175,Gandevi,GEN,26,Bulsar
+S06,Gujarat,176,Chikhli,ST,26,Bulsar
+S06,Gujarat,177,Dangs-Bansda,ST,26,Bulsar
+S06,Gujarat,178,Bulsar,GEN,26,Bulsar
+S06,Gujarat,179,Dharampur,ST,26,Bulsar
+S06,Gujarat,180,Mota Pondha,ST,26,Bulsar
+S06,Gujarat,181,Pardi,ST,26,Bulsar
+S06,Gujarat,182,Umbergaon,ST,26,Bulsar
+S07,Haryana,1,Kalka,GEN,1,Ambala
+S07,Haryana,2,Naraingarh,GEN,1,Ambala
+S07,Haryana,3,Sadhaura,SC,1,Ambala
+S07,Haryana,4,Chhachhrauli,GEN,1,Ambala
+S07,Haryana,5,Yamunanagar,GEN,1,Ambala
+S07,Haryana,6,Jagadhari,GEN,1,Ambala
+S07,Haryana,7,Mullana,SC,1,Ambala
+S07,Haryana,8,Ambala Cantonment,GEN,1,Ambala
+S07,Haryana,9,Ambala City,GEN,1,Ambala
+S07,Haryana,10,Naggal,GEN,1,Ambala
+S07,Haryana,11,Indri,GEN,3,Karnal
+S07,Haryana,12,Nilokheri,GEN,3,Karnal
+S07,Haryana,13,Karnal,GEN,3,Karnal
+S07,Haryana,14,Jundla,SC,3,Karnal
+S07,Haryana,15,Gharaunda,GEN,3,Karnal
+S07,Haryana,16,Assandh,SC,3,Karnal
+S07,Haryana,17,Panipat,GEN,3,Karnal
+S07,Haryana,18,Sambhalka,GEN,3,Karnal
+S07,Haryana,19,Naultha,GEN,3,Karnal
+S07,Haryana,20,Shahabad,GEN,2,Kurukshetra
+S07,Haryana,21,Radaur,SC,2,Kurukshetra
+S07,Haryana,22,Thanesar,GEN,2,Kurukshetra
+S07,Haryana,23,Pehowa,GEN,2,Kurukshetra
+S07,Haryana,24,Guhla,SC,2,Kurukshetra
+S07,Haryana,25,Kaithal,GEN,2,Kurukshetra
+S07,Haryana,26,Pundri,GEN,2,Kurukshetra
+S07,Haryana,27,Pai,GEN,2,Kurukshetra
+S07,Haryana,28,Hassangarh,GEN,5,Rohtak
+S07,Haryana,29,Kiloi,GEN,5,Rohtak
+S07,Haryana,30,Rohtak,GEN,5,Rohtak
+S07,Haryana,31,Meham,GEN,5,Rohtak
+S07,Haryana,32,Kalanaur,SC,5,Rohtak
+S07,Haryana,33,Beri,GEN,5,Rohtak
+S07,Haryana,34,Salhawas,GEN,5,Rohtak
+S07,Haryana,35,Jhajjar,SC,5,Rohtak
+S07,Haryana,36,Badli,GEN,5,Rohtak
+S07,Haryana,37,Bahadurgarh,GEN,4,Sonepat
+S07,Haryana,38,Baroda,SC,4,Sonepat
+S07,Haryana,39,Gohana,GEN,4,Sonepat
+S07,Haryana,40,Kailana,GEN,4,Sonepat
+S07,Haryana,41,Sonepat,GEN,4,Sonepat
+S07,Haryana,42,Rai,GEN,4,Sonepat
+S07,Haryana,43,Rohat,GEN,4,Sonepat
+S07,Haryana,44,Kalayat,SC,9,Hissar
+S07,Haryana,45,Narwana,GEN,9,Hissar
+S07,Haryana,46,Uchana Kalan,GEN,9,Hissar
+S07,Haryana,47,Rajond,GEN,9,Hissar
+S07,Haryana,48,Jind,GEN,9,Hissar
+S07,Haryana,49,Julana,GEN,4,Sonepat
+S07,Haryana,50,Safidon,GEN,4,Sonepat
+S07,Haryana,51,Faridabad,GEN,6,Faridabad
+S07,Haryana,52,Mewla Maharajpur,GEN,6,Faridabad
+S07,Haryana,53,Ballabgarh,GEN,6,Faridabad
+S07,Haryana,54,Palwal,GEN,6,Faridabad
+S07,Haryana,55,Hassanpur,SC,6,Faridabad
+S07,Haryana,56,Hathin,GEN,6,Faridabad
+S07,Haryana,57,Ferozepur Jhirka,GEN,6,Faridabad
+S07,Haryana,58,Nuh,GEN,6,Faridabad
+S07,Haryana,59,Taoru,GEN,6,Faridabad
+S07,Haryana,60,Sohna,GEN,7,Mahendragarh
+S07,Haryana,61,Gurgaon,GEN,7,Mahendragarh
+S07,Haryana,62,Pataudi,SC,7,Mahendragarh
+S07,Haryana,63,Badhra,GEN,8,Bhiwani
+S07,Haryana,64,Dadri,GEN,8,Bhiwani
+S07,Haryana,65,Mundhal Khurd,GEN,8,Bhiwani
+S07,Haryana,66,Bhiwani,GEN,8,Bhiwani
+S07,Haryana,67,Tosham,GEN,8,Bhiwani
+S07,Haryana,68,Loharu,GEN,8,Bhiwani
+S07,Haryana,69,Bawani Khera,SC,8,Bhiwani
+S07,Haryana,70,Barwala,GEN,9,Hissar
+S07,Haryana,71,Narnaund,GEN,9,Hissar
+S07,Haryana,72,Hansi,GEN,8,Bhiwani
+S07,Haryana,73,Bhattu Kalan,GEN,10,Sirsa
+S07,Haryana,74,Hissar,GEN,9,Hissar
+S07,Haryana,75,Ghirai,GEN,9,Hissar
+S07,Haryana,76,Tohana,GEN,10,Sirsa
+S07,Haryana,77,Ratia,SC,10,Sirsa
+S07,Haryana,78,Fatehabad,GEN,10,Sirsa
+S07,Haryana,79,Adampur,GEN,8,Bhiwani
+S07,Haryana,80,Darba Kalan,GEN,10,Sirsa
+S07,Haryana,81,Ellenabad,SC,10,Sirsa
+S07,Haryana,82,Sirsa,GEN,10,Sirsa
+S07,Haryana,83,Rori,GEN,10,Sirsa
+S07,Haryana,84,Dabwali,SC,10,Sirsa
+S07,Haryana,85,Bawal,SC,7,Mahendragarh
+S07,Haryana,86,Rewari,GEN,7,Mahendragarh
+S07,Haryana,87,Jatusana,GEN,7,Mahendragarh
+S07,Haryana,88,Mahendragarh,GEN,7,Mahendragarh
+S07,Haryana,89,Ateli,GEN,7,Mahendragarh
+S07,Haryana,90,Narnaul,GEN,7,Mahendragarh
+S08,Himachal Pradesh,1,Kinnaur,ST,2,Mandi
+S08,Himachal Pradesh,2,Rampur,SC,2,Mandi
+S08,Himachal Pradesh,3,Rohru,GEN,1,Simla
+S08,Himachal Pradesh,4,Jubbal-Kotkhai,GEN,1,Simla
+S08,Himachal Pradesh,5,Chopal,GEN,1,Simla
+S08,Himachal Pradesh,6,Kumarsain,GEN,1,Simla
+S08,Himachal Pradesh,7,Theog,GEN,1,Simla
+S08,Himachal Pradesh,8,Simla,GEN,1,Simla
+S08,Himachal Pradesh,9,Kasumpti,SC,1,Simla
+S08,Himachal Pradesh,10,Arki,GEN,1,Simla
+S08,Himachal Pradesh,11,Doon,GEN,1,Simla
+S08,Himachal Pradesh,12,Nalagarh,GEN,1,Simla
+S08,Himachal Pradesh,13,Kasauli,SC,1,Simla
+S08,Himachal Pradesh,14,Solan,GEN,1,Simla
+S08,Himachal Pradesh,15,Pachhad,SC,1,Simla
+S08,Himachal Pradesh,16,Raindka,SC,1,Simla
+S08,Himachal Pradesh,17,Shillai,GEN,1,Simla
+S08,Himachal Pradesh,18,Paonta Doon,GEN,1,Simla
+S08,Himachal Pradesh,19,Nahan,GEN,1,Simla
+S08,Himachal Pradesh,20,Kotkehloor,GEN,4,Hamirpur
+S08,Himachal Pradesh,21,Bilaspur,GEN,4,Hamirpur
+S08,Himachal Pradesh,22,Ghumarwin,GEN,4,Hamirpur
+S08,Himachal Pradesh,23,Geharwin,SC,4,Hamirpur
+S08,Himachal Pradesh,24,Nadaun,GEN,4,Hamirpur
+S08,Himachal Pradesh,25,Hamirpur,GEN,4,Hamirpur
+S08,Himachal Pradesh,26,Bamsan,GEN,4,Hamirpur
+S08,Himachal Pradesh,27,Mewa,SC,4,Hamirpur
+S08,Himachal Pradesh,28,Nadaunta,GEN,4,Hamirpur
+S08,Himachal Pradesh,29,Gagret,SC,6,Hoshiarpur
+S08,Himachal Pradesh,30,Chintpurni,GEN,4,Hamirpur
+S08,Himachal Pradesh,31,Santokgarh,GEN,4,Hamirpur
+S08,Himachal Pradesh,32,Una,GEN,4,Hamirpur
+S08,Himachal Pradesh,33,Kutlehar,GEN,4,Hamirpur
+S08,Himachal Pradesh,34,Nurpur,GEN,3,Kangra
+S08,Himachal Pradesh,35,Gangath,SC,3,Kangra
+S08,Himachal Pradesh,36,Jawali,GEN,3,Kangra
+S08,Himachal Pradesh,37,Guler,GEN,3,Kangra
+S08,Himachal Pradesh,38,Jaswan,GEN,4,Hamirpur
+S08,Himachal Pradesh,39,Pragpur,SC,4,Hamirpur
+S08,Himachal Pradesh,40,Jawalamukhi,GEN,4,Hamirpur
+S08,Himachal Pradesh,41,Thural,GEN,3,Kangra
+S08,Himachal Pradesh,42,Rajgir,SC,3,Kangra
+S08,Himachal Pradesh,43,Baijnath,GEN,3,Kangra
+S08,Himachal Pradesh,44,Palampur,GEN,3,Kangra
+S08,Himachal Pradesh,45,Sulah,GEN,3,Kangra
+S08,Himachal Pradesh,46,Nagrota,GEN,3,Kangra
+S08,Himachal Pradesh,47,Shahpur,GEN,3,Kangra
+S08,Himachal Pradesh,48,Dharamsala,GEN,3,Kangra
+S08,Himachal Pradesh,49,Kangra,GEN,3,Kangra
+S08,Himachal Pradesh,50,Bhattiyat,GEN,3,Kangra
+S08,Himachal Pradesh,51,Banikhet,GEN,3,Kangra
+S08,Himachal Pradesh,52,Rajnagar,SC,3,Kangra
+S08,Himachal Pradesh,53,Chamba,GEN,3,Kangra
+S08,Himachal Pradesh,54,Bharmour,ST,2,Mandi
+S08,Himachal Pradesh,55,Lahaul and Spiti,ST,2,Mandi
+S08,Himachal Pradesh,56,Kullu,GEN,2,Mandi
+S08,Himachal Pradesh,57,Banjar,GEN,2,Mandi
+S08,Himachal Pradesh,58,Ani,SC,2,Mandi
+S08,Himachal Pradesh,59,Karsog,SC,2,Mandi
+S08,Himachal Pradesh,60,Chachiot,GEN,2,Mandi
+S08,Himachal Pradesh,61,Nachan,SC,2,Mandi
+S08,Himachal Pradesh,62,Sundarnagar,GEN,2,Mandi
+S08,Himachal Pradesh,63,Balh,SC,2,Mandi
+S08,Himachal Pradesh,64,Gopalpur,GEN,2,Mandi
+S08,Himachal Pradesh,65,Dharampur,GEN,2,Mandi
+S08,Himachal Pradesh,66,Joginder Nagar,GEN,2,Mandi
+S08,Himachal Pradesh,67,Darang,GEN,2,Mandi
+S08,Himachal Pradesh,68,Mandi,GEN,2,Mandi
+S09,Jammu & Kashmir,1,Karnah,GEN,1,Baramulla
+S09,Jammu & Kashmir,2,Kupwara,GEN,2,Srinagar
+S09,Jammu & Kashmir,3,Lolab,GEN,1,Baramulla
+S09,Jammu & Kashmir,4,Handwara,GEN,1,Baramulla
+S09,Jammu & Kashmir,5,Langate,GEN,3,Anantnag
+S09,Jammu & Kashmir,6,Uri,GEN,1,Baramulla
+S09,Jammu & Kashmir,7,Rafiabad,GEN,6,Jammu
+S09,Jammu & Kashmir,8,Sopore,GEN,4,Ladakh
+S09,Jammu & Kashmir,9,Gurez,GEN,3,Anantnag
+S09,Jammu & Kashmir,10,Bandipora,GEN,1,Baramulla
+S09,Jammu & Kashmir,11,Sonawari,GEN,3,Anantnag
+S09,Jammu & Kashmir,12,Sangrama,GEN,6,Jammu
+S09,Jammu & Kashmir,13,Baramulla,GEN,6,Jammu
+S09,Jammu & Kashmir,14,Gulmarg,GEN,5,Udhampur
+S09,Jammu & Kashmir,15,Pattan,GEN,6,Jammu
+S09,Jammu & Kashmir,16,Kangan,GEN,6,Jammu
+S09,Jammu & Kashmir,17,Ganderbal,GEN,5,Udhampur
+S09,Jammu & Kashmir,18,Hazratbal,GEN,6,Jammu
+S09,Jammu & Kashmir,19,Zadibal,GEN,6,Jammu
+S09,Jammu & Kashmir,20,Idgah,GEN,6,Jammu
+S09,Jammu & Kashmir,21,Khanyar,GEN,5,Udhampur
+S09,Jammu & Kashmir,22,Habbakadal,GEN,6,Jammu
+S09,Jammu & Kashmir,23,Amirakadal,GEN,0,
+S09,Jammu & Kashmir,24,Sonawar,GEN,5,Udhampur
+S09,Jammu & Kashmir,25,Batamaloo,GEN,5,Udhampur
+S09,Jammu & Kashmir,26,Chadoora,GEN,3,Anantnag
+S09,Jammu & Kashmir,27,Badgam,GEN,5,Udhampur
+S09,Jammu & Kashmir,28,Beerwah,GEN,6,Jammu
+S09,Jammu & Kashmir,29,Khansahib,GEN,3,Anantnag
+S09,Jammu & Kashmir,30,Chrari Sharief,GEN,3,Anantnag
+S09,Jammu & Kashmir,31,Tral,GEN,2,Srinagar
+S09,Jammu & Kashmir,32,Pampore,GEN,2,Srinagar
+S09,Jammu & Kashmir,33,Pulwama,GEN,3,Anantnag
+S09,Jammu & Kashmir,34,Rajpora,GEN,3,Anantnag
+S09,Jammu & Kashmir,35,Wachi,GEN,3,Anantnag
+S09,Jammu & Kashmir,36,Shopian,GEN,6,Jammu
+S09,Jammu & Kashmir,37,Noorabad,GEN,6,Jammu
+S09,Jammu & Kashmir,38,Kulgam,GEN,1,Baramulla
+S09,Jammu & Kashmir,39,Homeshalibugh,GEN,6,Jammu
+S09,Jammu & Kashmir,40,Anantnag,GEN,3,Anantnag
+S09,Jammu & Kashmir,41,Devsar,GEN,1,Baramulla
+S09,Jammu & Kashmir,42,Doru,GEN,4,Ladakh
+S09,Jammu & Kashmir,43,Kokerang,GEN,1,Baramulla
+S09,Jammu & Kashmir,44,Shangus,GEN,1,Baramulla
+S09,Jammu & Kashmir,45,Bijbehara,GEN,1,Baramulla
+S09,Jammu & Kashmir,46,Pahalgam,GEN,2,Srinagar
+S09,Jammu & Kashmir,47,Nobra,GEN,1,Baramulla
+S09,Jammu & Kashmir,48,Leh,GEN,3,Anantnag
+S09,Jammu & Kashmir,49,Kargil,GEN,1,Baramulla
+S09,Jammu & Kashmir,50,Zanskar,GEN,1,Baramulla
+S09,Jammu & Kashmir,51,Kishtwar,GEN,2,Srinagar
+S09,Jammu & Kashmir,52,Inderwal,GEN,1,Baramulla
+S09,Jammu & Kashmir,53,Doda,GEN,1,Baramulla
+S09,Jammu & Kashmir,54,Bhaderwah,GEN,5,Udhampur
+S09,Jammu & Kashmir,55,Ramban,SC,6,Jammu
+S09,Jammu & Kashmir,56,Banihal,GEN,3,Anantnag
+S09,Jammu & Kashmir,57,Gulabgarh,GEN,5,Udhampur
+S09,Jammu & Kashmir,58,Reasi,GEN,5,Udhampur
+S09,Jammu & Kashmir,59,Gool Arnas,GEN,5,Udhampur
+S09,Jammu & Kashmir,60,Udhampur,GEN,6,Jammu
+S09,Jammu & Kashmir,61,Chanani,SC,6,Jammu
+S09,Jammu & Kashmir,62,Ramnagar,GEN,5,Udhampur
+S09,Jammu & Kashmir,63,Bani,GEN,5,Udhampur
+S09,Jammu & Kashmir,64,Basohli,GEN,6,Jammu
+S09,Jammu & Kashmir,65,Kathua,GEN,6,Jammu
+S09,Jammu & Kashmir,66,Billawar,GEN,6,Jammu
+S09,Jammu & Kashmir,67,Hiranagar,SC,5,Udhampur
+S09,Jammu & Kashmir,68,Samba,SC,6,Jammu
+S09,Jammu & Kashmir,69,Vijaypur,GEN,6,Jammu
+S09,Jammu & Kashmir,70,Nagrota,GEN,6,Jammu
+S09,Jammu & Kashmir,71,Gandhinagar,GEN,6,Jammu
+S09,Jammu & Kashmir,72,Jammu East,GEN,5,Udhampur
+S09,Jammu & Kashmir,73,Jammu West,GEN,6,Jammu
+S09,Jammu & Kashmir,75,R.S. Pura,SC,4,Ladakh
+S09,Jammu & Kashmir,76,Suchetgarh,GEN,4,Ladakh
+S09,Jammu & Kashmir,77,Marh,GEN,5,Udhampur
+S10,Karnataka,1,Aurad,GEN,1,Bidar
+S10,Karnataka,2,Bhalki,GEN,1,Bidar
+S10,Karnataka,3,Hulsoor,SC,1,Bidar
+S10,Karnataka,4,Bidar,GEN,1,Bidar
+S10,Karnataka,5,Humnabad,GEN,1,Bidar
+S10,Karnataka,6,Basavakalyan,GEN,1,Bidar
+S10,Karnataka,7,Chincholi,GEN,2,Gulbarga
+S10,Karnataka,8,Kamalapur,SC,1,Bidar
+S10,Karnataka,9,Alland,GEN,1,Bidar
+S10,Karnataka,10,Gulbarga,GEN,2,Gulbarga
+S10,Karnataka,11,Shahabad,SC,2,Gulbarga
+S10,Karnataka,12,Afzalpur,GEN,2,Gulbarga
+S10,Karnataka,13,Chitapur,GEN,2,Gulbarga
+S10,Karnataka,14,Sedam,GEN,2,Gulbarga
+S10,Karnataka,15,Jewargi,GEN,2,Gulbarga
+S10,Karnataka,16,Gurmitkal,SC,3,Raichur
+S10,Karnataka,17,Yadgir,GEN,3,Raichur
+S10,Karnataka,18,Shahapur,GEN,3,Raichur
+S10,Karnataka,19,Shorapur,GEN,3,Raichur
+S10,Karnataka,20,Deodurg,SC,3,Raichur
+S10,Karnataka,21,Raichur,GEN,3,Raichur
+S10,Karnataka,22,Kalmala,GEN,3,Raichur
+S10,Karnataka,23,Manvi,GEN,3,Raichur
+S10,Karnataka,24,Lingsugur,GEN,3,Raichur
+S10,Karnataka,25,Sindhnoor,GEN,4,Koppal
+S10,Karnataka,26,Kushtagi,GEN,4,Koppal
+S10,Karnataka,27,Yelburga,GEN,4,Koppal
+S10,Karnataka,28,Kanakagiri,GEN,4,Koppal
+S10,Karnataka,29,Gangavathi,GEN,4,Koppal
+S10,Karnataka,30,Koppal,GEN,4,Koppal
+S10,Karnataka,31,Siruguppa,GEN,5,Bellary
+S10,Karnataka,32,Kurugodu,GEN,5,Bellary
+S10,Karnataka,33,Bellary,GEN,5,Bellary
+S10,Karnataka,34,Hospet,GEN,5,Bellary
+S10,Karnataka,35,Sandur,GEN,5,Bellary
+S10,Karnataka,36,Kudligi,GEN,5,Bellary
+S10,Karnataka,37,Kottur,GEN,5,Bellary
+S10,Karnataka,38,Hadagalli,GEN,5,Bellary
+S10,Karnataka,39,Harapanahalli,SC,5,Bellary
+S10,Karnataka,40,Harihar,GEN,6,Davangere
+S10,Karnataka,41,Davangere,GEN,6,Davangere
+S10,Karnataka,42,Mayakonda,GEN,6,Davangere
+S10,Karnataka,43,Bharamasagara,SC,6,Davangere
+S10,Karnataka,44,Chitradurga,GEN,7,Chitradurga
+S10,Karnataka,45,Jagalur,GEN,6,Davangere
+S10,Karnataka,46,Molakalmuru,GEN,7,Chitradurga
+S10,Karnataka,47,Challakere,GEN,7,Chitradurga
+S10,Karnataka,48,Hiriyur,SC,7,Chitradurga
+S10,Karnataka,49,Holalkere,GEN,6,Davangere
+S10,Karnataka,50,Hosadurga,GEN,7,Chitradurga
+S10,Karnataka,51,Pavagada,SC,7,Chitradurga
+S10,Karnataka,52,Sira,GEN,7,Chitradurga
+S10,Karnataka,53,Kallambella,GEN,7,Chitradurga
+S10,Karnataka,54,Bellavi,GEN,8,Tumkur
+S10,Karnataka,55,Madhugiri,SC,9,Chikballapur
+S10,Karnataka,56,Koratagere,GEN,9,Chikballapur
+S10,Karnataka,57,Tumkur,GEN,8,Tumkur
+S10,Karnataka,58,Kunigal,GEN,8,Tumkur
+S10,Karnataka,59,Huliyurdurga,GEN,8,Tumkur
+S10,Karnataka,60,Gubbi,GEN,8,Tumkur
+S10,Karnataka,61,Turuvekere,GEN,8,Tumkur
+S10,Karnataka,62,Tiptur,GEN,8,Tumkur
+S10,Karnataka,63,Chiknaikanahalli,GEN,8,Tumkur
+S10,Karnataka,64,Gowribidanur,GEN,9,Chikballapur
+S10,Karnataka,65,Chikballapur,SC,9,Chikballapur
+S10,Karnataka,66,Sidlaghatta,GEN,9,Chikballapur
+S10,Karnataka,67,Bagepalli,GEN,9,Chikballapur
+S10,Karnataka,68,Chintamani,GEN,10,Kolar
+S10,Karnataka,69,Srinivasapur,GEN,10,Kolar
+S10,Karnataka,70,Mulbagal,GEN,10,Kolar
+S10,Karnataka,71,Kolar Gold Fields,SC,10,Kolar
+S10,Karnataka,72,Bethamangala,SC,10,Kolar
+S10,Karnataka,73,Kolar,GEN,10,Kolar
+S10,Karnataka,74,Vemgal,GEN,10,Kolar
+S10,Karnataka,75,Malur,GEN,10,Kolar
+S10,Karnataka,76,Malleswaram,GEN,12,Bangalore North
+S10,Karnataka,77,Rajajinagar,GEN,12,Bangalore North
+S10,Karnataka,78,Gandhinagar,GEN,12,Bangalore North
+S10,Karnataka,79,Chickpet,GEN,12,Bangalore North
+S10,Karnataka,80,Binnypet,GEN,9,Chikballapur
+S10,Karnataka,81,Chamarajapet,GEN,12,Bangalore North
+S10,Karnataka,82,Basavanagudi,GEN,11,Kanakapura
+S10,Karnataka,83,Jayanagar,GEN,13,Bangalore South
+S10,Karnataka,84,Shanthinagar,SC,13,Bangalore South
+S10,Karnataka,85,Shivajinagar,GEN,12,Bangalore North
+S10,Karnataka,86,Bharathinagar,GEN,12,Bangalore North
+S10,Karnataka,87,Jayamahal,GEN,12,Bangalore North
+S10,Karnataka,88,Yelahanka,SC,12,Bangalore North
+S10,Karnataka,89,Uttarahalli,GEN,11,Kanakapura
+S10,Karnataka,90,Varthur,GEN,13,Bangalore South
+S10,Karnataka,91,Kanakapura,GEN,11,Kanakapura
+S10,Karnataka,92,Sathanur,GEN,11,Kanakapura
+S10,Karnataka,93,Channapatna,GEN,11,Kanakapura
+S10,Karnataka,94,Ramanagaram,GEN,11,Kanakapura
+S10,Karnataka,95,Magadi,GEN,11,Kanakapura
+S10,Karnataka,96,Nelamangala,SC,9,Chikballapur
+S10,Karnataka,97,Doddaballapur,GEN,9,Chikballapur
+S10,Karnataka,98,Devanahalli,SC,12,Bangalore North
+S10,Karnataka,99,Hosakote,GEN,12,Bangalore North
+S10,Karnataka,100,Anekal,SC,11,Kanakapura
+S10,Karnataka,101,Nagamangala,GEN,14,Mandya
+S10,Karnataka,102,Maddur,GEN,14,Mandya
+S10,Karnataka,103,Kiragaval,GEN,14,Mandya
+S10,Karnataka,104,Malavalli,SC,11,Kanakapura
+S10,Karnataka,105,Mandya,GEN,14,Mandya
+S10,Karnataka,106,Keragodu,GEN,14,Mandya
+S10,Karnataka,107,Srirangapatna,GEN,14,Mandya
+S10,Karnataka,108,Pandavapura,GEN,14,Mandya
+S10,Karnataka,109,Krishnarajpet,GEN,14,Mandya
+S10,Karnataka,110,Hanur,GEN,15,Chamarajanagar
+S10,Karnataka,111,Kollegal,SC,15,Chamarajanagar
+S10,Karnataka,112,Bannur,GEN,15,Chamarajanagar
+S10,Karnataka,113,T. Narasipur,SC,15,Chamarajanagar
+S10,Karnataka,114,Krishnaraj,GEN,16,Mysore
+S10,Karnataka,115,Chamaraja,GEN,16,Mysore
+S10,Karnataka,116,Narasimharaja,GEN,16,Mysore
+S10,Karnataka,117,Chamundeswari,GEN,16,Mysore
+S10,Karnataka,118,Nanjangud,GEN,15,Chamarajanagar
+S10,Karnataka,119,Santhemarahalli,SC,15,Chamarajanagar
+S10,Karnataka,120,Chamarajanagar,GEN,15,Chamarajanagar
+S10,Karnataka,121,Gundlupet,GEN,15,Chamarajanagar
+S10,Karnataka,122,Heggadadevanakote,SC,16,Mysore
+S10,Karnataka,123,Hunsur,GEN,16,Mysore
+S10,Karnataka,124,Krishnarajanagar,GEN,16,Mysore
+S10,Karnataka,125,Periyapatna,GEN,16,Mysore
+S10,Karnataka,126,Virajpet,ST,17,Mangalore
+S10,Karnataka,127,Madikere,GEN,17,Mangalore
+S10,Karnataka,128,Somwarpet,GEN,17,Mangalore
+S10,Karnataka,129,Belur,SC,19,Hassan
+S10,Karnataka,130,Arsikere,GEN,19,Hassan
+S10,Karnataka,131,Gandsi,GEN,19,Hassan
+S10,Karnataka,132,Sravanabelagola,GEN,19,Hassan
+S10,Karnataka,133,Holenarasipur,GEN,19,Hassan
+S10,Karnataka,134,Arkalgud,GEN,19,Hassan
+S10,Karnataka,135,Hassan,GEN,19,Hassan
+S10,Karnataka,136,Sakleshpur,GEN,19,Hassan
+S10,Karnataka,137,Sullia,SC,17,Mangalore
+S10,Karnataka,138,Puttur,GEN,17,Mangalore
+S10,Karnataka,139,Vittal,GEN,17,Mangalore
+S10,Karnataka,140,Belthangady,GEN,20,Chikmagalur
+S10,Karnataka,141,Bantwal,GEN,18,Udupi
+S10,Karnataka,142,Mangalore,GEN,17,Mangalore
+S10,Karnataka,143,Ullal,GEN,17,Mangalore
+S10,Karnataka,144,Surathkal,GEN,18,Udupi
+S10,Karnataka,145,Kaup,GEN,18,Udupi
+S10,Karnataka,146,Udupi,GEN,18,Udupi
+S10,Karnataka,147,Brahmavar,GEN,18,Udupi
+S10,Karnataka,148,Coondapur,GEN,18,Udupi
+S10,Karnataka,149,Baindur,GEN,18,Udupi
+S10,Karnataka,150,Karkal,GEN,20,Chikmagalur
+S10,Karnataka,151,Moodabidri,GEN,18,Udupi
+S10,Karnataka,152,Sringeri,GEN,20,Chikmagalur
+S10,Karnataka,153,Mudigere,SC,20,Chikmagalur
+S10,Karnataka,154,Chikmagalur,GEN,20,Chikmagalur
+S10,Karnataka,155,Birur,GEN,20,Chikmagalur
+S10,Karnataka,156,Kadur,GEN,20,Chikmagalur
+S10,Karnataka,157,Tarikere,GEN,20,Chikmagalur
+S10,Karnataka,158,Channagiri,GEN,6,Davangere
+S10,Karnataka,159,Holehonnur,SC,21,Shimoga
+S10,Karnataka,160,Bhadravathi,GEN,20,Chikmagalur
+S10,Karnataka,161,Honnali,GEN,6,Davangere
+S10,Karnataka,162,Shimoga,GEN,21,Shimoga
+S10,Karnataka,163,Tirthahalli,GEN,21,Shimoga
+S10,Karnataka,164,Hosanagar,GEN,21,Shimoga
+S10,Karnataka,165,Sagar,GEN,21,Shimoga
+S10,Karnataka,166,Sorab,GEN,21,Shimoga
+S10,Karnataka,167,Shikaripur,GEN,21,Shimoga
+S10,Karnataka,168,Sirsi,SC,22,Kanara
+S10,Karnataka,169,Bhatkal,GEN,22,Kanara
+S10,Karnataka,170,Kumta,GEN,22,Kanara
+S10,Karnataka,171,Ankola,GEN,22,Kanara
+S10,Karnataka,172,Karwar,GEN,22,Kanara
+S10,Karnataka,173,Haliyal,GEN,22,Kanara
+S10,Karnataka,174,Dharwad Rural,GEN,24,Dharwad North
+S10,Karnataka,175,Dharwad,GEN,24,Dharwad North
+S10,Karnataka,176,Hubli,GEN,24,Dharwad North
+S10,Karnataka,177,Hubli Rural,GEN,24,Dharwad North
+S10,Karnataka,178,Kalghatgi,GEN,24,Dharwad North
+S10,Karnataka,179,Kundgol,GEN,23,Dharwad South
+S10,Karnataka,180,Shiggaon,GEN,23,Dharwad South
+S10,Karnataka,181,Hanagal,GEN,23,Dharwad South
+S10,Karnataka,182,Hirekerur,GEN,23,Dharwad South
+S10,Karnataka,183,Ranibennur,GEN,23,Dharwad South
+S10,Karnataka,184,Byadgi,SC,23,Dharwad South
+S10,Karnataka,185,Haveri,GEN,23,Dharwad South
+S10,Karnataka,186,Shirhatti,GEN,23,Dharwad South
+S10,Karnataka,187,Mundargi,GEN,4,Koppal
+S10,Karnataka,188,Gadag,GEN,24,Dharwad North
+S10,Karnataka,189,Ron,GEN,27,Bagalkot
+S10,Karnataka,190,Naragund,GEN,24,Dharwad North
+S10,Karnataka,191,Navalgund,GEN,24,Dharwad North
+S10,Karnataka,192,Ramdurg,GEN,25,Belgaum
+S10,Karnataka,193,Parasgad,GEN,25,Belgaum
+S10,Karnataka,194,Bailhongal,GEN,25,Belgaum
+S10,Karnataka,195,Kittur,GEN,22,Kanara
+S10,Karnataka,196,Khanapur,GEN,22,Kanara
+S10,Karnataka,197,Belgaum,GEN,22,Kanara
+S10,Karnataka,198,Uchagaon,GEN,25,Belgaum
+S10,Karnataka,199,Bagewadi,GEN,25,Belgaum
+S10,Karnataka,200,Gokak,ST,25,Belgaum
+S10,Karnataka,201,Arabhavi,GEN,25,Belgaum
+S10,Karnataka,202,Hukkeri,GEN,26,Chikkodi
+S10,Karnataka,203,Sankeshwar,GEN,48,Kolhapur
+S10,Karnataka,204,Nippani,GEN,26,Chikkodi
+S10,Karnataka,205,Sadalga,GEN,26,Chikkodi
+S10,Karnataka,206,Chikkodi,SC,26,Chikkodi
+S10,Karnataka,207,Raibag,SC,26,Chikkodi
+S10,Karnataka,208,Kagwad,GEN,26,Chikkodi
+S10,Karnataka,209,Athani,GEN,26,Chikkodi
+S10,Karnataka,210,Jamkhandi,GEN,27,Bagalkot
+S10,Karnataka,211,Bilgi,GEN,27,Bagalkot
+S10,Karnataka,212,Mudhol,SC,25,Belgaum
+S10,Karnataka,213,Bagalkot,GEN,27,Bagalkot
+S10,Karnataka,214,Badami,GEN,27,Bagalkot
+S10,Karnataka,215,Guledgud,GEN,27,Bagalkot
+S10,Karnataka,216,Hungund,GEN,27,Bagalkot
+S10,Karnataka,217,Muddebihal,GEN,28,Bijapur
+S10,Karnataka,218,Huvin-Hippargi,GEN,28,Bijapur
+S10,Karnataka,219,Basavana-Bagewadi,GEN,28,Bijapur
+S10,Karnataka,220,Tikota,GEN,28,Bijapur
+S10,Karnataka,221,Bijapur,GEN,28,Bijapur
+S10,Karnataka,222,Ballolli,SC,28,Bijapur
+S10,Karnataka,223,Indi,GEN,28,Bijapur
+S10,Karnataka,224,Sindgi,GEN,28,Bijapur
+S11,Kerala,1,Manjeswar,GEN,1,Kasaragod
+S11,Kerala,2,Kasaragod,GEN,1,Kasaragod
+S11,Kerala,3,Udma,GEN,1,Kasaragod
+S11,Kerala,4,Hosdrug,SC,1,Kasaragod
+S11,Kerala,5,Trikkarpur,GEN,1,Kasaragod
+S11,Kerala,6,Irikkur,GEN,2,Cannanore
+S11,Kerala,7,Payyannur,GEN,1,Kasaragod
+S11,Kerala,8,Taliparamba,GEN,2,Cannanore
+S11,Kerala,9,Azhicode,GEN,2,Cannanore
+S11,Kerala,10,Cannanore,GEN,2,Cannanore
+S11,Kerala,11,Edakkad,GEN,2,Cannanore
+S11,Kerala,12,Tellicherry,GEN,3,Badagara
+S11,Kerala,13,Peringalam,GEN,3,Badagara
+S11,Kerala,14,Kuthuparamba,GEN,2,Cannanore
+S11,Kerala,15,Peravoor,GEN,2,Cannanore
+S11,Kerala,16,North Wynad,ST,4,Wayanad
+S11,Kerala,17,Badagara,GEN,3,Badagara
+S11,Kerala,18,Nadapuram,GEN,3,Badagara
+S11,Kerala,19,Meppayur,GEN,3,Badagara
+S11,Kerala,20,Quilandy,GEN,0,
+S11,Kerala,21,Perambra,GEN,4,Kozikode
+S11,Kerala,22,Balusseri,GEN,4,Kozikode
+S11,Kerala,23,Koduvally,GEN,4,Kozikode
+S11,Kerala,24,Calicut- I,GEN,4,Kozikode
+S11,Kerala,25,Calicut- II,GEN,4,Kozikode
+S11,Kerala,26,Beypore,GEN,4,Kozikode
+S11,Kerala,27,Kunnamangalam,SC,4,Kozikode
+S11,Kerala,28,Thiruvambadi,GEN,4,Wayanad
+S11,Kerala,29,Kalpetta,GEN,4,Wayanad
+S11,Kerala,30,Sultan's Battery,GEN,4,Wayanad
+S11,Kerala,31,Wandoor,SC,4,Wayanad
+S11,Kerala,32,Nilambur,GEN,4,Wayanad
+S11,Kerala,33,Manjeri,GEN,4,Wayanad
+S11,Kerala,34,Malappuram,GEN,5,Malappuram
+S11,Kerala,35,Kondotty,GEN,5,Malappuram
+S11,Kerala,36,Tirurangadi,GEN,5,Malappuram
+S11,Kerala,37,Tanur,GEN,6,Ponnani
+S11,Kerala,38,Tirur,GEN,6,Ponnani
+S11,Kerala,39,Ponnani,GEN,6,Ponnani
+S11,Kerala,40,Kuttippuram,GEN,6,Ponnani
+S11,Kerala,41,Mankada,GEN,5,Malappuram
+S11,Kerala,42,Perinthalmanna,GEN,5,Malappuram
+S11,Kerala,43,Thrithala,SC,6,Ponnani
+S11,Kerala,44,Pattambi,GEN,7,Palghat
+S11,Kerala,45,Ottapalam,GEN,7,Palghat
+S11,Kerala,46,Sreekrishnapuram,GEN,7,Palghat
+S11,Kerala,47,Mannarkkad,GEN,7,Palghat
+S11,Kerala,48,Malampuzha,GEN,7,Palghat
+S11,Kerala,49,Palghat,GEN,7,Palghat
+S11,Kerala,50,Chittur,GEN,8,Alathur(SC)
+S11,Kerala,51,Kollengode,GEN,8,Alathur(SC)
+S11,Kerala,52,Coyalmannam,SC,8,Alathur(SC)
+S11,Kerala,53,Alathur,GEN,8,Alathur(SC)
+S11,Kerala,54,Chelakara,SC,8,Alathur(SC)
+S11,Kerala,55,Wadakkancherry,GEN,8,Alathur(SC)
+S11,Kerala,56,Kunnamkulam,GEN,8,Alathur(SC)
+S11,Kerala,57,Cherpu,GEN,9,Trichur
+S11,Kerala,58,Trichur,GEN,9,Trichur
+S11,Kerala,59,Ollur,GEN,9,Trichur
+S11,Kerala,60,Kodakara,GEN,9,Trichur
+S11,Kerala,61,Chalakudi,GEN,10,Chalakudy
+S11,Kerala,62,Mala,GEN,10,Chalakudy
+S11,Kerala,63,Irinjalakuda,GEN,9,Trichur
+S11,Kerala,64,Manalur,GEN,9,Trichur
+S11,Kerala,65,Guruvayoor,GEN,9,Trichur
+S11,Kerala,66,Nattika,GEN,9,Trichur
+S11,Kerala,67,Kodungallur,GEN,10,Chalakudy
+S11,Kerala,68,Ankamali,GEN,10,Chalakudy
+S11,Kerala,69,Vadakkekara,GEN,11,Ernakulam
+S11,Kerala,70,Parur,GEN,11,Ernakulam
+S11,Kerala,71,Narakal,SC,11,Ernakulam
+S11,Kerala,72,Ernakulam,GEN,11,Ernakulam
+S11,Kerala,73,Mattancherry,GEN,0,
+S11,Kerala,74,Palluruthy,GEN,11,Ernakulam
+S11,Kerala,75,Thrippunithura,GEN,11,Ernakulam
+S11,Kerala,76,Alwaye,GEN,11,Ernakulam
+S11,Kerala,77,Perumbavoor,GEN,10,Chalakudy
+S11,Kerala,78,Kunnathunad,GEN,14,Idukki
+S11,Kerala,79,Piravom,GEN,13,Kottayam
+S11,Kerala,80,Muvattupuzha,GEN,13,Kottayam
+S11,Kerala,81,Kothamangalam,GEN,14,Idukki
+S11,Kerala,82,Thodupuzha,GEN,14,Idukki
+S11,Kerala,83,Devicolam,SC,14,Idukki
+S11,Kerala,84,Idukki,GEN,14,Idukki
+S11,Kerala,85,Udumbanchola,GEN,14,Idukki
+S11,Kerala,86,Peermade,GEN,14,Idukki
+S11,Kerala,87,Kanjirappally,GEN,17,Pathanamthitta
+S11,Kerala,88,Vazhoor,GEN,17,Pathanamthitta
+S11,Kerala,89,Changanacherry,GEN,17,Mavelikkara
+S11,Kerala,90,Kottayam,GEN,13,Kottayam
+S11,Kerala,91,Ettumanoor,GEN,13,Kottayam
+S11,Kerala,92,Puthuppally,GEN,13,Kottayam
+S11,Kerala,93,Poonjar,GEN,17,Pathanamthitta
+S11,Kerala,94,Palai,GEN,13,Kottayam
+S11,Kerala,95,Kaduthuruthy,GEN,13,Kottayam
+S11,Kerala,96,Vaikom,SC,13,Kottayam
+S11,Kerala,97,Aroor,GEN,15,Alleppey
+S11,Kerala,98,Sherthalai,GEN,15,Alleppey
+S11,Kerala,99,Mararikulam,GEN,15,Alleppey
+S11,Kerala,100,Alleppey,GEN,0,
+S11,Kerala,101,Ambalapuzha,GEN,0,
+S11,Kerala,102,Kuttanad,GEN,17,Mavelikkara
+S11,Kerala,103,Haripad,GEN,15,Alleppey
+S11,Kerala,104,Kayamkulam,GEN,15,Alleppey
+S11,Kerala,105,Thiruvalla,GEN,17,Pathanamthitta
+S11,Kerala,106,Kallooppara,GEN,17,Pathanamthitta
+S11,Kerala,107,Aranmula,GEN,17,Pathanamthitta
+S11,Kerala,108,Chengannur,GEN,17,Mavelikkara
+S11,Kerala,109,Mavelikara,GEN,17,Mavelikkara
+S11,Kerala,110,Pandalam,SC,17,Mavelikkara
+S11,Kerala,111,Ranni,GEN,17,Pathanamthitta
+S11,Kerala,112,Pathanamthitta,GEN,17,Pathanamthitta
+S11,Kerala,113,Konni,GEN,17,Pathanamthitta
+S11,Kerala,114,Pathanapuram,GEN,17,Kollam
+S11,Kerala,115,Punaloor,GEN,17,Kollam
+S11,Kerala,116,Chadayamangalam,GEN,17,Kollam
+S11,Kerala,117,Kottarakara,GEN,17,Mavelikkara
+S11,Kerala,118,Neduvathur,SC,17,Mavelikkara
+S11,Kerala,119,Adoor,GEN,17,Pathanamthitta
+S11,Kerala,120,Kunnathur,SC,17,Mavelikkara
+S11,Kerala,121,Karunagapally,GEN,15,Alleppey
+S11,Kerala,122,Chavara,GEN,17,Kollam
+S11,Kerala,123,Kundara,GEN,17,Mavelikkara
+S11,Kerala,124,Quilon,GEN,17,Kollam
+S11,Kerala,125,Eravipuram,GEN,17,Kollam
+S11,Kerala,126,Chathanoor,GEN,17,Kollam
+S11,Kerala,127,Varkala,GEN,19,Attingal
+S11,Kerala,128,Attingal,GEN,19,Attingal
+S11,Kerala,129,Kilimanoor,SC,19,Attingal
+S11,Kerala,130,Vamanapuram,GEN,19,Attingal
+S11,Kerala,131,Ariyanad,GEN,19,Attingal
+S11,Kerala,132,Nedumangad,GEN,19,Attingal
+S11,Kerala,133,Kazhakuttam,GEN,19,Attingal
+S11,Kerala,134,Trivandrum North,GEN,20,Trivandrum
+S11,Kerala,135,Trivandrum West,GEN,20,Trivandrum
+S11,Kerala,136,Trivandrum East,GEN,20,Trivandrum
+S11,Kerala,137,Nemom,GEN,19,Attingal
+S11,Kerala,138,Kovalam,GEN,20,Trivandrum
+S11,Kerala,139,Neyyattinkara,GEN,20,Trivandrum
+S11,Kerala,140,Parassala,GEN,20,Trivandrum
+S12,Madhya Pradesh,1,Sheopur,GEN,1,Morena
+S12,Madhya Pradesh,2,Bijeypur,GEN,1,Morena
+S12,Madhya Pradesh,3,Sabalgarh,GEN,1,Morena
+S12,Madhya Pradesh,4,Joura,GEN,1,Morena
+S12,Madhya Pradesh,5,Sumawali,GEN,1,Morena
+S12,Madhya Pradesh,6,Morena,GEN,1,Morena
+S12,Madhya Pradesh,7,Dimni,SC,1,Morena
+S12,Madhya Pradesh,8,Ambah,SC,1,Morena
+S12,Madhya Pradesh,9,Gohad,SC,2,Bhind
+S12,Madhya Pradesh,10,Mehgaon,GEN,2,Bhind
+S12,Madhya Pradesh,11,Attair,GEN,2,Bhind
+S12,Madhya Pradesh,12,Bhind,GEN,2,Bhind
+S12,Madhya Pradesh,13,Ron,GEN,2,Bhind
+S12,Madhya Pradesh,14,Lahar,GEN,58,Jalaun
+S12,Madhya Pradesh,15,Gwalior,GEN,3,Gwalior
+S12,Madhya Pradesh,16,Lashkar East,GEN,3,Gwalior
+S12,Madhya Pradesh,17,Lashkar West,GEN,3,Gwalior
+S12,Madhya Pradesh,18,Morar,GEN,3,Gwalior
+S12,Madhya Pradesh,19,Gird,GEN,3,Gwalior
+S12,Madhya Pradesh,20,Dabra,GEN,3,Gwalior
+S12,Madhya Pradesh,21,Bhander,SC,3,Gwalior
+S12,Madhya Pradesh,22,Seondha,SC,2,Bhind
+S12,Madhya Pradesh,23,Datia,GEN,2,Bhind
+S12,Madhya Pradesh,24,Karera,GEN,3,Gwalior
+S12,Madhya Pradesh,25,Pohri,GEN,4,Guna
+S12,Madhya Pradesh,26,Shivpuri,GEN,4,Guna
+S12,Madhya Pradesh,27,Pichhore,GEN,4,Guna
+S12,Madhya Pradesh,28,Kolaras,SC,4,Guna
+S12,Madhya Pradesh,29,Guna,GEN,4,Guna
+S12,Madhya Pradesh,30,Chachaura,GEN,21,Rajgarh
+S12,Madhya Pradesh,31,Raghogarh,GEN,21,Rajgarh
+S12,Madhya Pradesh,32,Shadora,SC,4,Guna
+S12,Madhya Pradesh,33,Ashoknagar,GEN,4,Guna
+S12,Madhya Pradesh,34,Mungaoli,GEN,4,Guna
+S12,Madhya Pradesh,35,Bina,GEN,5,Sagar
+S12,Madhya Pradesh,36,Khurai,SC,5,Sagar
+S12,Madhya Pradesh,37,Banda,GEN,5,Sagar
+S12,Madhya Pradesh,38,Naryaoli,SC,5,Sagar
+S12,Madhya Pradesh,39,Sagar,GEN,5,Sagar
+S12,Madhya Pradesh,40,Surkhi,GEN,5,Sagar
+S12,Madhya Pradesh,41,Rehli,GEN,5,Sagar
+S12,Madhya Pradesh,42,Deori,GEN,5,Sagar
+S12,Madhya Pradesh,43,Niwari,GEN,6,Khajuraho
+S12,Madhya Pradesh,44,Jatara,GEN,6,Khajuraho
+S12,Madhya Pradesh,45,Khargapur,SC,6,Khajuraho
+S12,Madhya Pradesh,46,Tikamgarh,GEN,6,Khajuraho
+S12,Madhya Pradesh,47,Malehra,GEN,7,Damoh
+S12,Madhya Pradesh,48,Bijawar,GEN,6,Khajuraho
+S12,Madhya Pradesh,49,Chhatarpur,GEN,6,Khajuraho
+S12,Madhya Pradesh,50,Maharajpur,SC,6,Khajuraho
+S12,Madhya Pradesh,51,Chandla,GEN,6,Khajuraho
+S12,Madhya Pradesh,52,Nohata,GEN,7,Damoh
+S12,Madhya Pradesh,53,Damoh,GEN,7,Damoh
+S12,Madhya Pradesh,54,Patharia,SC,7,Damoh
+S12,Madhya Pradesh,55,Hatta,GEN,7,Damoh
+S12,Madhya Pradesh,56,Panna,GEN,7,Damoh
+S12,Madhya Pradesh,57,Amanganj,SC,7,Damoh
+S12,Madhya Pradesh,58,Pawai,GEN,7,Damoh
+S12,Madhya Pradesh,59,Maihar,GEN,8,Satna
+S12,Madhya Pradesh,60,Nagod,GEN,8,Satna
+S12,Madhya Pradesh,61,Raigaon,SC,8,Satna
+S12,Madhya Pradesh,62,Chitrakoot,GEN,8,Satna
+S12,Madhya Pradesh,63,Satna,GEN,8,Satna
+S12,Madhya Pradesh,64,Rampur Baghelan,GEN,9,Rewa
+S12,Madhya Pradesh,65,Amarpatan,GEN,8,Satna
+S12,Madhya Pradesh,66,Rewa,GEN,9,Rewa
+S12,Madhya Pradesh,67,Gurh,GEN,9,Rewa
+S12,Madhya Pradesh,68,Mangawan,GEN,9,Rewa
+S12,Madhya Pradesh,69,Sirmaur,GEN,9,Rewa
+S12,Madhya Pradesh,70,Teonthar,GEN,9,Rewa
+S12,Madhya Pradesh,71,Deotalab,SC,9,Rewa
+S12,Madhya Pradesh,72,Mauganj,GEN,9,Rewa
+S12,Madhya Pradesh,73,Churahat,GEN,10,Sidhi
+S12,Madhya Pradesh,74,Sidhi,GEN,10,Sidhi
+S12,Madhya Pradesh,75,Gopadbanas,GEN,10,Sidhi
+S12,Madhya Pradesh,76,Dhauhani,ST,10,Sidhi
+S12,Madhya Pradesh,77,Deosar,ST,10,Sidhi
+S12,Madhya Pradesh,78,Singrauli,SC,10,Sidhi
+S12,Madhya Pradesh,79,Beohari,GEN,11,Shahdol
+S12,Madhya Pradesh,80,Umaria,GEN,11,Shahdol
+S12,Madhya Pradesh,81,Nowrozabad,ST,11,Shahdol
+S12,Madhya Pradesh,82,Jaisinghnagar,ST,11,Shahdol
+S12,Madhya Pradesh,83,Kotma,ST,11,Shahdol
+S12,Madhya Pradesh,84,Anuppur,ST,11,Shahdol
+S12,Madhya Pradesh,85,Sohagpur,GEN,11,Shahdol
+S12,Madhya Pradesh,86,Pushprajgarh,ST,11,Shahdol
+S12,Madhya Pradesh,87,Baihar,ST,12,Balaghat
+S12,Madhya Pradesh,88,Lanji,GEN,12,Balaghat
+S12,Madhya Pradesh,89,Kirnapur,GEN,12,Balaghat
+S12,Madhya Pradesh,90,Waraseoni,GEN,12,Balaghat
+S12,Madhya Pradesh,91,Khairlanjee,GEN,12,Balaghat
+S12,Madhya Pradesh,92,Katangi,GEN,12,Balaghat
+S12,Madhya Pradesh,93,Balaghat,GEN,12,Balaghat
+S12,Madhya Pradesh,94,Paraswada,GEN,12,Balaghat
+S12,Madhya Pradesh,95,Nainpur,ST,13,Mandla
+S12,Madhya Pradesh,96,Mandla,ST,13,Mandla
+S12,Madhya Pradesh,97,Bichhia,ST,13,Mandla
+S12,Madhya Pradesh,98,Bajag,ST,13,Mandla
+S12,Madhya Pradesh,99,Dindori,ST,13,Mandla
+S12,Madhya Pradesh,100,Shahpura,ST,13,Mandla
+S12,Madhya Pradesh,101,Niwas,ST,13,Mandla
+S12,Madhya Pradesh,102,Bargi,ST,13,Mandla
+S12,Madhya Pradesh,103,Panagar,ST,14,Jabalpur
+S12,Madhya Pradesh,104,Jabalpur Cantonment,GEN,15,Seoni
+S12,Madhya Pradesh,105,Jabalpur East,SC,15,Seoni
+S12,Madhya Pradesh,106,Jabalpur Central,GEN,14,Jabalpur
+S12,Madhya Pradesh,107,Jabalpur West,GEN,15,Seoni
+S12,Madhya Pradesh,108,Patan,GEN,15,Seoni
+S12,Madhya Pradesh,109,Majholi,GEN,15,Seoni
+S12,Madhya Pradesh,110,Sihora,GEN,14,Jabalpur
+S12,Madhya Pradesh,111,Bahoriband,GEN,14,Jabalpur
+S12,Madhya Pradesh,112,Murwara,GEN,14,Jabalpur
+S12,Madhya Pradesh,113,Badwara,GEN,8,Satna
+S12,Madhya Pradesh,114,Vijairaghogarh,GEN,8,Satna
+S12,Madhya Pradesh,115,Gadarwara,GEN,19,Bhopal
+S12,Madhya Pradesh,116,Bohani,GEN,19,Bhopal
+S12,Madhya Pradesh,117,Narsimhapur,GEN,19,Bhopal
+S12,Madhya Pradesh,118,Gotegaon,SC,15,Seoni
+S12,Madhya Pradesh,119,Lakhanadon,ST,15,Seoni
+S12,Madhya Pradesh,120,Ghansor,ST,13,Mandla
+S12,Madhya Pradesh,121,Keolari,GEN,15,Seoni
+S12,Madhya Pradesh,122,Barghat,GEN,15,Seoni
+S12,Madhya Pradesh,123,Seoni,GEN,15,Seoni
+S12,Madhya Pradesh,124,Jamai,ST,16,Chhindwara
+S12,Madhya Pradesh,125,Chhindwara,GEN,16,Chhindwara
+S12,Madhya Pradesh,126,Parasia,SC,16,Chhindwara
+S12,Madhya Pradesh,127,Damua,ST,16,Chhindwara
+S12,Madhya Pradesh,128,Amarwara,ST,16,Chhindwara
+S12,Madhya Pradesh,129,Chaurai,GEN,16,Chhindwara
+S12,Madhya Pradesh,130,Sausar,GEN,16,Chhindwara
+S12,Madhya Pradesh,131,Pandhurna,GEN,16,Chhindwara
+S12,Madhya Pradesh,132,Piparia,GEN,19,Bhopal
+S12,Madhya Pradesh,133,Hoshangabad,GEN,19,Bhopal
+S12,Madhya Pradesh,134,Itarsi,GEN,19,Bhopal
+S12,Madhya Pradesh,135,Seoni-Malwa,GEN,19,Bhopal
+S12,Madhya Pradesh,136,Timarni,SC,17,Betul
+S12,Madhya Pradesh,137,Harda,GEN,17,Betul
+S12,Madhya Pradesh,138,Multai,GEN,17,Betul
+S12,Madhya Pradesh,139,Masod,GEN,17,Betul
+S12,Madhya Pradesh,140,Bhainsdehi,ST,17,Betul
+S12,Madhya Pradesh,141,Betul,GEN,17,Betul
+S12,Madhya Pradesh,142,Ghora Dongri,ST,17,Betul
+S12,Madhya Pradesh,143,Amla,SC,17,Betul
+S12,Madhya Pradesh,144,Budhni,GEN,20,Vidisha
+S12,Madhya Pradesh,145,Ichhawar,GEN,18,Hoshangabad
+S12,Madhya Pradesh,146,Ashta,SC,18,Hoshangabad
+S12,Madhya Pradesh,147,Sehore,GEN,18,Hoshangabad
+S12,Madhya Pradesh,148,Govindpura,GEN,18,Hoshangabad
+S12,Madhya Pradesh,149,Bhopal South,GEN,18,Hoshangabad
+S12,Madhya Pradesh,150,Bhopal North,GEN,18,Hoshangabad
+S12,Madhya Pradesh,151,Berasia,GEN,18,Hoshangabad
+S12,Madhya Pradesh,152,Sanchi,SC,20,Vidisha
+S12,Madhya Pradesh,153,Udaipura,GEN,20,Vidisha
+S12,Madhya Pradesh,154,Bareli,GEN,19,Bhopal
+S12,Madhya Pradesh,155,Bhojpur,GEN,20,Vidisha
+S12,Madhya Pradesh,156,Kurwai,SC,20,Vidisha
+S12,Madhya Pradesh,157,Basoda,GEN,20,Vidisha
+S12,Madhya Pradesh,158,Vidisha,GEN,20,Vidisha
+S12,Madhya Pradesh,159,Shamshabad,GEN,20,Vidisha
+S12,Madhya Pradesh,160,Sironj,GEN,21,Rajgarh
+S12,Madhya Pradesh,161,Biaora,GEN,21,Rajgarh
+S12,Madhya Pradesh,162,Narsingarh,GEN,21,Rajgarh
+S12,Madhya Pradesh,163,Sarangpur,SC,21,Rajgarh
+S12,Madhya Pradesh,164,Rajgarh,GEN,21,Rajgarh
+S12,Madhya Pradesh,165,Khilchipur,GEN,21,Rajgarh
+S12,Madhya Pradesh,166,Shujalpur,GEN,22,Shajapur
+S12,Madhya Pradesh,167,Gulana,GEN,22,Shajapur
+S12,Madhya Pradesh,168,Shajapur,GEN,22,Shajapur
+S12,Madhya Pradesh,169,Agar,SC,22,Shajapur
+S12,Madhya Pradesh,170,Susner,GEN,22,Shajapur
+S12,Madhya Pradesh,171,Tarana,SC,27,Ujjain
+S12,Madhya Pradesh,172,Mahidpur,GEN,27,Ujjain
+S12,Madhya Pradesh,173,Khachrod,GEN,27,Ujjain
+S12,Madhya Pradesh,174,Badnagar,GEN,27,Ujjain
+S12,Madhya Pradesh,175,Ghatiya,SC,27,Ujjain
+S12,Madhya Pradesh,176,Ujjain North,GEN,27,Ujjain
+S12,Madhya Pradesh,177,Ujjain South,GEN,26,Indore
+S12,Madhya Pradesh,178,Depalpur,GEN,26,Indore
+S12,Madhya Pradesh,179,Mhow,GEN,26,Indore
+S12,Madhya Pradesh,180,Indore-I,GEN,26,Indore
+S12,Madhya Pradesh,181,Indore-II,GEN,26,Indore
+S12,Madhya Pradesh,182,Indore-III,GEN,26,Indore
+S12,Madhya Pradesh,183,Indore-IV,GEN,26,Indore
+S12,Madhya Pradesh,184,Indore-V,GEN,24,Khargone
+S12,Madhya Pradesh,185,Sawer,SC,26,Indore
+S12,Madhya Pradesh,186,Dewas,GEN,22,Shajapur
+S12,Madhya Pradesh,187,Sonkatch,SC,22,Shajapur
+S12,Madhya Pradesh,188,Hatpipalya,GEN,22,Shajapur
+S12,Madhya Pradesh,189,Bagli,GEN,23,Khandwa
+S12,Madhya Pradesh,190,Khategaon,GEN,18,Hoshangabad
+S12,Madhya Pradesh,191,Harsud,ST,23,Khandwa
+S12,Madhya Pradesh,192,Nimarkhedi,GEN,23,Khandwa
+S12,Madhya Pradesh,193,Pandhana,SC,23,Khandwa
+S12,Madhya Pradesh,194,Khandwa,GEN,23,Khandwa
+S12,Madhya Pradesh,195,Nepanagar,GEN,23,Khandwa
+S12,Madhya Pradesh,196,Shahpur,GEN,23,Khandwa
+S12,Madhya Pradesh,197,Burhanpur,GEN,23,Khandwa
+S12,Madhya Pradesh,198,Bhikangaon,ST,24,Khargone
+S12,Madhya Pradesh,199,Barwaha,GEN,24,Khargone
+S12,Madhya Pradesh,200,Maheshwar,SC,24,Khargone
+S12,Madhya Pradesh,201,Kasrawad,GEN,24,Khargone
+S12,Madhya Pradesh,202,Khargone,GEN,24,Khargone
+S12,Madhya Pradesh,203,Dhulkot,ST,24,Khargone
+S12,Madhya Pradesh,204,Sendhwa,ST,24,Khargone
+S12,Madhya Pradesh,205,Anjad,ST,25,Dhar
+S12,Madhya Pradesh,206,Rajpur,ST,24,Khargone
+S12,Madhya Pradesh,207,Barwani,ST,25,Dhar
+S12,Madhya Pradesh,208,Manawar,ST,25,Dhar
+S12,Madhya Pradesh,209,Dharampuri,ST,25,Dhar
+S12,Madhya Pradesh,210,Dhar,GEN,25,Dhar
+S12,Madhya Pradesh,211,Badnawar,GEN,25,Dhar
+S12,Madhya Pradesh,212,Sardarpur,ST,25,Dhar
+S12,Madhya Pradesh,213,Kukshi,ST,25,Dhar
+S12,Madhya Pradesh,214,Alirajpur,ST,28,Jhabua
+S12,Madhya Pradesh,215,Jobat,ST,28,Jhabua
+S12,Madhya Pradesh,216,Jhabua,ST,28,Jhabua
+S12,Madhya Pradesh,217,Petlawad,ST,28,Jhabua
+S12,Madhya Pradesh,218,Thandla,ST,28,Jhabua
+S12,Madhya Pradesh,219,Ratlam Town,GEN,28,Jhabua
+S12,Madhya Pradesh,220,Ratlam Rural,GEN,28,Jhabua
+S12,Madhya Pradesh,221,Sailana,ST,28,Jhabua
+S12,Madhya Pradesh,222,Jaora,GEN,29,Mandsaur
+S12,Madhya Pradesh,223,Alot,SC,27,Ujjain
+S12,Madhya Pradesh,224,Manasa,GEN,29,Mandsaur
+S12,Madhya Pradesh,225,Garoth,GEN,15,Jhalawar
+S12,Madhya Pradesh,226,Suwasara,SC,29,Mandsaur
+S12,Madhya Pradesh,227,Sitamau,GEN,29,Mandsaur
+S12,Madhya Pradesh,228,Mandsaur,GEN,29,Mandsaur
+S12,Madhya Pradesh,229,Neemuch,GEN,29,Mandsaur
+S12,Madhya Pradesh,230,Jawad,GEN,29,Mandsaur
+S13,Maharashtra,1,Sawantwadi,GEN,1,Rajapur
+S13,Maharashtra,2,Vengurla,GEN,1,Rajapur
+S13,Maharashtra,3,Malvan,GEN,1,Rajapur
+S13,Maharashtra,4,Devgad,GEN,1,Rajapur
+S13,Maharashtra,5,Rajapur,GEN,1,Rajapur
+S13,Maharashtra,6,Ratnagiri,GEN,2,Ratnagiri
+S13,Maharashtra,7,Sangameshwar,GEN,1,Rajapur
+S13,Maharashtra,8,Guhagar,GEN,2,Ratnagiri
+S13,Maharashtra,9,Chiplun,GEN,2,Ratnagiri
+S13,Maharashtra,10,Khed,GEN,2,Ratnagiri
+S13,Maharashtra,11,Dapoli,GEN,2,Ratnagiri
+S13,Maharashtra,12,Mahad,GEN,2,Ratnagiri
+S13,Maharashtra,13,Shriwardhan,GEN,3,Kolaba
+S13,Maharashtra,14,Mangaon,GEN,3,Kolaba
+S13,Maharashtra,15,Pen,GEN,3,Kolaba
+S13,Maharashtra,16,Alibag,GEN,3,Kolaba
+S13,Maharashtra,17,Panvel,GEN,3,Kolaba
+S13,Maharashtra,18,Khalapur,GEN,3,Kolaba
+S13,Maharashtra,19,Colaba,GEN,4,Mumbai South
+S13,Maharashtra,20,Umarkhadi,GEN,4,Mumbai South
+S13,Maharashtra,21,Mubadevi,GEN,4,Mumbai South
+S13,Maharashtra,22,Khetwadi,GEN,5,Mumbai South Central
+S13,Maharashtra,23,Opera House,GEN,0,
+S13,Maharashtra,24,Malbar Hill,GEN,5,Mumbai South Central
+S13,Maharashtra,25,Chinchpokli,GEN,6,Mumbai North Central
+S13,Maharashtra,26,Nagpada,GEN,5,Mumbai South Central
+S13,Maharashtra,27,Mazgaon,GEN,6,Mumbai North Central
+S13,Maharashtra,28,Parel,GEN,6,Mumbai North Central
+S13,Maharashtra,29,Shivadi,GEN,6,Mumbai North Central
+S13,Maharashtra,30,Worli,GEN,8,Mumbai North West
+S13,Maharashtra,31,Naigaum,GEN,8,Mumbai North West
+S13,Maharashtra,32,Dadar,GEN,8,Mumbai North West
+S13,Maharashtra,33,Matunga,GEN,8,Mumbai North West
+S13,Maharashtra,34,Mahim,GEN,8,Mumbai North West
+S13,Maharashtra,35,Dharavi,SC,8,Mumbai North West
+S13,Maharashtra,36,Vandre,GEN,7,Mumbai North East
+S13,Maharashtra,37,Kherwadi,GEN,7,Mumbai North East
+S13,Maharashtra,38,Vileparle,GEN,7,Mumbai North East
+S13,Maharashtra,39,Amboli,GEN,8,Mumbai North West
+S13,Maharashtra,40,Santacruz,GEN,7,Mumbai North East
+S13,Maharashtra,41,Andheri,GEN,7,Mumbai North East
+S13,Maharashtra,42,Goregaon,GEN,8,Mumbai North West
+S13,Maharashtra,43,Malad,GEN,8,Mumbai North West
+S13,Maharashtra,44,Kandivali,GEN,8,Mumbai North West
+S13,Maharashtra,45,Borivali,GEN,9,Mumbai North
+S13,Maharashtra,46,Trombay,GEN,7,Mumbai North East
+S13,Maharashtra,47,Chembur,GEN,8,Mumbai North West
+S13,Maharashtra,48,Nehrunagar,GEN,8,Mumbai North West
+S13,Maharashtra,49,Kurla,GEN,9,Mumbai North
+S13,Maharashtra,50,Ghatkopar,GEN,9,Mumbai North
+S13,Maharashtra,51,Bhandup,GEN,9,Mumbai North
+S13,Maharashtra,52,Mulund,GEN,9,Mumbai North
+S13,Maharashtra,53,Thane,GEN,10,Thane
+S13,Maharashtra,54,Belapur,GEN,10,Thane
+S13,Maharashtra,55,Ulhasnagar,GEN,10,Thane
+S13,Maharashtra,56,Ambernath,GEN,10,Thane
+S13,Maharashtra,57,Kalyan,GEN,10,Thane
+S13,Maharashtra,58,Murbad,GEN,10,Thane
+S13,Maharashtra,59,Wada,ST,11,Dahanu
+S13,Maharashtra,60,Bhiwandi,GEN,11,Dahanu
+S13,Maharashtra,61,Vasai,GEN,10,Thane
+S13,Maharashtra,62,Palghar,ST,10,Thane
+S13,Maharashtra,63,Dahanu,ST,11,Dahanu
+S13,Maharashtra,64,Jawhar,ST,11,Dahanu
+S13,Maharashtra,65,Shahapur,ST,11,Dahanu
+S13,Maharashtra,66,Igatpuri,ST,11,Dahanu
+S13,Maharashtra,67,Nashik,GEN,12,Nashik
+S13,Maharashtra,68,Deolali,SC,12,Nashik
+S13,Maharashtra,69,Sinnar,GEN,12,Nashik
+S13,Maharashtra,70,Niphad,GEN,12,Nashik
+S13,Maharashtra,71,Yevla,GEN,12,Nashik
+S13,Maharashtra,72,Nandgaon,GEN,13,Malegaon
+S13,Maharashtra,73,Malegaon,GEN,13,Malegaon
+S13,Maharashtra,74,Dabhadi,GEN,13,Malegaon
+S13,Maharashtra,75,Chandwad,GEN,13,Malegaon
+S13,Maharashtra,76,Dindori,ST,13,Malegaon
+S13,Maharashtra,77,Surgana,ST,13,Malegaon
+S13,Maharashtra,78,Kalvan,ST,14,Dhule
+S13,Maharashtra,79,Baglan,ST,14,Dhule
+S13,Maharashtra,80,Sakri,ST,15,Nandurbar
+S13,Maharashtra,81,Nawapur,ST,15,Nandurbar
+S13,Maharashtra,82,Nandurbar,ST,15,Nandurbar
+S13,Maharashtra,83,Talode,ST,15,Nandurbar
+S13,Maharashtra,84,Akrani,ST,15,Nandurbar
+S13,Maharashtra,85,Shahade,GEN,15,Nandurbar
+S13,Maharashtra,86,Shirpur,GEN,15,Nandurbar
+S13,Maharashtra,87,Sinkheda,GEN,14,Dhule
+S13,Maharashtra,88,Kusumba,GEN,14,Dhule
+S13,Maharashtra,89,Dhule,GEN,14,Dhule
+S13,Maharashtra,90,Chalisgaon,SC,16,Erandol
+S13,Maharashtra,91,Parola,GEN,16,Erandol
+S13,Maharashtra,92,Amalner,GEN,16,Erandol
+S13,Maharashtra,93,Chopda,GEN,16,Erandol
+S13,Maharashtra,94,Erandol,GEN,16,Erandol
+S13,Maharashtra,95,Jalgaon,GEN,17,Jalgaon
+S13,Maharashtra,96,Pachora,GEN,33,Aurangabad
+S13,Maharashtra,97,Jamner,GEN,17,Jalgaon
+S13,Maharashtra,98,Bhusawal,GEN,17,Jalgaon
+S13,Maharashtra,99,Yaval,GEN,17,Jalgaon
+S13,Maharashtra,100,Raver,GEN,17,Jalgaon
+S13,Maharashtra,101,Edlabad,GEN,18,Buldhana
+S13,Maharashtra,102,Malkapur,GEN,18,Buldhana
+S13,Maharashtra,103,Buldhana,GEN,18,Buldhana
+S13,Maharashtra,104,Chikhli,GEN,18,Buldhana
+S13,Maharashtra,105,Sindkhedraja,GEN,18,Buldhana
+S13,Maharashtra,106,Mehkar,GEN,18,Buldhana
+S13,Maharashtra,107,Khamgaon,GEN,19,Akola
+S13,Maharashtra,108,Jalamb,GEN,18,Buldhana
+S13,Maharashtra,109,Akot,GEN,19,Akola
+S13,Maharashtra,110,Borgaon Manju,GEN,19,Akola
+S13,Maharashtra,111,Akola,GEN,19,Akola
+S13,Maharashtra,112,Balapur,GEN,19,Akola
+S13,Maharashtra,113,Medshi,GEN,20,Washim
+S13,Maharashtra,114,Washim,SC,29,Hingoli
+S13,Maharashtra,115,Mangrulpir,GEN,20,Washim
+S13,Maharashtra,116,Murtajapur,GEN,19,Akola
+S13,Maharashtra,117,Karanja,GEN,20,Washim
+S13,Maharashtra,118,Daryapur,GEN,21,Amravati
+S13,Maharashtra,119,Melghat,ST,21,Amravati
+S13,Maharashtra,120,Achalpur,GEN,21,Amravati
+S13,Maharashtra,121,Morshi,GEN,22,Ramtek
+S13,Maharashtra,122,Teosa,GEN,27,Wardha
+S13,Maharashtra,123,Walgaon,GEN,21,Amravati
+S13,Maharashtra,124,Amravati,GEN,27,Wardha
+S13,Maharashtra,125,Badnera,GEN,21,Amravati
+S13,Maharashtra,126,Chandur,GEN,27,Wardha
+S13,Maharashtra,127,Arvi,GEN,27,Wardha
+S13,Maharashtra,128,Pulgaon,GEN,27,Wardha
+S13,Maharashtra,129,Wardha,GEN,27,Wardha
+S13,Maharashtra,130,Hinganghat,GEN,27,Wardha
+S13,Maharashtra,131,Umred,GEN,22,Ramtek
+S13,Maharashtra,132,Kamptee,GEN,23,Nagpur
+S13,Maharashtra,133,Nagpur North,SC,23,Nagpur
+S13,Maharashtra,134,Nagpur East,GEN,23,Nagpur
+S13,Maharashtra,135,Nagpur South,GEN,23,Nagpur
+S13,Maharashtra,136,Nagpur Central,GEN,23,Nagpur
+S13,Maharashtra,137,Nagpur West,GEN,23,Nagpur
+S13,Maharashtra,138,Kalmeshwar,GEN,22,Ramtek
+S13,Maharashtra,139,Katol,GEN,22,Ramtek
+S13,Maharashtra,140,Savner,GEN,22,Ramtek
+S13,Maharashtra,141,Ramtek,GEN,22,Ramtek
+S13,Maharashtra,142,Tumsar,GEN,24,Bhandara
+S13,Maharashtra,143,Bhandara,GEN,24,Bhandara
+S13,Maharashtra,144,Adyar,GEN,25,Chimur
+S13,Maharashtra,145,Tirora,SC,24,Bhandara
+S13,Maharashtra,146,Gondia,GEN,24,Bhandara
+S13,Maharashtra,147,Goregaon,GEN,24,Bhandara
+S13,Maharashtra,148,Amgaon,GEN,24,Bhandara
+S13,Maharashtra,149,Sakoli,GEN,25,Chimur
+S13,Maharashtra,150,Lakhandur,GEN,25,Chimur
+S13,Maharashtra,151,Armori,ST,25,Chimur
+S13,Maharashtra,152,Gadchiroli,ST,26,Chandrapur
+S13,Maharashtra,153,Sironcha,ST,26,Chandrapur
+S13,Maharashtra,154,Rajura,GEN,26,Chandrapur
+S13,Maharashtra,155,Chandrapur,GEN,26,Chandrapur
+S13,Maharashtra,156,Saoli,GEN,26,Chandrapur
+S13,Maharashtra,157,Brahmapuri,GEN,25,Chimur
+S13,Maharashtra,158,Chimur,GEN,25,Chimur
+S13,Maharashtra,159,Bhadrawati,GEN,26,Chandrapur
+S13,Maharashtra,160,Wani,GEN,28,Yavatmal
+S13,Maharashtra,161,Ralegaon,ST,28,Yavatmal
+S13,Maharashtra,162,Kelapur,ST,28,Yavatmal
+S13,Maharashtra,163,Yavatmal,GEN,28,Yavatmal
+S13,Maharashtra,164,Darwha,GEN,28,Yavatmal
+S13,Maharashtra,165,Digras,GEN,28,Yavatmal
+S13,Maharashtra,166,Pusad,GEN,20,Washim
+S13,Maharashtra,167,Umarkhed,GEN,20,Washim
+S13,Maharashtra,168,Kinwat,GEN,20,Washim
+S13,Maharashtra,169,Hadgaon,GEN,29,Hingoli
+S13,Maharashtra,170,Nanded,GEN,30,Nanded
+S13,Maharashtra,171,Mudkhed,GEN,30,Nanded
+S13,Maharashtra,172,Bhokar,GEN,29,Hingoli
+S13,Maharashtra,173,Biloli,GEN,30,Nanded
+S13,Maharashtra,174,Mukhed,SC,30,Nanded
+S13,Maharashtra,175,Kandhar,GEN,30,Nanded
+S13,Maharashtra,176,Gangakhed,SC,31,Parbhani
+S13,Maharashtra,177,Singnapur,GEN,31,Parbhani
+S13,Maharashtra,178,Parbhani,GEN,31,Parbhani
+S13,Maharashtra,179,Basmath,GEN,29,Hingoli
+S13,Maharashtra,180,Kalamnuri,GEN,29,Hingoli
+S13,Maharashtra,181,Hingoli,GEN,29,Hingoli
+S13,Maharashtra,182,Jintur,GEN,31,Parbhani
+S13,Maharashtra,183,Pathri,GEN,31,Parbhani
+S13,Maharashtra,184,Partur,GEN,31,Parbhani
+S13,Maharashtra,185,Ambad,GEN,32,Jalna
+S13,Maharashtra,186,Jalna,GEN,32,Jalna
+S13,Maharashtra,187,Badnapur,GEN,32,Jalna
+S13,Maharashtra,188,Bhokardan,GEN,32,Jalna
+S13,Maharashtra,189,Sillod,GEN,32,Jalna
+S13,Maharashtra,190,Kannad,GEN,33,Aurangabad
+S13,Maharashtra,191,Vaijapur,GEN,33,Aurangabad
+S13,Maharashtra,192,Gangapur,GEN,33,Aurangabad
+S13,Maharashtra,193,Aurangabad West,GEN,33,Aurangabad
+S13,Maharashtra,194,Aurangabad East,GEN,33,Aurangabad
+S13,Maharashtra,195,Paithan,GEN,33,Aurangabad
+S13,Maharashtra,196,Georai,GEN,32,Jalna
+S13,Maharashtra,197,Manjlegaon,GEN,34,Beed
+S13,Maharashtra,198,Beed,GEN,34,Beed
+S13,Maharashtra,199,Ashti,GEN,34,Beed
+S13,Maharashtra,200,Chausala,GEN,34,Beed
+S13,Maharashtra,201,Kaij,SC,34,Beed
+S13,Maharashtra,202,Renapur,GEN,34,Beed
+S13,Maharashtra,203,Ahmedpur,GEN,30,Nanded
+S13,Maharashtra,204,Udgir,GEN,35,Latur
+S13,Maharashtra,205,Her,SC,35,Latur
+S13,Maharashtra,206,Latur,GEN,35,Latur
+S13,Maharashtra,207,Kalamb,SC,36,Osmanabad
+S13,Maharashtra,208,Paranda,GEN,36,Osmanabad
+S13,Maharashtra,209,Osmanabad,GEN,36,Osmanabad
+S13,Maharashtra,210,Ausa,GEN,35,Latur
+S13,Maharashtra,211,Nilanga,GEN,35,Latur
+S13,Maharashtra,212,Omerga,GEN,35,Latur
+S13,Maharashtra,213,Tuljapur,GEN,36,Osmanabad
+S13,Maharashtra,214,Akkalkot,GEN,37,Solapur
+S13,Maharashtra,215,South Solapur,GEN,37,Solapur
+S13,Maharashtra,216,Solapur City South,GEN,37,Solapur
+S13,Maharashtra,217,Solapur City North,GEN,37,Solapur
+S13,Maharashtra,218,North Solapur,SC,37,Solapur
+S13,Maharashtra,219,Mangalvedhe,SC,37,Solapur
+S13,Maharashtra,220,Mohol,GEN,38,Pandharpur
+S13,Maharashtra,221,Barshi,GEN,36,Osmanabad
+S13,Maharashtra,222,Madha,GEN,38,Pandharpur
+S13,Maharashtra,223,Pandharpur,GEN,38,Pandharpur
+S13,Maharashtra,224,Sangole,GEN,38,Pandharpur
+S13,Maharashtra,225,Malshiras,GEN,38,Pandharpur
+S13,Maharashtra,226,Karmala,GEN,36,Osmanabad
+S13,Maharashtra,227,Karjat,SC,36,Osmanabad
+S13,Maharashtra,228,Shrigonda,GEN,39,Ahmednagar
+S13,Maharashtra,229,Ahmednagar South,GEN,39,Ahmednagar
+S13,Maharashtra,230,Ahmednagar North,GEN,39,Ahmednagar
+S13,Maharashtra,231,Pathardi,GEN,39,Ahmednagar
+S13,Maharashtra,232,Sheogaon,GEN,39,Ahmednagar
+S13,Maharashtra,233,Shrirampur,GEN,40,Kopargaon
+S13,Maharashtra,234,Shirdi,GEN,40,Kopargaon
+S13,Maharashtra,235,Kopargaon,GEN,40,Kopargaon
+S13,Maharashtra,236,Rahuri,GEN,40,Kopargaon
+S13,Maharashtra,237,Parner,GEN,40,Kopargaon
+S13,Maharashtra,238,Sangamner,GEN,40,Kopargaon
+S13,Maharashtra,239,Nagar-Akola,ST,12,Nashik
+S13,Maharashtra,240,Junnar,GEN,41,Khed
+S13,Maharashtra,241,Ambegaon,GEN,41,Khed
+S13,Maharashtra,242,Khed-Alandi,GEN,41,Khed
+S13,Maharashtra,243,Maval,GEN,41,Khed
+S13,Maharashtra,244,Mulshi,GEN,41,Khed
+S13,Maharashtra,245,Haveli,GEN,42,Pune
+S13,Maharashtra,246,Bopodi,GEN,42,Pune
+S13,Maharashtra,247,Shivajinagar,GEN,41,Khed
+S13,Maharashtra,248,Parvati,SC,42,Pune
+S13,Maharashtra,249,Kasba Peth,GEN,42,Pune
+S13,Maharashtra,250,Bhavani Peth,GEN,42,Pune
+S13,Maharashtra,251,Pune Cantonment,GEN,43,Baramati
+S13,Maharashtra,252,Shirur,GEN,43,Baramati
+S13,Maharashtra,253,Daund,GEN,43,Baramati
+S13,Maharashtra,254,Indapur,GEN,43,Baramati
+S13,Maharashtra,255,Baramati,GEN,43,Baramati
+S13,Maharashtra,256,Purandhar,GEN,43,Baramati
+S13,Maharashtra,257,Bhor,GEN,41,Khed
+S13,Maharashtra,258,Phaltan,GEN,44,Satara
+S13,Maharashtra,259,Man,SC,44,Satara
+S13,Maharashtra,260,Khatav,GEN,44,Satara
+S13,Maharashtra,261,Koregaon,GEN,44,Satara
+S13,Maharashtra,262,Wai,GEN,44,Satara
+S13,Maharashtra,263,Jaoli,GEN,45,Karad
+S13,Maharashtra,264,Satara,GEN,44,Satara
+S13,Maharashtra,265,Patan,GEN,45,Karad
+S13,Maharashtra,266,Karad North,GEN,45,Karad
+S13,Maharashtra,267,Karad South,GEN,45,Karad
+S13,Maharashtra,268,Shirala,GEN,47,Ichalkaranji
+S13,Maharashtra,269,Walva,GEN,45,Karad
+S13,Maharashtra,270,Bhilwadi Wangi,GEN,46,Sangli
+S13,Maharashtra,271,Sangli,GEN,47,Ichalkaranji
+S13,Maharashtra,272,Miraj,GEN,47,Ichalkaranji
+S13,Maharashtra,273,Tasgaon,GEN,46,Sangli
+S13,Maharashtra,274,Khanapur Atpadi,GEN,38,Pandharpur
+S13,Maharashtra,275,Kavathe Mahankal,GEN,46,Sangli
+S13,Maharashtra,276,Jat,SC,46,Sangli
+S13,Maharashtra,277,Shirol,GEN,47,Ichalkaranji
+S13,Maharashtra,278,Ichalkaranji,GEN,26,Chikkodi
+S13,Maharashtra,279,Vadgaon,SC,48,Kolhapur
+S13,Maharashtra,280,Shahuwadi,GEN,47,Ichalkaranji
+S13,Maharashtra,281,Panhala,GEN,47,Ichalkaranji
+S13,Maharashtra,282,Sangrul,GEN,48,Kolhapur
+S13,Maharashtra,283,Radhanagari,GEN,47,Ichalkaranji
+S13,Maharashtra,284,Kolhapur,GEN,48,Kolhapur
+S13,Maharashtra,285,Karvir,GEN,48,Kolhapur
+S13,Maharashtra,286,Kagal,GEN,48,Kolhapur
+S13,Maharashtra,287,Gadhinglaj,GEN,48,Kolhapur
+S13,Maharashtra,288,Chandgad,GEN,48,Kolhapur
+S14,Manipur,1,Khundrakpam,GEN,1,Inner Manipur
+S14,Manipur,2,Heingang,GEN,2,Outer Manipur
+S14,Manipur,3,Khurai,GEN,1,Inner Manipur
+S14,Manipur,4,Khetrigao,GEN,1,Inner Manipur
+S14,Manipur,5,Thongju,GEN,1,Inner Manipur
+S14,Manipur,6,Keirao,GEN,1,Inner Manipur
+S14,Manipur,7,Andro,GEN,1,Inner Manipur
+S14,Manipur,8,Lamlai,GEN,1,Inner Manipur
+S14,Manipur,9,Thangmeiband,GEN,2,Outer Manipur
+S14,Manipur,10,Uripok,GEN,1,Inner Manipur
+S14,Manipur,11,Sagolband,GEN,1,Inner Manipur
+S14,Manipur,12,Keisamthong,GEN,1,Inner Manipur
+S14,Manipur,13,Singjamei,GEN,1,Inner Manipur
+S14,Manipur,14,Yaiskul,GEN,1,Inner Manipur
+S14,Manipur,15,Wangkhei,GEN,1,Inner Manipur
+S14,Manipur,16,Sekmai,SC,1,Inner Manipur
+S14,Manipur,17,Lamsang,GEN,1,Inner Manipur
+S14,Manipur,18,Konthoujam,GEN,1,Inner Manipur
+S14,Manipur,19,Patsoi,GEN,1,Inner Manipur
+S14,Manipur,20,langthabal,GEN,1,Inner Manipur
+S14,Manipur,21,Naoriya Pakhanglakpa,GEN,1,Inner Manipur
+S14,Manipur,22,Wangoi,GEN,1,Inner Manipur
+S14,Manipur,23,Mayang Imphal,GEN,1,Inner Manipur
+S14,Manipur,24,Nambol,GEN,1,Inner Manipur
+S14,Manipur,25,Oinam,GEN,1,Inner Manipur
+S14,Manipur,26,Bishenpur,GEN,1,Inner Manipur
+S14,Manipur,27,Moirang,GEN,1,Inner Manipur
+S14,Manipur,28,Thanga,GEN,1,Inner Manipur
+S14,Manipur,29,Kumbi,GEN,1,Inner Manipur
+S14,Manipur,30,Lilong,GEN,2,Outer Manipur
+S14,Manipur,31,Thoubal,GEN,2,Outer Manipur
+S14,Manipur,32,Wangkhem,GEN,2,Outer Manipur
+S14,Manipur,33,Heirok,GEN,2,Outer Manipur
+S14,Manipur,34,Wangjing Tentha,GEN,2,Outer Manipur
+S14,Manipur,35,Khangabo,GEN,2,Outer Manipur
+S14,Manipur,36,Wabgai,GEN,2,Outer Manipur
+S14,Manipur,37,Kakching,GEN,2,Outer Manipur
+S14,Manipur,38,Hiyanglam,GEN,2,Outer Manipur
+S14,Manipur,39,Sugnoo,GEN,2,Outer Manipur
+S14,Manipur,40,Jiribam,GEN,2,Outer Manipur
+S14,Manipur,41,Chandel,ST,2,Outer Manipur
+S14,Manipur,42,Tengnoupal,ST,2,Outer Manipur
+S14,Manipur,43,Phungyar,ST,2,Outer Manipur
+S14,Manipur,44,Ukhrul,ST,2,Outer Manipur
+S14,Manipur,45,Chingai,ST,2,Outer Manipur
+S14,Manipur,46,Saikul,ST,1,Inner Manipur
+S14,Manipur,47,Karong,ST,2,Outer Manipur
+S14,Manipur,48,Mao,ST,2,Outer Manipur
+S14,Manipur,49,Tadubi,ST,2,Outer Manipur
+S14,Manipur,50,Kangpokpi,GEN,2,Outer Manipur
+S14,Manipur,51,Saitu,ST,2,Outer Manipur
+S14,Manipur,52,Tamei,ST,2,Outer Manipur
+S14,Manipur,53,Tamenglong,ST,2,Outer Manipur
+S14,Manipur,54,Nungba,ST,2,Outer Manipur
+S14,Manipur,55,Tipaimukh,ST,2,Outer Manipur
+S14,Manipur,56,Thanlon,ST,2,Outer Manipur
+S14,Manipur,57,Henglep,ST,2,Outer Manipur
+S14,Manipur,58,Churachandpur,ST,2,Outer Manipur
+S14,Manipur,59,Saikot,ST,2,Outer Manipur
+S14,Manipur,60,Singhat,ST,2,Outer Manipur
+S15,Meghalaya,1,War-Jaintia,ST,1,Shillong
+S15,Meghalaya,2,Rymbai,ST,1,Shillong
+S15,Meghalaya,3,Sutnga-Shangpung,ST,1,Shillong
+S15,Meghalaya,4,Raliang,ST,1,Shillong
+S15,Meghalaya,5,Nartiang,ST,1,Shillong
+S15,Meghalaya,6,Nongbah-Wahiajer,ST,1,Shillong
+S15,Meghalaya,7,Jowai,ST,1,Shillong
+S15,Meghalaya,8,Mawhati,ST,1,Shillong
+S15,Meghalaya,9,Umroi,ST,1,Shillong
+S15,Meghalaya,10,Nongpoh,ST,1,Shillong
+S15,Meghalaya,11,Jirang,ST,1,Shillong
+S15,Meghalaya,12,Mairang,ST,1,Shillong
+S15,Meghalaya,13,Nongspung,ST,1,Shillong
+S15,Meghalaya,14,Sohiong,ST,1,Shillong
+S15,Meghalaya,15,Mylliem,ST,1,Shillong
+S15,Meghalaya,16,Malki-Nongthymmai,ST,1,Shillong
+S15,Meghalaya,17,Laitumkharah,ST,1,Shillong
+S15,Meghalaya,18,Pynthorumkhrah,GEN,1,Shillong
+S15,Meghalaya,19,Jaiaw,ST,1,Shillong
+S15,Meghalaya,20,Mawkhar,ST,1,Shillong
+S15,Meghalaya,21,Mawprem,GEN,1,Shillong
+S15,Meghalaya,22,Laban,GEN,1,Shillong
+S15,Meghalaya,23,Mawlai,ST,1,Shillong
+S15,Meghalaya,24,Sohryngkham,ST,1,Shillong
+S15,Meghalaya,25,Dienglieng,ST,1,Shillong
+S15,Meghalaya,26,Nongkrem,ST,1,Shillong
+S15,Meghalaya,27,Lyngkyrdem,ST,1,Shillong
+S15,Meghalaya,28,Nongshken,ST,1,Shillong
+S15,Meghalaya,29,Sohra,ST,1,Shillong
+S15,Meghalaya,30,Shella,ST,1,Shillong
+S15,Meghalaya,31,Mawsynram,ST,1,Shillong
+S15,Meghalaya,32,Mawkyrwat,ST,1,Shillong
+S15,Meghalaya,33,Pariong,ST,1,Shillong
+S15,Meghalaya,34,Nongstoin,ST,1,Shillong
+S15,Meghalaya,35,Langrin,ST,1,Shillong
+S15,Meghalaya,36,Mawthengkut,ST,1,Shillong
+S15,Meghalaya,37,Baghmara,ST,2,Tura
+S15,Meghalaya,38,Rongrenggiri,ST,2,Tura
+S15,Meghalaya,39,Rongjeng,ST,2,Tura
+S15,Meghalaya,40,Kharkutta,ST,2,Tura
+S15,Meghalaya,41,Mendipathar,ST,2,Tura
+S15,Meghalaya,42,Resubelpara,ST,2,Tura
+S15,Meghalaya,43,Songsak,ST,2,Tura
+S15,Meghalaya,44,Bajengdoba,ST,2,Tura
+S15,Meghalaya,45,Tikrikilla,ST,2,Tura
+S15,Meghalaya,46,Dadenggiri,ST,2,Tura
+S15,Meghalaya,47,Rongchugiri,ST,2,Tura
+S15,Meghalaya,48,Phulbari,GEN,2,Tura
+S15,Meghalaya,49,Rajabala,ST,2,Tura
+S15,Meghalaya,50,Selsella,ST,2,Tura
+S15,Meghalaya,51,Rongram,ST,2,Tura
+S15,Meghalaya,52,Tura,ST,2,Tura
+S15,Meghalaya,53,Chokpot,ST,2,Tura
+S15,Meghalaya,54,Kherapara,ST,2,Tura
+S15,Meghalaya,55,Dalu,ST,2,Tura
+S15,Meghalaya,56,Dalamgiri,ST,2,Tura
+S15,Meghalaya,57,Rangsakona,ST,2,Tura
+S15,Meghalaya,58,Ampatigiri,ST,2,Tura
+S15,Meghalaya,59,Salmanpura,ST,2,Tura
+S15,Meghalaya,60,Mahendraganj,GEN,2,Tura
+S16,Mizoram,1,Tuipang,ST,1,Mizoram
+S16,Mizoram,2,Saiha,ST,1,Mizoram
+S16,Mizoram,3,Sangau,ST,1,Mizoram
+S16,Mizoram,4,Lawngtlai,ST,1,Mizoram
+S16,Mizoram,5,Chawngte,ST,1,Mizoram
+S16,Mizoram,6,Tlabung,ST,1,Mizoram
+S16,Mizoram,7,Buarpui,ST,1,Mizoram
+S16,Mizoram,8,Lunglei South,GEN,1,Mizoram
+S16,Mizoram,9,Lunglei North,ST,1,Mizoram
+S16,Mizoram,10,Tawipui,ST,1,Mizoram
+S16,Mizoram,11,Vanva,ST,1,Mizoram
+S16,Mizoram,12,Hnahthial,ST,1,Mizoram
+S16,Mizoram,13,North Vanlaiphai,ST,1,Mizoram
+S16,Mizoram,14,Khawbung,ST,1,Mizoram
+S16,Mizoram,15,Champhai,ST,1,Mizoram
+S16,Mizoram,16,Khawhai,ST,1,Mizoram
+S16,Mizoram,17,Saitual,ST,1,Mizoram
+S16,Mizoram,18,Khawzawl,ST,1,Mizoram
+S16,Mizoram,19,Ngopa,ST,1,Mizoram
+S16,Mizoram,20,Suangpuilawn,ST,1,Mizoram
+S16,Mizoram,21,Ratu,ST,1,Mizoram
+S16,Mizoram,22,Kawnpui,ST,1,Mizoram
+S16,Mizoram,23,Kolasib,ST,1,Mizoram
+S16,Mizoram,24,Bilkhawthlir,ST,1,Mizoram
+S16,Mizoram,25,Lokichera,ST,1,Mizoram
+S16,Mizoram,26,Kawrthah,ST,1,Mizoram
+S16,Mizoram,27,Mamit,ST,1,Mizoram
+S16,Mizoram,28,Phuldungsei,ST,1,Mizoram
+S16,Mizoram,29,Sateek,ST,1,Mizoram
+S16,Mizoram,30,Serchhip,ST,1,Mizoram
+S16,Mizoram,31,Lungpho,ST,1,Mizoram
+S16,Mizoram,32,Tlungvel,ST,1,Mizoram
+S16,Mizoram,33,Aizawl North-I,ST,1,Mizoram
+S16,Mizoram,34,Aizawl North II,ST,1,Mizoram
+S16,Mizoram,35,Aizawl East-I,ST,1,Mizoram
+S16,Mizoram,36,Khandela,ST,1,Mizoram
+S16,Mizoram,37,Aizawl West I,ST,1,Mizoram
+S16,Mizoram,38,Aizawl West-II,ST,1,Mizoram
+S16,Mizoram,39,Aizawl South - I,ST,1,Mizoram
+S16,Mizoram,40,Aizawl South - II,ST,1,Mizoram
+S17,Nagaland,1,Dimapur-I,GEN,1,Nagaland
+S17,Nagaland,2,Dimapur-II,ST,1,Nagaland
+S17,Nagaland,3,Dimapur-III,ST,1,Nagaland
+S17,Nagaland,4,Ghaspani-I,ST,1,Nagaland
+S17,Nagaland,5,Ghaspani-II,ST,1,Nagaland
+S17,Nagaland,6,Tenning,ST,1,Nagaland
+S17,Nagaland,7,Peren,ST,1,Nagaland
+S17,Nagaland,8,Western Angami,ST,1,Nagaland
+S17,Nagaland,9,Kohima Town,ST,1,Nagaland
+S17,Nagaland,10,Northern Angami - I,ST,1,Nagaland
+S17,Nagaland,11,Northern Angami -II,ST,1,Nagaland
+S17,Nagaland,12,Tseminyu,ST,1,Nagaland
+S17,Nagaland,13,Pughoboto,ST,1,Nagaland
+S17,Nagaland,14,Southern Angami-I,ST,1,Nagaland
+S17,Nagaland,15,Southern Angami-II,ST,1,Nagaland
+S17,Nagaland,16,Pfutsero,ST,1,Nagaland
+S17,Nagaland,17,Chizami,ST,1,Nagaland
+S17,Nagaland,18,Chazouba,ST,1,Nagaland
+S17,Nagaland,19,Phek,ST,1,Nagaland
+S17,Nagaland,20,Meluri,ST,1,Nagaland
+S17,Nagaland,21,Tuli,ST,1,Nagaland
+S17,Nagaland,22,Arkakong,ST,1,Nagaland
+S17,Nagaland,23,Impur,ST,1,Nagaland
+S17,Nagaland,24,Angetyongpang,ST,1,Nagaland
+S17,Nagaland,25,Monguya,ST,1,Nagaland
+S17,Nagaland,26,Aonglenden,ST,1,Nagaland
+S17,Nagaland,27,Mokokchung Town,ST,1,Nagaland
+S17,Nagaland,28,Koridang,ST,1,Nagaland
+S17,Nagaland,29,Jangpetkong,ST,1,Nagaland
+S17,Nagaland,30,Alungtaki,ST,1,Nagaland
+S17,Nagaland,31,Akuluto,ST,1,Nagaland
+S17,Nagaland,32,Atoizu,ST,1,Nagaland
+S17,Nagaland,33,Suruhuto,ST,1,Nagaland
+S17,Nagaland,34,Aghunato,ST,1,Nagaland
+S17,Nagaland,35,Zunheboto,ST,1,Nagaland
+S17,Nagaland,36,Satakha,ST,1,Nagaland
+S17,Nagaland,37,Tyui,ST,1,Nagaland
+S17,Nagaland,38,Wokha,ST,1,Nagaland
+S17,Nagaland,39,Sanis,ST,1,Nagaland
+S17,Nagaland,40,Bhandari,ST,1,Nagaland
+S17,Nagaland,41,Tizit,ST,1,Nagaland
+S17,Nagaland,42,Wakching,ST,1,Nagaland
+S17,Nagaland,43,Tapi,ST,1,Nagaland
+S17,Nagaland,44,Phomching,ST,1,Nagaland
+S17,Nagaland,45,Tehok,ST,1,Nagaland
+S17,Nagaland,46,Mon Town,ST,1,Nagaland
+S17,Nagaland,47,Aboi,ST,1,Nagaland
+S17,Nagaland,48,Moka,ST,1,Nagaland
+S17,Nagaland,49,Tamlu,ST,1,Nagaland
+S17,Nagaland,50,Longleng,ST,1,Nagaland
+S17,Nagaland,51,Noksen,ST,1,Nagaland
+S17,Nagaland,52,Longkhim Chare,ST,1,Nagaland
+S17,Nagaland,53,Tuensang Sadar-I,ST,1,Nagaland
+S17,Nagaland,54,Tuensang Sadar-II,ST,1,Nagaland
+S17,Nagaland,55,Tobu,ST,1,Nagaland
+S17,Nagaland,56,Noklak,ST,1,Nagaland
+S17,Nagaland,57,Thonoknyu,ST,1,Nagaland
+S17,Nagaland,58,Shamtorr-Chessore,ST,1,Nagaland
+S17,Nagaland,59,Siyuchong-Sitimi,ST,1,Nagaland
+S17,Nagaland,60,Pungro-Kiphire,ST,1,Nagaland
+S18,Orissa,1,Karanjia,ST,21,Keonjhar
+S18,Orissa,2,Jashipur,ST,1,Mayurbhanj
+S18,Orissa,3,Bahalda,ST,1,Mayurbhanj
+S18,Orissa,4,Rairangpur,ST,1,Mayurbhanj
+S18,Orissa,5,Bangriposi,ST,1,Mayurbhanj
+S18,Orissa,6,Kuliana,ST,1,Mayurbhanj
+S18,Orissa,7,Baripada,GEN,1,Mayurbhanj
+S18,Orissa,8,Baisinga,ST,2,Balasore
+S18,Orissa,9,Khunta,ST,2,Balasore
+S18,Orissa,10,Udala,ST,1,Mayurbhanj
+S18,Orissa,11,Bhograi,GEN,2,Balasore
+S18,Orissa,12,Jaleswar,GEN,2,Balasore
+S18,Orissa,13,Basta,GEN,2,Balasore
+S18,Orissa,14,Balasore,GEN,2,Balasore
+S18,Orissa,15,Soro,GEN,2,Balasore
+S18,Orissa,16,Simulia,GEN,3,Bhadrak
+S18,Orissa,17,Nilgiri,GEN,3,Bhadrak
+S18,Orissa,18,Bhandaripokhari,SC,3,Bhadrak
+S18,Orissa,19,Bhadrak,GEN,3,Bhadrak
+S18,Orissa,20,Dhamnagar,GEN,3,Bhadrak
+S18,Orissa,21,Chandbali,SC,3,Bhadrak
+S18,Orissa,22,Basudevpur,GEN,3,Bhadrak
+S18,Orissa,23,Sukinda,GEN,4,Jajpur
+S18,Orissa,24,Korai,GEN,4,Jajpur
+S18,Orissa,25,Jajpur,SC,4,Jajpur
+S18,Orissa,26,Dharamsala,GEN,4,Jajpur
+S18,Orissa,27,Barchana,GEN,4,Jajpur
+S18,Orissa,28,Bari-Derabisi,GEN,4,Jajpur
+S18,Orissa,29,Binjharpur,SC,4,Jajpur
+S18,Orissa,30,Aul,GEN,5,Kendrapara
+S18,Orissa,31,Patamundai,SC,5,Kendrapara
+S18,Orissa,32,Rajnagar,GEN,5,Kendrapara
+S18,Orissa,33,Kendrapara,GEN,5,Kendrapara
+S18,Orissa,34,Patkura,GEN,5,Kendrapara
+S18,Orissa,35,Tirtol,GEN,7,Jagatsinghpur
+S18,Orissa,36,Ersama,GEN,7,Jagatsinghpur
+S18,Orissa,37,Balikuda,GEN,7,Jagatsinghpur
+S18,Orissa,38,Jagatsinghpur,SC,7,Jagatsinghpur
+S18,Orissa,39,Kissannagar,GEN,5,Kendrapara
+S18,Orissa,40,Mahanga,GEN,5,Kendrapara
+S18,Orissa,41,Salepur,SC,6,Cuttack
+S18,Orissa,42,Gobindpur,GEN,7,Jagatsinghpur
+S18,Orissa,43,Cuttack Sadar,GEN,6,Cuttack
+S18,Orissa,44,Cuttack City,GEN,6,Cuttack
+S18,Orissa,45,Choudwar,GEN,6,Cuttack
+S18,Orissa,46,Banki,GEN,6,Cuttack
+S18,Orissa,47,Athgarh,GEN,6,Cuttack
+S18,Orissa,48,Baramba,GEN,6,Cuttack
+S18,Orissa,49,Balipatna,SC,8,Puri
+S18,Orissa,50,Bhubaneswar,GEN,9,Bhubaneswar
+S18,Orissa,51,Jatni,GEN,9,Bhubaneswar
+S18,Orissa,52,Pipli,GEN,8,Puri
+S18,Orissa,53,Nimapara,SC,7,Jagatsinghpur
+S18,Orissa,54,Kakatpur,GEN,7,Jagatsinghpur
+S18,Orissa,55,Satyabadi,GEN,8,Puri
+S18,Orissa,56,Puri,GEN,8,Puri
+S18,Orissa,57,Brahmagiri,GEN,8,Puri
+S18,Orissa,58,Chilka,GEN,8,Puri
+S18,Orissa,59,Khurda,GEN,9,Bhubaneswar
+S18,Orissa,60,Begunia,GEN,9,Bhubaneswar
+S18,Orissa,61,Ranpur,GEN,8,Puri
+S18,Orissa,62,Nayagarh,GEN,8,Puri
+S18,Orissa,63,Khandapara,GEN,9,Bhubaneswar
+S18,Orissa,64,Daspalla,GEN,9,Bhubaneswar
+S18,Orissa,65,Jaganathprasad,SC,10,Aska
+S18,Orissa,66,Bhanjanagar,GEN,15,Phulbani
+S18,Orissa,67,Suruda,GEN,10,Aska
+S18,Orissa,68,Aska,GEN,10,Aska
+S18,Orissa,69,Kavisuryanagar,GEN,10,Aska
+S18,Orissa,70,Kodala,GEN,10,Aska
+S18,Orissa,71,Khallikote,GEN,10,Aska
+S18,Orissa,72,Chatrapur,GEN,11,Berhampur
+S18,Orissa,73,Hinjili,GEN,10,Aska
+S18,Orissa,74,Gopalpur,SC,11,Berhampur
+S18,Orissa,75,Berhampur,GEN,11,Berhampur
+S18,Orissa,76,Chikati,GEN,11,Berhampur
+S18,Orissa,77,Mohana,GEN,11,Berhampur
+S18,Orissa,78,Ramagiri,ST,11,Berhampur
+S18,Orissa,79,Parlakhemundi,GEN,11,Berhampur
+S18,Orissa,80,Gunupur,ST,12,Koraput
+S18,Orissa,81,Bissam-Cuttack,ST,12,Koraput
+S18,Orissa,82,Rayagada,ST,12,Koraput
+S18,Orissa,83,Lakshmipur,ST,12,Koraput
+S18,Orissa,84,Pottangi,ST,12,Koraput
+S18,Orissa,85,Koraput,GEN,12,Koraput
+S18,Orissa,86,Malkangiri,SC,13,Nowrangpur
+S18,Orissa,87,Chitrakonda,ST,13,Nowrangpur
+S18,Orissa,88,Kotpad,ST,13,Nowrangpur
+S18,Orissa,89,Jeypore,GEN,12,Koraput
+S18,Orissa,90,Nowrangpur,GEN,13,Nowrangpur
+S18,Orissa,91,Kodinga,ST,13,Nowrangpur
+S18,Orissa,92,Dabugam,ST,13,Nowrangpur
+S18,Orissa,93,Umarkote,ST,13,Nowrangpur
+S18,Orissa,94,Nawapara,GEN,16,Bolangir
+S18,Orissa,95,Khariar,GEN,14,Kalahandi
+S18,Orissa,96,Dharamgarh,SC,14,Kalahandi
+S18,Orissa,97,Koksara,GEN,14,Kalahandi
+S18,Orissa,98,Junagarh,GEN,14,Kalahandi
+S18,Orissa,99,Bhawanipatna,SC,14,Kalahandi
+S18,Orissa,100,Narla,ST,14,Kalahandi
+S18,Orissa,101,Kesinga,GEN,14,Kalahandi
+S18,Orissa,102,Balliguda,ST,15,Phulbani
+S18,Orissa,103,Udayagiri,ST,15,Phulbani
+S18,Orissa,104,Phulbani,SC,15,Phulbani
+S18,Orissa,105,Boudh,GEN,15,Phulbani
+S18,Orissa,106,Titilagarh,SC,16,Bolangir
+S18,Orissa,107,Kantabanji,GEN,16,Bolangir
+S18,Orissa,108,Patnagarh,GEN,16,Bolangir
+S18,Orissa,109,Saintala,GEN,16,Bolangir
+S18,Orissa,110,Loisingha,GEN,16,Bolangir
+S18,Orissa,111,Bolangir,GEN,16,Bolangir
+S18,Orissa,112,Sonepur,SC,15,Phulbani
+S18,Orissa,113,Binka,GEN,15,Phulbani
+S18,Orissa,114,Birmaharajpur,GEN,19,Dhenkanal
+S18,Orissa,115,Athmallik,GEN,19,Dhenkanal
+S18,Orissa,116,Angul,GEN,19,Dhenkanal
+S18,Orissa,117,Hindol,SC,19,Dhenkanal
+S18,Orissa,118,Dhenkanal,GEN,19,Dhenkanal
+S18,Orissa,119,Gondia,GEN,19,Dhenkanal
+S18,Orissa,120,Kamakhyanagar,GEN,19,Dhenkanal
+S18,Orissa,121,Pallahara,GEN,18,Deogarh
+S18,Orissa,122,Talcher,SC,18,Deogarh
+S18,Orissa,123,Padampur,GEN,17,Sambalpur
+S18,Orissa,124,Melchhamunda,GEN,17,Sambalpur
+S18,Orissa,125,Bijepur,GEN,17,Sambalpur
+S18,Orissa,126,Bhatli,SC,17,Sambalpur
+S18,Orissa,127,Bargarh,GEN,17,Sambalpur
+S18,Orissa,128,Sambalpur,GEN,17,Sambalpur
+S18,Orissa,129,Brajarajnagar,GEN,18,Deogarh
+S18,Orissa,130,Jharsuguda,GEN,18,Deogarh
+S18,Orissa,131,Laikera,ST,18,Deogarh
+S18,Orissa,132,Kuchinda,ST,18,Deogarh
+S18,Orissa,133,Rairakhol,SC,17,Sambalpur
+S18,Orissa,134,Deogarh,GEN,18,Deogarh
+S18,Orissa,135,Sundargarh,GEN,20,Sundargarh
+S18,Orissa,136,Talsara,ST,20,Sundargarh
+S18,Orissa,137,Rajgangpur,ST,18,Deogarh
+S18,Orissa,138,Biramitrapur,ST,20,Sundargarh
+S18,Orissa,139,Rourkela,GEN,20,Sundargarh
+S18,Orissa,140,Raghunathpali,ST,20,Sundargarh
+S18,Orissa,141,Bonai,ST,20,Sundargarh
+S18,Orissa,142,Champua,ST,21,Keonjhar
+S18,Orissa,143,Patna,ST,21,Keonjhar
+S18,Orissa,144,Keonjhar,ST,21,Keonjhar
+S18,Orissa,145,Telkoi,ST,21,Keonjhar
+S18,Orissa,146,Ramachandrapur,GEN,21,Keonjhar
+S18,Orissa,147,Anandapur,SC,21,Keonjhar
+S19,Punjab,1,Fatehgarh,GEN,1,Gurdaspur
+S19,Punjab,2,Batala,GEN,2,Amritsar
+S19,Punjab,3,Qadian,GEN,2,Amritsar
+S19,Punjab,4,Srihargobindpur,GEN,5,Phillaur
+S19,Punjab,5,Kahnuwan,GEN,1,Gurdaspur
+S19,Punjab,6,Dhariwal,GEN,1,Gurdaspur
+S19,Punjab,7,Gurdaspur,GEN,1,Gurdaspur
+S19,Punjab,8,Dina Nagar,SC,1,Gurdaspur
+S19,Punjab,9,Narot Mehra,SC,1,Gurdaspur
+S19,Punjab,10,Pathankot,GEN,1,Gurdaspur
+S19,Punjab,11,Sujanpur,GEN,1,Gurdaspur
+S19,Punjab,12,Beas,GEN,3,Tarn Taran
+S19,Punjab,13,Majitha,GEN,2,Amritsar
+S19,Punjab,14,Verka,SC,2,Amritsar
+S19,Punjab,15,Jandiala,SC,3,Tarn Taran
+S19,Punjab,16,Amritsar North,GEN,2,Amritsar
+S19,Punjab,17,Amritsar West,GEN,3,Tarn Taran
+S19,Punjab,18,Amritsar Central,GEN,2,Amritsar
+S19,Punjab,19,Amritsar South,GEN,2,Amritsar
+S19,Punjab,20,Ajnala,GEN,2,Amritsar
+S19,Punjab,21,Raja Sansi,GEN,3,Tarn Taran
+S19,Punjab,22,Attari,SC,3,Tarn Taran
+S19,Punjab,23,Tarn Taran,GEN,3,Tarn Taran
+S19,Punjab,24,Khadoor Sahib,SC,3,Tarn Taran
+S19,Punjab,25,Naushahra Panwan,GEN,3,Tarn Taran
+S19,Punjab,26,Patti,GEN,3,Tarn Taran
+S19,Punjab,27,Valtoha,GEN,3,Tarn Taran
+S19,Punjab,28,Adampur,GEN,5,Phillaur
+S19,Punjab,29,Jullundur Cantonment,GEN,4,Jullundur
+S19,Punjab,30,Jullundur North,GEN,4,Jullundur
+S19,Punjab,31,Jullundur Central,GEN,4,Jullundur
+S19,Punjab,32,Jullundur South,SC,4,Jullundur
+S19,Punjab,33,Kartarpur,SC,4,Jullundur
+S19,Punjab,34,Lohian,GEN,4,Jullundur
+S19,Punjab,35,Nakodar,GEN,5,Phillaur
+S19,Punjab,36,Nur Mahal,GEN,5,Phillaur
+S19,Punjab,37,Banga,SC,5,Phillaur
+S19,Punjab,38,Nawan Shahr,GEN,5,Phillaur
+S19,Punjab,39,Phillaur,SC,5,Phillaur
+S19,Punjab,40,Bholath,GEN,5,Phillaur
+S19,Punjab,41,Kapurthala,GEN,4,Jullundur
+S19,Punjab,42,Sultanpur,GEN,4,Jullundur
+S19,Punjab,43,Phagwara,SC,5,Phillaur
+S19,Punjab,44,Balachaur,GEN,6,Hoshiarpur
+S19,Punjab,45,Garhshankar,GEN,6,Hoshiarpur
+S19,Punjab,46,Mahilpur,SC,6,Hoshiarpur
+S19,Punjab,47,Hoshiarpur,GEN,6,Hoshiarpur
+S19,Punjab,48,Sham Chaurasi,SC,5,Phillaur
+S19,Punjab,49,Tanda,GEN,6,Hoshiarpur
+S19,Punjab,50,Garhdiwala,SC,6,Hoshiarpur
+S19,Punjab,51,Dasuya,GEN,6,Hoshiarpur
+S19,Punjab,52,Mukerian,GEN,1,Gurdaspur
+S19,Punjab,53,Jagraon,GEN,9,Ludhiana
+S19,Punjab,54,Raikot,GEN,9,Ludhiana
+S19,Punjab,55,Dakha,SC,9,Ludhiana
+S19,Punjab,56,Qila Raipur,GEN,9,Ludhiana
+S19,Punjab,57,Ludhiana North,GEN,9,Ludhiana
+S19,Punjab,58,Ludhiana West,GEN,9,Ludhiana
+S19,Punjab,59,Ludhiana East,GEN,9,Ludhiana
+S19,Punjab,60,Ludhiana Rural,GEN,9,Ludhiana
+S19,Punjab,61,Payal,GEN,9,Ludhiana
+S19,Punjab,62,Kum Kalan,SC,7,Ropar
+S19,Punjab,63,Samrala,GEN,7,Ropar
+S19,Punjab,64,Khanna,SC,7,Ropar
+S19,Punjab,65,Nangal,GEN,6,Hoshiarpur
+S19,Punjab,66,Anandpur Sahib - Ropar,GEN,6,Hoshiarpur
+S19,Punjab,67,Chamkaur Sahib,SC,7,Ropar
+S19,Punjab,68,Morinda,GEN,7,Ropar
+S19,Punjab,69,Kharar,GEN,7,Ropar
+S19,Punjab,70,Banur,GEN,8,Patiala
+S19,Punjab,71,Rajpura,GEN,8,Patiala
+S19,Punjab,72,Ghanaur,GEN,8,Patiala
+S19,Punjab,73,Dakala,GEN,8,Patiala
+S19,Punjab,74,Shutrana,SC,8,Patiala
+S19,Punjab,75,Samana,GEN,8,Patiala
+S19,Punjab,76,Patiala Town,GEN,8,Patiala
+S19,Punjab,77,Nabha,GEN,7,Ropar
+S19,Punjab,78,Amloh,SC,7,Ropar
+S19,Punjab,79,Sirhind,GEN,7,Ropar
+S19,Punjab,80,Dhuri,GEN,10,Sangrur
+S19,Punjab,81,Malerkotla,GEN,10,Sangrur
+S19,Punjab,82,Sherpur,SC,10,Sangrur
+S19,Punjab,83,Barnala,GEN,10,Sangrur
+S19,Punjab,84,Bhadaur,SC,10,Sangrur
+S19,Punjab,85,Dhanaula,GEN,10,Sangrur
+S19,Punjab,86,Sangrur,GEN,10,Sangrur
+S19,Punjab,87,Dirbha,GEN,10,Sangrur
+S19,Punjab,88,Sunam,GEN,8,Patiala
+S19,Punjab,89,Lehra,GEN,8,Patiala
+S19,Punjab,90,Balluana,SC,13,Ferozepur
+S19,Punjab,91,Abohar,GEN,13,Ferozepur
+S19,Punjab,92,Fazilka,GEN,13,Ferozepur
+S19,Punjab,93,Jalalabad,GEN,13,Ferozepur
+S19,Punjab,94,Guru Har Sahai,GEN,13,Ferozepur
+S19,Punjab,95,Firozepur,GEN,13,Ferozepur
+S19,Punjab,96,Firozepur Cantonment,GEN,13,Ferozepur
+S19,Punjab,97,Zira,GEN,13,Ferozepur
+S19,Punjab,98,Dharamkot,SC,13,Ferozepur
+S19,Punjab,99,Moga,GEN,12,Faridkot
+S19,Punjab,100,Bagha Purana,GEN,12,Faridkot
+S19,Punjab,101,Nihal Singh Wala,SC,12,Faridkot
+S19,Punjab,102,Panjgrain,SC,12,Faridkot
+S19,Punjab,103,Kot Kapura,GEN,12,Faridkot
+S19,Punjab,104,Faridkot,GEN,12,Faridkot
+S19,Punjab,105,Muktsar,GEN,12,Faridkot
+S19,Punjab,106,Giddar Baha,GEN,12,Faridkot
+S19,Punjab,107,Malout,SC,12,Faridkot
+S19,Punjab,108,Lambi,GEN,12,Faridkot
+S19,Punjab,109,Talwandi Sabo,GEN,11,Bhatinda
+S19,Punjab,110,Pakka Kalan,SC,11,Bhatinda
+S19,Punjab,111,Bhatinda,GEN,11,Bhatinda
+S19,Punjab,112,Nathana,SC,11,Bhatinda
+S19,Punjab,113,Rampura Phul,GEN,11,Bhatinda
+S19,Punjab,114,Joga,GEN,11,Bhatinda
+S19,Punjab,115,Mansa,GEN,11,Bhatinda
+S19,Punjab,116,Budhlada,GEN,11,Bhatinda
+S19,Punjab,117,Sardulgarh,GEN,11,Bhatinda
+S20,Rajasthan,1,Bhadra,GEN,1,Ganganagar
+S20,Rajasthan,2,Nohar,GEN,1,Ganganagar
+S20,Rajasthan,3,Tibi,SC,1,Ganganagar
+S20,Rajasthan,4,Hanumangarh,GEN,1,Ganganagar
+S20,Rajasthan,5,Sangaria,GEN,1,Ganganagar
+S20,Rajasthan,6,Ganganagar,GEN,1,Ganganagar
+S20,Rajasthan,7,Kesrisinghpur,SC,1,Ganganagar
+S20,Rajasthan,8,Karanpur,GEN,1,Ganganagar
+S20,Rajasthan,9,Raisinghnagar,SC,2,Bikaner
+S20,Rajasthan,10,Pilibanga,GEN,2,Bikaner
+S20,Rajasthan,11,Suratgarh,GEN,2,Bikaner
+S20,Rajasthan,12,Lunkaransar,GEN,2,Bikaner
+S20,Rajasthan,13,Bikaner,GEN,2,Bikaner
+S20,Rajasthan,14,Kolayat,GEN,2,Bikaner
+S20,Rajasthan,15,Nokha,SC,2,Bikaner
+S20,Rajasthan,16,Dungargarh,GEN,3,Churu
+S20,Rajasthan,17,Sujangarh,SC,3,Churu
+S20,Rajasthan,18,Ratangarh,GEN,3,Churu
+S20,Rajasthan,19,Sardarshahar,GEN,3,Churu
+S20,Rajasthan,20,Churu,GEN,3,Churu
+S20,Rajasthan,21,Taranagar,GEN,3,Churu
+S20,Rajasthan,22,Sadulpur,GEN,3,Churu
+S20,Rajasthan,23,Pilani,GEN,4,Jhunjhunu
+S20,Rajasthan,24,Surajgarh,SC,4,Jhunjhunu
+S20,Rajasthan,25,Khetri,GEN,4,Jhunjhunu
+S20,Rajasthan,26,Gudha,GEN,4,Jhunjhunu
+S20,Rajasthan,27,Nawalgarh,GEN,4,Jhunjhunu
+S20,Rajasthan,28,Jhunjhunu,GEN,4,Jhunjhunu
+S20,Rajasthan,29,Mandawa,GEN,4,Jhunjhunu
+S20,Rajasthan,30,Fatehpur,GEN,4,Jhunjhunu
+S20,Rajasthan,31,Lachhmangarh,SC,5,Sikar
+S20,Rajasthan,32,Sikar,GEN,5,Sikar
+S20,Rajasthan,33,Dhod,GEN,5,Sikar
+S20,Rajasthan,34,Danta - Ramgarh,GEN,5,Sikar
+S20,Rajasthan,35,Srimadhopur,GEN,5,Sikar
+S20,Rajasthan,36,Khandela,GEN,5,Sikar
+S20,Rajasthan,37,Neem-Ka-Thana,GEN,5,Sikar
+S20,Rajasthan,38,Chomu,GEN,5,Sikar
+S20,Rajasthan,39,Amber,GEN,7,Dausa
+S20,Rajasthan,40,Jaipur Rural,GEN,6,Jaipur
+S20,Rajasthan,41,Hawamahal,GEN,6,Jaipur
+S20,Rajasthan,42,Johribazar,GEN,6,Jaipur
+S20,Rajasthan,43,Kishanpole,GEN,6,Jaipur
+S20,Rajasthan,44,Bani Park,GEN,6,Jaipur
+S20,Rajasthan,45,Phulera,GEN,13,Tonk
+S20,Rajasthan,46,Dudu,SC,13,Tonk
+S20,Rajasthan,47,Sanganer,GEN,6,Jaipur
+S20,Rajasthan,48,Phagi,SC,13,Tonk
+S20,Rajasthan,49,Lalsot,ST,7,Dausa
+S20,Rajasthan,50,Sikrai,ST,7,Dausa
+S20,Rajasthan,51,Bandikui,GEN,7,Dausa
+S20,Rajasthan,52,Dausa,SC,7,Dausa
+S20,Rajasthan,53,Bassi,GEN,6,Jaipur
+S20,Rajasthan,54,Jamwa Ramgarh,GEN,7,Dausa
+S20,Rajasthan,55,Bairath,GEN,7,Dausa
+S20,Rajasthan,56,Kotputli,GEN,7,Dausa
+S20,Rajasthan,57,Bansur,GEN,8,Alwar
+S20,Rajasthan,58,Behror,GEN,8,Alwar
+S20,Rajasthan,59,Mandawar,GEN,8,Alwar
+S20,Rajasthan,60,Tizara,GEN,8,Alwar
+S20,Rajasthan,61,Khairthal,SC,8,Alwar
+S20,Rajasthan,62,Ramgarh,GEN,9,Bharatpur
+S20,Rajasthan,63,Alwar,GEN,8,Alwar
+S20,Rajasthan,64,Thanagazi,GEN,8,Alwar
+S20,Rajasthan,65,Rajgarh,ST,8,Alwar
+S20,Rajasthan,66,Lachhmangarh,GEN,9,Bharatpur
+S20,Rajasthan,67,Kathumar,SC,9,Bharatpur
+S20,Rajasthan,68,Kaman,GEN,9,Bharatpur
+S20,Rajasthan,69,Nagar,GEN,9,Bharatpur
+S20,Rajasthan,70,Deeg,GEN,9,Bharatpur
+S20,Rajasthan,71,Kumher,GEN,9,Bharatpur
+S20,Rajasthan,72,Bharatpur,GEN,69,Agra
+S20,Rajasthan,73,Rupbas,SC,10,Bayana
+S20,Rajasthan,74,Nadbai,GEN,10,Bayana
+S20,Rajasthan,75,Weir,SC,10,Bayana
+S20,Rajasthan,76,Bayana,GEN,68,Firozabad
+S20,Rajasthan,77,Rajakhera,GEN,10,Bayana
+S20,Rajasthan,78,Dholpur,GEN,10,Bayana
+S20,Rajasthan,79,Bari,GEN,10,Bayana
+S20,Rajasthan,80,Karauli,GEN,11,Sawai Madhopur
+S20,Rajasthan,81,Sapotra,ST,11,Sawai Madhopur
+S20,Rajasthan,82,Khandar,SC,11,Sawai Madhopur
+S20,Rajasthan,83,Sawai Madhopur,GEN,11,Sawai Madhopur
+S20,Rajasthan,84,Bamanwas,ST,11,Sawai Madhopur
+S20,Rajasthan,85,Gangapur,GEN,11,Sawai Madhopur
+S20,Rajasthan,86,Hindaun,SC,11,Sawai Madhopur
+S20,Rajasthan,87,Mahuwa,GEN,10,Bayana
+S20,Rajasthan,88,Toda Bhim,ST,11,Sawai Madhopur
+S20,Rajasthan,89,Niwai,SC,13,Tonk
+S20,Rajasthan,90,Tonk,GEN,13,Tonk
+S20,Rajasthan,91,Uniara,GEN,13,Tonk
+S20,Rajasthan,92,Todaraisingh,GEN,13,Tonk
+S20,Rajasthan,93,Malpura,GEN,13,Tonk
+S20,Rajasthan,94,Kishangarh,GEN,12,Ajmer
+S20,Rajasthan,95,Ajmer East,SC,12,Ajmer
+S20,Rajasthan,96,Ajmer West,GEN,12,Ajmer
+S20,Rajasthan,97,Pushkar,GEN,12,Ajmer
+S20,Rajasthan,98,Nasirabad,GEN,12,Ajmer
+S20,Rajasthan,99,Beawar,GEN,12,Ajmer
+S20,Rajasthan,100,Masuda,GEN,12,Ajmer
+S20,Rajasthan,101,Bhinai,GEN,12,Ajmer
+S20,Rajasthan,102,Kekri,SC,13,Tonk
+S20,Rajasthan,103,Hindoli,GEN,14,Kota
+S20,Rajasthan,104,Nainwa,GEN,14,Kota
+S20,Rajasthan,105,Patan,SC,14,Kota
+S20,Rajasthan,106,Bandi,GEN,14,Kota
+S20,Rajasthan,107,Kota,GEN,14,Kota
+S20,Rajasthan,108,Ladpura,GEN,19,Chittorgarh
+S20,Rajasthan,109,Digod,GEN,14,Kota
+S20,Rajasthan,110,Pipalda,SC,14,Kota
+S20,Rajasthan,111,Baran,GEN,14,Kota
+S20,Rajasthan,112,Kishanganj,ST,15,Jhalawar
+S20,Rajasthan,113,Atru,SC,15,Jhalawar
+S20,Rajasthan,114,Chhabra,GEN,21,Rajgarh
+S20,Rajasthan,115,Ramganjmandi,GEN,19,Chittorgarh
+S20,Rajasthan,116,Khanpur,GEN,15,Jhalawar
+S20,Rajasthan,117,Manohar Thana,GEN,21,Rajgarh
+S20,Rajasthan,118,Jhalrapatan,GEN,15,Jhalawar
+S20,Rajasthan,119,Pirawa,GEN,22,Shajapur
+S20,Rajasthan,120,Dag,SC,15,Jhalawar
+S20,Rajasthan,121,Begun,GEN,19,Chittorgarh
+S20,Rajasthan,122,Gangrar,SC,19,Chittorgarh
+S20,Rajasthan,123,Kapasin,GEN,19,Chittorgarh
+S20,Rajasthan,124,Chittorgarh,GEN,19,Chittorgarh
+S20,Rajasthan,125,Nimbahera,GEN,19,Chittorgarh
+S20,Rajasthan,126,Badi Sadri,GEN,19,Chittorgarh
+S20,Rajasthan,127,Pratapgarh,ST,17,Salumber
+S20,Rajasthan,128,Kushalgarh,ST,16,Banswara
+S20,Rajasthan,129,Danpur,ST,16,Banswara
+S20,Rajasthan,130,Ghatol,ST,16,Banswara
+S20,Rajasthan,131,Banswara,GEN,16,Banswara
+S20,Rajasthan,132,Bagidora,ST,16,Banswara
+S20,Rajasthan,133,Sagwara,ST,16,Banswara
+S20,Rajasthan,134,Chorasi,ST,16,Banswara
+S20,Rajasthan,135,Dungarpur,ST,16,Banswara
+S20,Rajasthan,136,Aspur,ST,17,Salumber
+S20,Rajasthan,137,Lasadia,ST,17,Salumber
+S20,Rajasthan,138,Vallabhnagar,GEN,18,Udaipur
+S20,Rajasthan,139,Mavli,GEN,18,Udaipur
+S20,Rajasthan,140,Rajsamand,SC,18,Udaipur
+S20,Rajasthan,141,Nathdwara,GEN,18,Udaipur
+S20,Rajasthan,142,Udaipur,GEN,18,Udaipur
+S20,Rajasthan,143,Udaipur Rural,ST,18,Udaipur
+S20,Rajasthan,144,Salumber,ST,17,Salumber
+S20,Rajasthan,145,Sarada,ST,17,Salumber
+S20,Rajasthan,146,Kherwara,ST,17,Salumber
+S20,Rajasthan,147,Phalasia,ST,17,Salumber
+S20,Rajasthan,148,Gongunda,ST,17,Salumber
+S20,Rajasthan,149,Kumbhalgarh,GEN,18,Udaipur
+S20,Rajasthan,150,Bhim,GEN,18,Udaipur
+S20,Rajasthan,151,Mandal,GEN,20,Bhilwara
+S20,Rajasthan,152,Sahada,GEN,20,Bhilwara
+S20,Rajasthan,153,Bhilwara,GEN,20,Bhilwara
+S20,Rajasthan,154,Mandalgarh,GEN,20,Bhilwara
+S20,Rajasthan,155,Jahazpur,GEN,20,Bhilwara
+S20,Rajasthan,156,Shahpura,SC,20,Bhilwara
+S20,Rajasthan,157,Banera,GEN,20,Bhilwara
+S20,Rajasthan,158,Asind,GEN,20,Bhilwara
+S20,Rajasthan,159,Jaitaran,GEN,21,Pali
+S20,Rajasthan,160,Raipur,GEN,21,Pali
+S20,Rajasthan,161,Sojat,GEN,21,Pali
+S20,Rajasthan,162,Kharchi,GEN,21,Pali
+S20,Rajasthan,163,Desuri,SC,21,Pali
+S20,Rajasthan,164,Pali,GEN,21,Pali
+S20,Rajasthan,165,Sumerpur,GEN,21,Pali
+S20,Rajasthan,166,Bali,GEN,21,Pali
+S20,Rajasthan,167,Sirohi,GEN,22,Jalore
+S20,Rajasthan,168,Pindwara Abu,ST,22,Jalore
+S20,Rajasthan,169,Reodar,SC,22,Jalore
+S20,Rajasthan,170,Sanchore,GEN,22,Jalore
+S20,Rajasthan,171,Raniwara,GEN,22,Jalore
+S20,Rajasthan,172,Bhinmal,GEN,22,Jalore
+S20,Rajasthan,173,Jalore,SC,22,Jalore
+S20,Rajasthan,174,Ahore,GEN,22,Jalore
+S20,Rajasthan,175,Siwana,SC,23,Barmer
+S20,Rajasthan,176,Pachpadra,GEN,23,Barmer
+S20,Rajasthan,177,Barmer,GEN,23,Barmer
+S20,Rajasthan,178,Gudamalani,GEN,23,Barmer
+S20,Rajasthan,179,Chohtan,GEN,23,Barmer
+S20,Rajasthan,180,Sheo,GEN,23,Barmer
+S20,Rajasthan,181,Jaisalmer,GEN,23,Barmer
+S20,Rajasthan,182,Shergarh,GEN,23,Barmer
+S20,Rajasthan,183,Jodhpur,GEN,21,Pali
+S20,Rajasthan,184,Sardarpura,GEN,23,Barmer
+S20,Rajasthan,185,Sursagar,SC,21,Pali
+S20,Rajasthan,186,Luni,GEN,23,Barmer
+S20,Rajasthan,187,BIiara,GEN,21,Pali
+S20,Rajasthan,188,Bhopalgarh,GEN,21,Pali
+S20,Rajasthan,189,Osian,GEN,21,Pali
+S20,Rajasthan,190,Phalodi,GEN,23,Barmer
+S20,Rajasthan,191,Nagaur,GEN,25,Nagaur
+S20,Rajasthan,192,Jayal,SC,2,Bikaner
+S20,Rajasthan,193,Ladnu,GEN,3,Churu
+S20,Rajasthan,194,Deedwana,GEN,25,Nagaur
+S20,Rajasthan,195,Nawan,GEN,25,Nagaur
+S20,Rajasthan,196,Makrana,GEN,25,Nagaur
+S20,Rajasthan,197,Parbatsar,SC,25,Nagaur
+S20,Rajasthan,198,Degana,GEN,25,Nagaur
+S20,Rajasthan,199,Merta,GEN,25,Nagaur
+S20,Rajasthan,200,Mundwa,GEN,25,Nagaur
+S21,Sikkim,0,,,1,Sikkim
+S21,Sikkim,1,Yoksam,GEN,1,Sikkim
+S21,Sikkim,2,Tashiding,BL,1,Sikkim
+S21,Sikkim,3,Geyzing,GEN,1,Sikkim
+S21,Sikkim,4,Dentam,GEN,1,Sikkim
+S21,Sikkim,5,Barmiok,GEN,1,Sikkim
+S21,Sikkim,6,Rinchenpong,BL,1,Sikkim
+S21,Sikkim,7,Chakung,GEN,1,Sikkim
+S21,Sikkim,8,Soreong,GEN,1,Sikkim
+S21,Sikkim,9,Daramdin,GEN,1,Sikkim
+S21,Sikkim,10,Jorthang-Nayabazar,GEN,1,Sikkim
+S21,Sikkim,11,Ralong,BL,1,Sikkim
+S21,Sikkim,12,Wak,GEN,1,Sikkim
+S21,Sikkim,13,Damthang,GEN,1,Sikkim
+S21,Sikkim,14,Melli,GEN,1,Sikkim
+S21,Sikkim,15,Rateypani - West Pendam,SC,1,Sikkim
+S21,Sikkim,16,Temi-Tarku,GEN,1,Sikkim
+S21,Sikkim,17,Central Pendam-East Pendam,GEN,1,Sikkim
+S21,Sikkim,18,Rhenock,GEN,1,Sikkim
+S21,Sikkim,19,Regu,GEN,1,Sikkim
+S21,Sikkim,20,Pathing,BL,1,Sikkim
+S21,Sikkim,21,Loosing Pachekhani,GEN,1,Sikkim
+S21,Sikkim,22,Khamdong,SC,1,Sikkim
+S21,Sikkim,23,Djongu,BL,1,Sikkim
+S21,Sikkim,24,Lachen Mangshila,BL,1,Sikkim
+S21,Sikkim,25,Kabi Tingda,BL,1,Sikkim
+S21,Sikkim,26,Rakdong Tentek,BL,1,Sikkim
+S21,Sikkim,27,Martam,BL,1,Sikkim
+S21,Sikkim,28,Rumtek,BL,1,Sikkim
+S21,Sikkim,29,Assam-Lingjey,BL,1,Sikkim
+S21,Sikkim,30,Ranka,BL,1,Sikkim
+S21,Sikkim,31,Gangtok,GEN,1,Sikkim
+S22,Tamil Nadu,1,Royapuram,GEN,0,
+S22,Tamil Nadu,2,Harbour,GEN,0,
+S22,Tamil Nadu,3,Dr. Radhakrishnan Nagar,GEN,2,Madras Central
+S22,Tamil Nadu,4,Park Town,GEN,2,Madras Central
+S22,Tamil Nadu,5,Perambur,SC,2,Madras Central
+S22,Tamil Nadu,6,Purasawalkam,GEN,2,Madras Central
+S22,Tamil Nadu,7,Egmore,SC,2,Madras Central
+S22,Tamil Nadu,8,Anna Nagar,GEN,2,Madras Central
+S22,Tamil Nadu,9,Theagaraya Nagar,GEN,2,Madras Central
+S22,Tamil Nadu,10,Thousand Lights,GEN,2,Madras Central
+S22,Tamil Nadu,11,Chepauk,GEN,0,
+S22,Tamil Nadu,12,Triplicane,GEN,0,
+S22,Tamil Nadu,13,Mylapore,GEN,0,
+S22,Tamil Nadu,14,Saidapet,GEN,3,Madras South
+S22,Tamil Nadu,15,Gummidipundi,GEN,4,Sriperumbudur
+S22,Tamil Nadu,16,Ponneri,SC,4,Sriperumbudur
+S22,Tamil Nadu,17,Thiruvottiyur,GEN,1,Madras North
+S22,Tamil Nadu,18,Villivakkam,GEN,1,Madras North
+S22,Tamil Nadu,19,Alandur,GEN,3,Madras South
+S22,Tamil Nadu,20,Tambaram,GEN,3,Madras South
+S22,Tamil Nadu,21,Tirupporur,SC,5,Chengalpattu
+S22,Tamil Nadu,22,Chengalpattu,GEN,5,Chengalpattu
+S22,Tamil Nadu,23,Maduranthakam,GEN,5,Chengalpattu
+S22,Tamil Nadu,24,Acharapakkam,SC,5,Chengalpattu
+S22,Tamil Nadu,25,Uthiramerur,GEN,5,Chengalpattu
+S22,Tamil Nadu,26,Kancheepuram,GEN,5,Chengalpattu
+S22,Tamil Nadu,27,Sriperumbudur,SC,4,Sriperumbudur
+S22,Tamil Nadu,28,Poonamallee,GEN,4,Sriperumbudur
+S22,Tamil Nadu,29,Tiruvallur,GEN,4,Sriperumbudur
+S22,Tamil Nadu,30,Tiruttani,GEN,4,Sriperumbudur
+S22,Tamil Nadu,31,Pallipet,GEN,6,Arakkonam
+S22,Tamil Nadu,32,Arkonam,SC,6,Arakkonam
+S22,Tamil Nadu,33,Sholinghur,GEN,6,Arakkonam
+S22,Tamil Nadu,34,Ranipet,GEN,6,Arakkonam
+S22,Tamil Nadu,35,Arcot,GEN,6,Arakkonam
+S22,Tamil Nadu,36,Katpadi,GEN,7,Vellore
+S22,Tamil Nadu,37,Gudiyatham,GEN,7,Vellore
+S22,Tamil Nadu,38,Pernambut,SC,7,Vellore
+S22,Tamil Nadu,39,Vaniayambadi,GEN,8,Tiruppattur
+S22,Tamil Nadu,40,Natrampalli,GEN,8,Tiruppattur
+S22,Tamil Nadu,41,Tiruppattur,GEN,8,Tiruppattur
+S22,Tamil Nadu,42,Chengam,SC,8,Tiruppattur
+S22,Tamil Nadu,43,Thandarambattu,GEN,8,Tiruppattur
+S22,Tamil Nadu,44,Tiruvannamalai,GEN,9,Vandavasi
+S22,Tamil Nadu,45,Kalasapakkam,GEN,8,Tiruppattur
+S22,Tamil Nadu,46,Polur,GEN,9,Vandavasi
+S22,Tamil Nadu,47,Anaicut,GEN,7,Vellore
+S22,Tamil Nadu,48,Vellore,GEN,7,Vellore
+S22,Tamil Nadu,49,Arni,GEN,7,Vellore
+S22,Tamil Nadu,50,Cheyyar,GEN,6,Arakkonam
+S22,Tamil Nadu,51,Vandavasi,SC,9,Vandavasi
+S22,Tamil Nadu,52,Peranamallur,GEN,9,Vandavasi
+S22,Tamil Nadu,53,Melmalayanur,GEN,9,Vandavasi
+S22,Tamil Nadu,54,Gingee,GEN,10,Tindivanam
+S22,Tamil Nadu,55,Tindivanam,GEN,10,Tindivanam
+S22,Tamil Nadu,56,Vanur,SC,10,Tindivanam
+S22,Tamil Nadu,57,Kandamangalam,SC,10,Tindivanam
+S22,Tamil Nadu,58,Villupuram,GEN,10,Tindivanam
+S22,Tamil Nadu,59,Mugaiyur,GEN,10,Tindivanam
+S22,Tamil Nadu,60,Thirunavalur,GEN,10,Tindivanam
+S22,Tamil Nadu,61,Ulundurpet,SC,11,Cuddalore
+S22,Tamil Nadu,62,Nellikuppam,GEN,11,Cuddalore
+S22,Tamil Nadu,63,Cuddalore,GEN,11,Cuddalore
+S22,Tamil Nadu,64,Panruti,GEN,11,Cuddalore
+S22,Tamil Nadu,65,Kurinjipadi,GEN,11,Cuddalore
+S22,Tamil Nadu,66,Bhuvanagiri,GEN,12,Chidambaram
+S22,Tamil Nadu,67,Kattumannarkoil,SC,12,Chidambaram
+S22,Tamil Nadu,68,Chidambaram,GEN,12,Chidambaram
+S22,Tamil Nadu,69,Vridhachalam,GEN,12,Chidambaram
+S22,Tamil Nadu,70,Mangalore,SC,12,Chidambaram
+S22,Tamil Nadu,71,Rishivandiam,GEN,11,Cuddalore
+S22,Tamil Nadu,72,Chinnasalem,GEN,15,Rasipuram
+S22,Tamil Nadu,73,Sankarapuram,GEN,11,Cuddalore
+S22,Tamil Nadu,74,Hosur,GEN,14,Krishnagiri
+S22,Tamil Nadu,75,Thalli,GEN,14,Krishnagiri
+S22,Tamil Nadu,76,Kaveripattinam,GEN,14,Krishnagiri
+S22,Tamil Nadu,77,Krishnagiri,GEN,14,Krishnagiri
+S22,Tamil Nadu,78,Bargur,GEN,14,Krishnagiri
+S22,Tamil Nadu,79,Harur,SC,13,Dharmapuri
+S22,Tamil Nadu,80,Morappur,GEN,13,Dharmapuri
+S22,Tamil Nadu,81,Palacode,GEN,14,Krishnagiri
+S22,Tamil Nadu,82,Dharmapuri,GEN,13,Dharmapuri
+S22,Tamil Nadu,83,Pennagaram,GEN,13,Dharmapuri
+S22,Tamil Nadu,84,Mettur,GEN,13,Dharmapuri
+S22,Tamil Nadu,85,Taramangalam,GEN,13,Dharmapuri
+S22,Tamil Nadu,86,Omalur,GEN,16,Salem
+S22,Tamil Nadu,87,Yercaud,ST,16,Salem
+S22,Tamil Nadu,88,Salem-I,GEN,16,Salem
+S22,Tamil Nadu,89,Salem-II,GEN,16,Salem
+S22,Tamil Nadu,90,Veerapandi,GEN,16,Salem
+S22,Tamil Nadu,91,Panamarathupatty,GEN,16,Salem
+S22,Tamil Nadu,92,Attur,GEN,15,Rasipuram
+S22,Tamil Nadu,93,Talavasal,SC,15,Rasipuram
+S22,Tamil Nadu,94,Rasipuram,GEN,15,Rasipuram
+S22,Tamil Nadu,95,Sendamangalam,ST,15,Rasipuram
+S22,Tamil Nadu,96,Namakkal,SC,15,Rasipuram
+S22,Tamil Nadu,97,Kapilamalai,GEN,17,Tiruchengode
+S22,Tamil Nadu,98,Tiruchengode,GEN,17,Tiruchengode
+S22,Tamil Nadu,99,Sankari,SC,17,Tiruchengode
+S22,Tamil Nadu,100,Edapadi,GEN,17,Tiruchengode
+S22,Tamil Nadu,101,Mettupalayam,GEN,18,Nilgiris
+S22,Tamil Nadu,102,Avanashi,SC,18,Nilgiris
+S22,Tamil Nadu,103,Thondamuthur,GEN,21,Pollachi
+S22,Tamil Nadu,104,Singanallur,GEN,20,Coimbatore
+S22,Tamil Nadu,105,Coimbatore West,GEN,20,Coimbatore
+S22,Tamil Nadu,106,Coimbatore East,GEN,20,Coimbatore
+S22,Tamil Nadu,107,Perur,GEN,21,Pollachi
+S22,Tamil Nadu,108,Kinathukkadavu,GEN,21,Pollachi
+S22,Tamil Nadu,109,Pollachi,GEN,21,Pollachi
+S22,Tamil Nadu,110,Valparai,SC,21,Pollachi
+S22,Tamil Nadu,111,Udumalpet,GEN,21,Pollachi
+S22,Tamil Nadu,112,Dharapuram,SC,21,Pollachi
+S22,Tamil Nadu,113,Vellakoil,GEN,22,Palani
+S22,Tamil Nadu,114,Pongalur,GEN,21,Pollachi
+S22,Tamil Nadu,115,Palladam,GEN,20,Coimbatore
+S22,Tamil Nadu,116,Tiruppur,GEN,20,Coimbatore
+S22,Tamil Nadu,117,Kangayam,GEN,22,Palani
+S22,Tamil Nadu,118,Modakurichi,GEN,17,Tiruchengode
+S22,Tamil Nadu,119,Perundurai,GEN,19,Gobichettipalayam
+S22,Tamil Nadu,120,Erode,GEN,17,Tiruchengode
+S22,Tamil Nadu,121,Bhavani,GEN,19,Gobichettipalayam
+S22,Tamil Nadu,122,Andhiyur,SC,19,Gobichettipalayam
+S22,Tamil Nadu,123,Gobichettipalayam,GEN,19,Gobichettipalayam
+S22,Tamil Nadu,124,Bhavanisagar,GEN,18,Nilgiris
+S22,Tamil Nadu,125,Sathyamangalam,GEN,18,Nilgiris
+S22,Tamil Nadu,126,Coonoor,SC,18,Nilgiris
+S22,Tamil Nadu,127,Ootacamund,GEN,18,Nilgiris
+S22,Tamil Nadu,128,Gudalur,GEN,18,Nilgiris
+S22,Tamil Nadu,129,Palani,SC,23,Dindigul
+S22,Tamil Nadu,130,Oddanchatram,GEN,23,Dindigul
+S22,Tamil Nadu,131,Periyakulam,GEN,23,Dindigul
+S22,Tamil Nadu,132,Theni,GEN,25,Periyakulam
+S22,Tamil Nadu,133,Bodinayakkanur,GEN,25,Periyakulam
+S22,Tamil Nadu,134,Cumbum,GEN,25,Periyakulam
+S22,Tamil Nadu,135,Andipatti,GEN,25,Periyakulam
+S22,Tamil Nadu,136,Sedapatti,GEN,25,Periyakulam
+S22,Tamil Nadu,137,Thirumangalam,GEN,35,Sivakasi
+S22,Tamil Nadu,138,Usilampatti,GEN,25,Periyakulam
+S22,Tamil Nadu,139,Nilakottai,SC,23,Dindigul
+S22,Tamil Nadu,140,Sholavandan,GEN,25,Periyakulam
+S22,Tamil Nadu,141,Tirupparankundram,GEN,24,Madurai
+S22,Tamil Nadu,142,Madurai West,GEN,24,Madurai
+S22,Tamil Nadu,143,Madurai Central,GEN,24,Madurai
+S22,Tamil Nadu,144,Madurai East,GEN,24,Madurai
+S22,Tamil Nadu,145,Samayanallur,SC,24,Madurai
+S22,Tamil Nadu,146,Melur,GEN,24,Madurai
+S22,Tamil Nadu,147,Natham,GEN,23,Dindigul
+S22,Tamil Nadu,148,Dindigul,GEN,23,Dindigul
+S22,Tamil Nadu,149,Athoor,GEN,23,Dindigul
+S22,Tamil Nadu,150,Vedasandur,GEN,26,Karur
+S22,Tamil Nadu,151,Aravakurichi,GEN,26,Karur
+S22,Tamil Nadu,152,Karur,GEN,26,Karur
+S22,Tamil Nadu,153,Krishnarayapuram,SC,26,Karur
+S22,Tamil Nadu,154,Marungapuri,GEN,26,Karur
+S22,Tamil Nadu,155,Kulithalai,GEN,26,Karur
+S22,Tamil Nadu,156,Thottiam,GEN,26,Karur
+S22,Tamil Nadu,157,Uppiliapuram,ST,28,Perambalur
+S22,Tamil Nadu,158,Musiri,GEN,27,Tiruchirappalli
+S22,Tamil Nadu,159,Lalgudi,GEN,27,Tiruchirappalli
+S22,Tamil Nadu,160,Perambalur,SC,28,Perambalur
+S22,Tamil Nadu,161,Varahur,SC,28,Perambalur
+S22,Tamil Nadu,162,Ariyalur,GEN,28,Perambalur
+S22,Tamil Nadu,163,Andimadam,GEN,28,Perambalur
+S22,Tamil Nadu,164,Jayankondam,GEN,28,Perambalur
+S22,Tamil Nadu,165,Srirangam,GEN,27,Tiruchirappalli
+S22,Tamil Nadu,166,Tiruchirapalli-I,GEN,27,Tiruchirappalli
+S22,Tamil Nadu,167,Tiruchirapalli-II,GEN,27,Tiruchirappalli
+S22,Tamil Nadu,168,Thiruverambur,GEN,27,Tiruchirappalli
+S22,Tamil Nadu,169,Sirkali,SC,29,Mayiladuturai
+S22,Tamil Nadu,170,Poompuhar,GEN,29,Mayiladuturai
+S22,Tamil Nadu,171,Mayuram,GEN,29,Mayiladuturai
+S22,Tamil Nadu,172,Kuttalam,GEN,29,Mayiladuturai
+S22,Tamil Nadu,173,Nannilam,SC,30,Nagapattinam
+S22,Tamil Nadu,174,Tiruvarur,SC,30,Nagapattinam
+S22,Tamil Nadu,175,Nagapattinam,GEN,30,Nagapattinam
+S22,Tamil Nadu,176,Vedaranyam,GEN,30,Nagapattinam
+S22,Tamil Nadu,177,Tiruthuraipundi,SC,30,Nagapattinam
+S22,Tamil Nadu,178,Mannargudi,GEN,30,Nagapattinam
+S22,Tamil Nadu,179,Pattukkottai,GEN,32,Pudukkottai
+S22,Tamil Nadu,180,Peravurani,GEN,32,Pudukkottai
+S22,Tamil Nadu,181,Orathanad,GEN,31,Thanjavur
+S22,Tamil Nadu,182,Thiruvonam,GEN,31,Thanjavur
+S22,Tamil Nadu,183,Thanjavur,GEN,31,Thanjavur
+S22,Tamil Nadu,184,Tiruvaiyaru,GEN,31,Thanjavur
+S22,Tamil Nadu,185,Papanasam,GEN,31,Thanjavur
+S22,Tamil Nadu,186,Valangiman,SC,31,Thanjavur
+S22,Tamil Nadu,187,Kumbakonam,GEN,29,Mayiladuturai
+S22,Tamil Nadu,188,Thiruvidamarudur,GEN,29,Mayiladuturai
+S22,Tamil Nadu,189,Thirumayam,GEN,33,Sivaganga
+S22,Tamil Nadu,190,Kolathur,SC,32,Pudukkottai
+S22,Tamil Nadu,191,Pudukkottai,GEN,32,Pudukkottai
+S22,Tamil Nadu,192,Alangudi,GEN,32,Pudukkottai
+S22,Tamil Nadu,193,Arantangi,GEN,34,Ramanathapuram
+S22,Tamil Nadu,194,Tiruppattur,GEN,33,Sivaganga
+S22,Tamil Nadu,195,Karaikudi,GEN,33,Sivaganga
+S22,Tamil Nadu,196,Tiruvadanai,GEN,33,Sivaganga
+S22,Tamil Nadu,197,Ilayangudi,GEN,33,Sivaganga
+S22,Tamil Nadu,198,Sivaganga,GEN,33,Sivaganga
+S22,Tamil Nadu,199,Manamadurai,SC,34,Ramanathapuram
+S22,Tamil Nadu,200,Paramakudi,SC,34,Ramanathapuram
+S22,Tamil Nadu,201,Ramanathapuram,GEN,34,Ramanathapuram
+S22,Tamil Nadu,202,Kadaladi,GEN,34,Ramanathapuram
+S22,Tamil Nadu,203,Mudukulathur,GEN,34,Ramanathapuram
+S22,Tamil Nadu,204,Aruppukottai,GEN,34,Ramanathapuram
+S22,Tamil Nadu,205,Sattur,GEN,35,Sivakasi
+S22,Tamil Nadu,206,Virudhunagar,GEN,35,Sivakasi
+S22,Tamil Nadu,207,Sivakasi,GEN,35,Sivakasi
+S22,Tamil Nadu,208,Srivilliputhur,GEN,37,Tenkasi
+S22,Tamil Nadu,209,Rajapalayam,SC,37,Tenkasi
+S22,Tamil Nadu,210,Vilathikulam,GEN,36,Tirunelveli
+S22,Tamil Nadu,211,Pottapidaram,SC,36,Tirunelveli
+S22,Tamil Nadu,212,Koilpatti,GEN,36,Tirunelveli
+S22,Tamil Nadu,213,Sankaranayanarkoil,SC,37,Tenkasi
+S22,Tamil Nadu,214,Vasudevanallur,SC,37,Tenkasi
+S22,Tamil Nadu,215,Kadayanallur,GEN,37,Tenkasi
+S22,Tamil Nadu,216,Tenkasi,GEN,37,Tenkasi
+S22,Tamil Nadu,217,Alangulam,GEN,38,Tiruchendur
+S22,Tamil Nadu,218,Tirunelveli,GEN,38,Tiruchendur
+S22,Tamil Nadu,219,Palayamcottai,GEN,38,Tiruchendur
+S22,Tamil Nadu,220,Cheranmahadevi,GEN,38,Tiruchendur
+S22,Tamil Nadu,221,Ambasamudram,GEN,38,Tiruchendur
+S22,Tamil Nadu,222,Nanguneri,GEN,38,Tiruchendur
+S22,Tamil Nadu,223,Radhapuram,GEN,38,Tiruchendur
+S22,Tamil Nadu,224,Sattangulam,GEN,36,Tirunelveli
+S22,Tamil Nadu,225,Tiruchendur,GEN,36,Tirunelveli
+S22,Tamil Nadu,226,Srivaikuntam,GEN,36,Tirunelveli
+S22,Tamil Nadu,227,Tuticorin,GEN,36,Tirunelveli
+S22,Tamil Nadu,228,Kanniyakumari,GEN,39,Nagercoil
+S22,Tamil Nadu,229,Nagercoil,GEN,39,Nagercoil
+S22,Tamil Nadu,230,Colachel,GEN,39,Nagercoil
+S22,Tamil Nadu,231,Padmanabhapuram,GEN,39,Nagercoil
+S22,Tamil Nadu,232,Thiruvattar,GEN,39,Nagercoil
+S22,Tamil Nadu,233,Vilavancode,GEN,39,Nagercoil
+S22,Tamil Nadu,234,Killiyoor,GEN,39,Nagercoil
+S23,Tripura,1,Simna,ST,1,Tripura West
+S23,Tripura,2,Mohanpur,GEN,1,Tripura West
+S23,Tripura,3,Bamutia,SC,1,Tripura West
+S23,Tripura,4,Barjala,GEN,1,Tripura West
+S23,Tripura,5,Khayerpur,GEN,1,Tripura West
+S23,Tripura,6,Agartala,GEN,1,Tripura West
+S23,Tripura,7,Ramnagar,GEN,0,
+S23,Tripura,8,Town Bordowali,GEN,1,Tripura West
+S23,Tripura,9,Banamalipur,GEN,1,Tripura West
+S23,Tripura,10,Majlishpur,GEN,1,Tripura West
+S23,Tripura,11,Mandaibazar,ST,1,Tripura West
+S23,Tripura,12,Takarjala,ST,1,Tripura West
+S23,Tripura,13,Pratapgarh,SC,1,Tripura West
+S23,Tripura,14,Badharghat,GEN,1,Tripura West
+S23,Tripura,15,Kamalasagar,GEN,1,Tripura West
+S23,Tripura,16,Bishalgarh,GEN,1,Tripura West
+S23,Tripura,17,Golaghati,ST,1,Tripura West
+S23,Tripura,18,Charilam,ST,1,Tripura West
+S23,Tripura,19,Boxanagar,GEN,1,Tripura West
+S23,Tripura,20,Nalchar,SC,1,Tripura West
+S23,Tripura,21,Sonamura,GEN,1,Tripura West
+S23,Tripura,22,Dhanpur,GEN,1,Tripura West
+S23,Tripura,23,Ramchandraghat,ST,2,Tripura East
+S23,Tripura,24,Khowai,GEN,2,Tripura East
+S23,Tripura,25,Asharambari,ST,2,Tripura East
+S23,Tripura,26,Pramodenagar,ST,2,Tripura East
+S23,Tripura,27,Kalyanpur,GEN,2,Tripura East
+S23,Tripura,28,Krishnapur,ST,1,Tripura West
+S23,Tripura,29,Teliamura,GEN,2,Tripura East
+S23,Tripura,30,Bagma,ST,1,Tripura West
+S23,Tripura,31,Salgarh,SC,1,Tripura West
+S23,Tripura,32,Radhakishorepur,GEN,1,Tripura West
+S23,Tripura,33,Matarbari,GEN,1,Tripura West
+S23,Tripura,34,Kakraban,GEN,1,Tripura West
+S23,Tripura,35,Rajnagar,SC,1,Tripura West
+S23,Tripura,36,Belonia,GEN,1,Tripura West
+S23,Tripura,37,Santirbazar,ST,1,Tripura West
+S23,Tripura,38,Hrishyamukh,GEN,2,Tripura East
+S23,Tripura,39,Jolaibari,ST,2,Tripura East
+S23,Tripura,40,Manu,ST,2,Tripura East
+S23,Tripura,41,Sabroom,GEN,2,Tripura East
+S23,Tripura,42,Ampinagar,ST,2,Tripura East
+S23,Tripura,43,Birganj,GEN,2,Tripura East
+S23,Tripura,44,Raima Valley,ST,2,Tripura East
+S23,Tripura,45,Kamalpur,GEN,2,Tripura East
+S23,Tripura,46,Surma,SC,2,Tripura East
+S23,Tripura,47,Salema,ST,2,Tripura East
+S23,Tripura,48,Kulai,ST,2,Tripura East
+S23,Tripura,49,Chhawmanu,ST,2,Tripura East
+S23,Tripura,50,Pabiachhara,SC,2,Tripura East
+S23,Tripura,51,Fatikroy,GEN,2,Tripura East
+S23,Tripura,52,Chandipur,GEN,2,Tripura East
+S23,Tripura,53,Kailasahar,GEN,2,Tripura East
+S23,Tripura,54,Kurti,GEN,2,Tripura East
+S23,Tripura,55,Kadamtala,GEN,2,Tripura East
+S23,Tripura,56,Dharmanagar,GEN,2,Tripura East
+S23,Tripura,57,Jubarajnagar,GEN,2,Tripura East
+S23,Tripura,58,Pencharthal,ST,2,Tripura East
+S23,Tripura,59,Panisagar,GEN,2,Tripura East
+S23,Tripura,60,Kanchanpur,ST,2,Tripura East
+S24,Uttar Pradesh,1,Seohara,GEN,2,Amroha
+S24,Uttar Pradesh,2,Dhampur,GEN,2,Amroha
+S24,Uttar Pradesh,3,Afzalgarh,GEN,1,Bijnor
+S24,Uttar Pradesh,4,Nagina,SC,1,Bijnor
+S24,Uttar Pradesh,5,Nazibabad,SC,1,Bijnor
+S24,Uttar Pradesh,6,Bijnor,GEN,1,Bijnor
+S24,Uttar Pradesh,7,Chandpur,GEN,1,Bijnor
+S24,Uttar Pradesh,8,Kanth,GEN,2,Amroha
+S24,Uttar Pradesh,9,Amroha,GEN,2,Amroha
+S24,Uttar Pradesh,10,Hasanpur,GEN,2,Amroha
+S24,Uttar Pradesh,11,Gangeshwari,SC,5,Sambhal
+S24,Uttar Pradesh,12,Sambhal,GEN,5,Sambhal
+S24,Uttar Pradesh,13,Bahjoi,GEN,5,Sambhal
+S24,Uttar Pradesh,14,Chandausi,SC,3,Moradabad
+S24,Uttar Pradesh,15,Kundarki,GEN,3,Moradabad
+S24,Uttar Pradesh,16,Moradabad West,GEN,3,Moradabad
+S24,Uttar Pradesh,17,Moradabad,GEN,3,Moradabad
+S24,Uttar Pradesh,18,Moradabad Rural,GEN,3,Moradabad
+S24,Uttar Pradesh,19,Thakurdwara,GEN,4,Rampur
+S24,Uttar Pradesh,20,Suartanda,GEN,4,Rampur
+S24,Uttar Pradesh,21,Rampur,GEN,4,Rampur
+S24,Uttar Pradesh,22,Bilaspur,GEN,4,Rampur
+S24,Uttar Pradesh,23,Shahabad,SC,4,Rampur
+S24,Uttar Pradesh,24,Bisauli,GEN,5,Sambhal
+S24,Uttar Pradesh,25,Gunnour,GEN,5,Sambhal
+S24,Uttar Pradesh,26,Sahaswan,GEN,6,Budaun
+S24,Uttar Pradesh,27,Bilsi,SC,6,Budaun
+S24,Uttar Pradesh,28,Budaun,GEN,6,Budaun
+S24,Uttar Pradesh,29,Usehat,GEN,6,Budaun
+S24,Uttar Pradesh,30,Binawar,GEN,7,Aonla
+S24,Uttar Pradesh,31,Dataganj,GEN,7,Aonla
+S24,Uttar Pradesh,32,Aonla,GEN,7,Aonla
+S24,Uttar Pradesh,33,Sunha,GEN,7,Aonla
+S24,Uttar Pradesh,34,Faridpur,SC,7,Aonla
+S24,Uttar Pradesh,35,Bareilly Cantonment,GEN,8,Bareilly
+S24,Uttar Pradesh,36,Bareilly City,GEN,8,Bareilly
+S24,Uttar Pradesh,37,Nawabganj,GEN,8,Bareilly
+S24,Uttar Pradesh,38,Bhojipura,GEN,8,Bareilly
+S24,Uttar Pradesh,39,Kawar,GEN,8,Bareilly
+S24,Uttar Pradesh,40,Baheri,GEN,8,Bareilly
+S24,Uttar Pradesh,41,Pilibhit,GEN,9,Pilibhit
+S24,Uttar Pradesh,42,Barkhera,SC,9,Pilibhit
+S24,Uttar Pradesh,43,Bisalpur,GEN,9,Pilibhit
+S24,Uttar Pradesh,44,Puranpur,GEN,9,Pilibhit
+S24,Uttar Pradesh,45,Powayan,SC,9,Pilibhit
+S24,Uttar Pradesh,46,Nigohi,GEN,10,Shahjahanpur
+S24,Uttar Pradesh,47,Tilhar,GEN,10,Shahjahanpur
+S24,Uttar Pradesh,48,Jalalabad,GEN,10,Shahjahanpur
+S24,Uttar Pradesh,49,Dadraul,GEN,10,Shahjahanpur
+S24,Uttar Pradesh,50,Shahjahanpur,GEN,10,Shahjahanpur
+S24,Uttar Pradesh,51,Mohammadi,SC,12,Shahabad
+S24,Uttar Pradesh,52,Haiderabad,GEN,12,Shahabad
+S24,Uttar Pradesh,53,Paila,SC,11,Kheri
+S24,Uttar Pradesh,54,Lakhimpur,GEN,11,Kheri
+S24,Uttar Pradesh,55,Srinagar,GEN,11,Kheri
+S24,Uttar Pradesh,56,Nighasan,GEN,11,Kheri
+S24,Uttar Pradesh,57,Dhaurehara,SC,11,Kheri
+S24,Uttar Pradesh,58,Behta,GEN,13,Sitapur
+S24,Uttar Pradesh,59,Biswan,GEN,13,Sitapur
+S24,Uttar Pradesh,60,Mahmoodabad,GEN,14,Misrikh
+S24,Uttar Pradesh,61,Sidhauli,SC,14,Misrikh
+S24,Uttar Pradesh,62,Laharpur,GEN,13,Sitapur
+S24,Uttar Pradesh,63,Sitapur,GEN,13,Sitapur
+S24,Uttar Pradesh,64,Hargaon,SC,13,Sitapur
+S24,Uttar Pradesh,65,Misrikh,GEN,14,Misrikh
+S24,Uttar Pradesh,66,Machhrehta,SC,14,Misrikh
+S24,Uttar Pradesh,67,Beniganj,SC,14,Misrikh
+S24,Uttar Pradesh,68,Sandila,GEN,15,Hardoi
+S24,Uttar Pradesh,69,Ahirori,SC,15,Hardoi
+S24,Uttar Pradesh,70,Hardoi,GEN,15,Hardoi
+S24,Uttar Pradesh,71,Bawan,SC,12,Shahabad
+S24,Uttar Pradesh,72,Pihani,GEN,12,Shahabad
+S24,Uttar Pradesh,73,Shahabad,GEN,12,Shahabad
+S24,Uttar Pradesh,74,Bilgram,GEN,15,Hardoi
+S24,Uttar Pradesh,75,Mallawan,GEN,15,Hardoi
+S24,Uttar Pradesh,76,Bangarmau,GEN,18,Unnao
+S24,Uttar Pradesh,77,Safipur,SC,18,Unnao
+S24,Uttar Pradesh,78,Unnao,GEN,18,Unnao
+S24,Uttar Pradesh,79,Hadha,GEN,18,Unnao
+S24,Uttar Pradesh,80,Bhagwant Nagar,GEN,18,Unnao
+S24,Uttar Pradesh,81,Purwa,GEN,17,Mohanlalganj
+S24,Uttar Pradesh,82,Hasanganj,SC,17,Mohanlalganj
+S24,Uttar Pradesh,83,Malihabad,SC,17,Mohanlalganj
+S24,Uttar Pradesh,84,Mohana,GEN,16,Lucknow
+S24,Uttar Pradesh,85,Lucknow East,GEN,16,Lucknow
+S24,Uttar Pradesh,86,Lucknow West,GEN,16,Lucknow
+S24,Uttar Pradesh,87,Lucknow Central,GEN,16,Lucknow
+S24,Uttar Pradesh,88,Lucknow Cantonment,GEN,16,Lucknow
+S24,Uttar Pradesh,89,Sarojini Nagar,GEN,17,Mohanlalganj
+S24,Uttar Pradesh,90,Mohanlalganj,SC,17,Mohanlalganj
+S24,Uttar Pradesh,91,Bachhrawan,SC,19,Rae Bareli
+S24,Uttar Pradesh,92,Tiloi,GEN,21,Amethi
+S24,Uttar Pradesh,93,Rae Bareli,GEN,19,Rae Bareli
+S24,Uttar Pradesh,94,Sataon,GEN,19,Rae Bareli
+S24,Uttar Pradesh,95,Sareni,GEN,19,Rae Bareli
+S24,Uttar Pradesh,96,Dalmau,GEN,19,Rae Bareli
+S24,Uttar Pradesh,97,Salon,SC,21,Amethi
+S24,Uttar Pradesh,98,Kunda,GEN,20,Pratapgarh
+S24,Uttar Pradesh,99,Bihar,SC,20,Pratapgarh
+S24,Uttar Pradesh,100,Rampurkhas,GEN,20,Pratapgarh
+S24,Uttar Pradesh,101,Garwara,GEN,20,Pratapgarh
+S24,Uttar Pradesh,102,Pratapgarh,GEN,20,Pratapgarh
+S24,Uttar Pradesh,103,Birapur,GEN,43,Machhlishahr
+S24,Uttar Pradesh,104,Patti,GEN,43,Machhlishahr
+S24,Uttar Pradesh,105,Amethi,GEN,21,Amethi
+S24,Uttar Pradesh,106,Gauriganj,GEN,21,Amethi
+S24,Uttar Pradesh,107,Jagdishpur,SC,21,Amethi
+S24,Uttar Pradesh,108,Isauli,GEN,22,Sultanpur
+S24,Uttar Pradesh,109,Sultanpur,GEN,22,Sultanpur
+S24,Uttar Pradesh,110,Jaisinghpur,GEN,22,Sultanpur
+S24,Uttar Pradesh,111,Chanda,GEN,22,Sultanpur
+S24,Uttar Pradesh,112,Kadipur,SC,22,Sultanpur
+S24,Uttar Pradesh,113,Katehari,GEN,23,Akbarpur
+S24,Uttar Pradesh,114,Akbarpur,GEN,23,Akbarpur
+S24,Uttar Pradesh,115,Jalalpur,GEN,23,Akbarpur
+S24,Uttar Pradesh,116,Jahangirganj,SC,41,Azamgarh
+S24,Uttar Pradesh,117,Tanda,GEN,23,Akbarpur
+S24,Uttar Pradesh,118,Ayodhya,GEN,24,Faizabad
+S24,Uttar Pradesh,119,Bikapur,GEN,24,Faizabad
+S24,Uttar Pradesh,120,Milkipur,GEN,24,Faizabad
+S24,Uttar Pradesh,121,Sohawal,SC,24,Faizabad
+S24,Uttar Pradesh,122,Rudauli,GEN,24,Faizabad
+S24,Uttar Pradesh,123,Dariyabad,GEN,26,Kaiserganj
+S24,Uttar Pradesh,124,Siddhaur,SC,25,Bara Banki
+S24,Uttar Pradesh,125,Haidergarh,GEN,25,Bara Banki
+S24,Uttar Pradesh,126,Masauli,GEN,25,Bara Banki
+S24,Uttar Pradesh,127,Nawabganj,GEN,25,Bara Banki
+S24,Uttar Pradesh,128,Fatehpur,SC,25,Bara Banki
+S24,Uttar Pradesh,129,Ramnagar,GEN,26,Kaiserganj
+S24,Uttar Pradesh,130,Kaiserganj,GEN,26,Kaiserganj
+S24,Uttar Pradesh,131,Fakharpur,GEN,26,Kaiserganj
+S24,Uttar Pradesh,132,Mahsi,GEN,26,Kaiserganj
+S24,Uttar Pradesh,133,Nanpara,GEN,27,Bahraich
+S24,Uttar Pradesh,134,Charda,SC,27,Bahraich
+S24,Uttar Pradesh,135,Bhinga,GEN,27,Bahraich
+S24,Uttar Pradesh,136,Bahraich,GEN,27,Bahraich
+S24,Uttar Pradesh,137,Ikauna,SC,27,Bahraich
+S24,Uttar Pradesh,138,Gainsari,GEN,28,Balrampur
+S24,Uttar Pradesh,139,Tulsipur,GEN,28,Balrampur
+S24,Uttar Pradesh,140,Balrampur,GEN,28,Balrampur
+S24,Uttar Pradesh,141,Utraula,GEN,28,Balrampur
+S24,Uttar Pradesh,142,Sadullah Nagar,GEN,28,Balrampur
+S24,Uttar Pradesh,143,Mankapur,SC,29,Gonda
+S24,Uttar Pradesh,144,Mujehna,GEN,29,Gonda
+S24,Uttar Pradesh,145,Gonda,GEN,29,Gonda
+S24,Uttar Pradesh,146,Katra Bazar,GEN,29,Gonda
+S24,Uttar Pradesh,147,Colonelganj,GEN,29,Gonda
+S24,Uttar Pradesh,148,Dixir,SC,30,Basti
+S24,Uttar Pradesh,149,Harraiya,GEN,30,Basti
+S24,Uttar Pradesh,150,Captainganj,GEN,30,Basti
+S24,Uttar Pradesh,151,Nagar East,SC,30,Basti
+S24,Uttar Pradesh,152,Basti,GEN,30,Basti
+S24,Uttar Pradesh,153,Ramnagar,GEN,32,Khalilabad
+S24,Uttar Pradesh,154,Domariaganj,GEN,31,Domariaganj
+S24,Uttar Pradesh,155,Itwa,GEN,31,Domariaganj
+S24,Uttar Pradesh,156,Shohratgarh,GEN,31,Domariaganj
+S24,Uttar Pradesh,157,Naugarh,GEN,31,Domariaganj
+S24,Uttar Pradesh,158,Bansi,GEN,31,Domariaganj
+S24,Uttar Pradesh,159,Khesraha,GEN,32,Khalilabad
+S24,Uttar Pradesh,160,Menhdawal,GEN,32,Khalilabad
+S24,Uttar Pradesh,161,Khalilabad,SC,32,Khalilabad
+S24,Uttar Pradesh,162,Hainsarbazar,SC,32,Khalilabad
+S24,Uttar Pradesh,163,Bansgaon,SC,33,Bansgaon
+S24,Uttar Pradesh,164,Dhuriapar,GEN,33,Bansgaon
+S24,Uttar Pradesh,165,Chillupar,GEN,33,Bansgaon
+S24,Uttar Pradesh,166,Kauriram,GEN,33,Bansgaon
+S24,Uttar Pradesh,167,Mundera Bazar,SC,33,Bansgaon
+S24,Uttar Pradesh,168,Pipraich,GEN,34,Gorakhpur
+S24,Uttar Pradesh,169,Gorakhpur,GEN,34,Gorakhpur
+S24,Uttar Pradesh,170,Maniram,GEN,34,Gorakhpur
+S24,Uttar Pradesh,171,Sahjanwa,GEN,34,Gorakhpur
+S24,Uttar Pradesh,172,Paniara,GEN,35,Maharajganj
+S24,Uttar Pradesh,173,Pharenda,GEN,35,Maharajganj
+S24,Uttar Pradesh,174,Luxmipur,GEN,35,Maharajganj
+S24,Uttar Pradesh,175,Siswa,GEN,35,Maharajganj
+S24,Uttar Pradesh,176,Maharajganj,SC,35,Maharajganj
+S24,Uttar Pradesh,177,Shyamdeurawa,GEN,34,Gorakhpur
+S24,Uttar Pradesh,178,Naurangia,SC,36,Padrauna
+S24,Uttar Pradesh,179,Ramkola,GEN,36,Padrauna
+S24,Uttar Pradesh,180,Hata,SC,36,Padrauna
+S24,Uttar Pradesh,181,Padrauna,GEN,36,Padrauna
+S24,Uttar Pradesh,182,Seorahi,GEN,36,Padrauna
+S24,Uttar Pradesh,183,Fazilnagar,GEN,37,Deoria
+S24,Uttar Pradesh,184,Kasia,GEN,37,Deoria
+S24,Uttar Pradesh,185,Gauri Bazar,GEN,37,Deoria
+S24,Uttar Pradesh,186,Rudrapur,GEN,37,Deoria
+S24,Uttar Pradesh,187,Deoria,GEN,37,Deoria
+S24,Uttar Pradesh,188,Bhatpar Rani,GEN,38,Salempur
+S24,Uttar Pradesh,189,Salempur,GEN,38,Salempur
+S24,Uttar Pradesh,190,Barhaj,GEN,38,Salempur
+S24,Uttar Pradesh,191,Nathupur,GEN,40,Ghosi
+S24,Uttar Pradesh,192,Ghosi,GEN,40,Ghosi
+S24,Uttar Pradesh,193,Sagri,GEN,40,Ghosi
+S24,Uttar Pradesh,194,Gopalpur,GEN,41,Azamgarh
+S24,Uttar Pradesh,195,Azamgarh,GEN,41,Azamgarh
+S24,Uttar Pradesh,196,Nizamabad,GEN,42,Lalganj
+S24,Uttar Pradesh,197,Atraulia,GEN,41,Azamgarh
+S24,Uttar Pradesh,198,Phulpur,GEN,41,Azamgarh
+S24,Uttar Pradesh,199,Saraimir,SC,41,Azamgarh
+S24,Uttar Pradesh,200,Mehnagar,SC,42,Lalganj
+S24,Uttar Pradesh,201,Lalganj,GEN,42,Lalganj
+S24,Uttar Pradesh,202,Mubarakpur,GEN,42,Lalganj
+S24,Uttar Pradesh,203,Muhammadabad Gohna,SC,42,Lalganj
+S24,Uttar Pradesh,204,Mau,GEN,40,Ghosi
+S24,Uttar Pradesh,205,Rasra,SC,40,Ghosi
+S24,Uttar Pradesh,206,Siar,GEN,38,Salempur
+S24,Uttar Pradesh,207,Chilkahar,GEN,39,Ballia
+S24,Uttar Pradesh,208,Sikanderpur,GEN,38,Salempur
+S24,Uttar Pradesh,209,Bansdih,GEN,39,Ballia
+S24,Uttar Pradesh,210,Doaba,GEN,39,Ballia
+S24,Uttar Pradesh,211,Ballia,GEN,39,Ballia
+S24,Uttar Pradesh,212,Kopachit,GEN,39,Ballia
+S24,Uttar Pradesh,213,Zahoorabad,GEN,46,Ghazipur
+S24,Uttar Pradesh,214,Mohammadabad,GEN,46,Ghazipur
+S24,Uttar Pradesh,215,Dildarnagar,GEN,46,Ghazipur
+S24,Uttar Pradesh,216,Zamania,GEN,46,Ghazipur
+S24,Uttar Pradesh,217,Ghazipur,GEN,46,Ghazipur
+S24,Uttar Pradesh,218,Jakhania,SC,45,Saidpur
+S24,Uttar Pradesh,219,Sadat,SC,45,Saidpur
+S24,Uttar Pradesh,220,Saidpur,GEN,45,Saidpur
+S24,Uttar Pradesh,221,Dhanapur,GEN,47,Chandauli
+S24,Uttar Pradesh,222,Chandauli,SC,47,Chandauli
+S24,Uttar Pradesh,223,Chakiya,SC,47,Chandauli
+S24,Uttar Pradesh,224,Mughalsarai,GEN,47,Chandauli
+S24,Uttar Pradesh,225,Varanasi Cantonment,GEN,48,Varanasi
+S24,Uttar Pradesh,226,Varanasi South,GEN,47,Chandauli
+S24,Uttar Pradesh,227,Varanasi North,GEN,48,Varanasi
+S24,Uttar Pradesh,228,Chiraigaon,GEN,47,Chandauli
+S24,Uttar Pradesh,229,Kolasla,GEN,48,Varanasi
+S24,Uttar Pradesh,230,Gangapur,GEN,48,Varanasi
+S24,Uttar Pradesh,231,Aurai,GEN,50,Mirzapur
+S24,Uttar Pradesh,232,Gyanpur,GEN,50,Mirzapur
+S24,Uttar Pradesh,233,Bhadohi,SC,50,Mirzapur
+S24,Uttar Pradesh,234,Barsathi,GEN,44,Jaunpur
+S24,Uttar Pradesh,235,Mariahu,GEN,44,Jaunpur
+S24,Uttar Pradesh,236,Kerakat,SC,45,Saidpur
+S24,Uttar Pradesh,237,Bayalsi,GEN,45,Saidpur
+S24,Uttar Pradesh,238,Jaunpur,GEN,44,Jaunpur
+S24,Uttar Pradesh,239,Rari,GEN,44,Jaunpur
+S24,Uttar Pradesh,240,Shahganj,SC,43,Machhlishahr
+S24,Uttar Pradesh,241,Khutahan,GEN,43,Machhlishahr
+S24,Uttar Pradesh,242,Garwara,GEN,43,Machhlishahr
+S24,Uttar Pradesh,243,Machhlishahr,GEN,43,Machhlishahr
+S24,Uttar Pradesh,244,Dudhi,SC,49,Robertsganj
+S24,Uttar Pradesh,245,Robertsganj,SC,49,Robertsganj
+S24,Uttar Pradesh,246,Rajgarh,GEN,49,Robertsganj
+S24,Uttar Pradesh,247,Chunar,GEN,49,Robertsganj
+S24,Uttar Pradesh,248,Majhwa,GEN,49,Robertsganj
+S24,Uttar Pradesh,249,Mirzapur,GEN,50,Mirzapur
+S24,Uttar Pradesh,250,Chhanbey,SC,50,Mirzapur
+S24,Uttar Pradesh,251,Meja,SC,52,Allahabad
+S24,Uttar Pradesh,252,Karchana,GEN,52,Allahabad
+S24,Uttar Pradesh,253,Bara,GEN,52,Allahabad
+S24,Uttar Pradesh,254,Jhusi,GEN,51,Phulpur
+S24,Uttar Pradesh,255,Handia,GEN,51,Phulpur
+S24,Uttar Pradesh,256,Pratappur,GEN,51,Phulpur
+S24,Uttar Pradesh,257,Soraon,GEN,51,Phulpur
+S24,Uttar Pradesh,258,Nawabganj,GEN,51,Phulpur
+S24,Uttar Pradesh,259,Allahabad North,GEN,52,Allahabad
+S24,Uttar Pradesh,260,Allahabad South,GEN,52,Allahabad
+S24,Uttar Pradesh,261,Allahabad West,GEN,53,Chail
+S24,Uttar Pradesh,262,Chail,SC,53,Chail
+S24,Uttar Pradesh,263,Manjhanpur,SC,53,Chail
+S24,Uttar Pradesh,264,Sirathu,SC,53,Chail
+S24,Uttar Pradesh,265,Khaga,GEN,53,Chail
+S24,Uttar Pradesh,266,Kishunpur,SC,54,Fatehpur
+S24,Uttar Pradesh,267,Haswa,GEN,54,Fatehpur
+S24,Uttar Pradesh,268,Fatehpur,GEN,54,Fatehpur
+S24,Uttar Pradesh,269,Jahanabad,GEN,59,Ghatampur
+S24,Uttar Pradesh,270,Bindki,GEN,54,Fatehpur
+S24,Uttar Pradesh,271,Aryanagar,GEN,61,Kanpur
+S24,Uttar Pradesh,272,Sisamau,SC,61,Kanpur
+S24,Uttar Pradesh,273,Generalganj,GEN,61,Kanpur
+S24,Uttar Pradesh,274,Kanpur Cantonment,GEN,61,Kanpur
+S24,Uttar Pradesh,275,Govind Nagar,GEN,61,Kanpur
+S24,Uttar Pradesh,276,Kalyanpur,GEN,60,Bilhaur
+S24,Uttar Pradesh,277,Sarsaul,GEN,60,Bilhaur
+S24,Uttar Pradesh,278,Ghatampur,GEN,59,Ghatampur
+S24,Uttar Pradesh,279,Bhognipur,SC,59,Ghatampur
+S24,Uttar Pradesh,280,Rajpur,GEN,59,Ghatampur
+S24,Uttar Pradesh,281,Sarvankhera,GEN,60,Bilhaur
+S24,Uttar Pradesh,282,Chaubepur,GEN,60,Bilhaur
+S24,Uttar Pradesh,283,Bilhaur,SC,60,Bilhaur
+S24,Uttar Pradesh,284,Derapur,GEN,59,Ghatampur
+S24,Uttar Pradesh,285,Auraiya,GEN,62,Etawah
+S24,Uttar Pradesh,286,Ajitmal,SC,62,Etawah
+S24,Uttar Pradesh,287,Lakhna,SC,62,Etawah
+S24,Uttar Pradesh,288,Etawah,GEN,62,Etawah
+S24,Uttar Pradesh,289,Jaswantnagar,GEN,62,Etawah
+S24,Uttar Pradesh,290,Bharthana,GEN,63,Kannauj
+S24,Uttar Pradesh,291,Bidhuna,GEN,63,Kannauj
+S24,Uttar Pradesh,292,Kannauj,SC,63,Kannauj
+S24,Uttar Pradesh,293,Umarda,GEN,63,Kannauj
+S24,Uttar Pradesh,294,Chhibramau,GEN,63,Kannauj
+S24,Uttar Pradesh,295,Kamalganj,GEN,64,Farrukhabad
+S24,Uttar Pradesh,296,Farrukhabad,GEN,64,Farrukhabad
+S24,Uttar Pradesh,297,Kaimganj,GEN,64,Farrukhabad
+S24,Uttar Pradesh,298,Mohammdabad,GEN,64,Farrukhabad
+S24,Uttar Pradesh,299,Manikpur,SC,55,Banda
+S24,Uttar Pradesh,300,Karwi,GEN,55,Banda
+S24,Uttar Pradesh,301,Baberu,GEN,55,Banda
+S24,Uttar Pradesh,302,Tindwari,GEN,54,Fatehpur
+S24,Uttar Pradesh,303,Banda,GEN,55,Banda
+S24,Uttar Pradesh,304,Naraini,GEN,55,Banda
+S24,Uttar Pradesh,305,Hamirpur,GEN,56,Hamirpur
+S24,Uttar Pradesh,306,Maudaha,GEN,56,Hamirpur
+S24,Uttar Pradesh,307,Rath,GEN,56,Hamirpur
+S24,Uttar Pradesh,308,Charkhari,SC,56,Hamirpur
+S24,Uttar Pradesh,309,Mahoba,GEN,56,Hamirpur
+S24,Uttar Pradesh,310,Mehroni,GEN,57,Jhansi
+S24,Uttar Pradesh,311,Lalitpur,GEN,57,Jhansi
+S24,Uttar Pradesh,312,Jhansi,GEN,6,Khajuraho
+S24,Uttar Pradesh,313,Babina,SC,6,Khajuraho
+S24,Uttar Pradesh,314,Mauranipur,SC,57,Jhansi
+S24,Uttar Pradesh,315,Garautha,GEN,58,Jalaun
+S24,Uttar Pradesh,316,Konch,SC,58,Jalaun
+S24,Uttar Pradesh,317,Orai,GEN,58,Jalaun
+S24,Uttar Pradesh,318,Kalpi,GEN,58,Jalaun
+S24,Uttar Pradesh,319,Madhogarh,GEN,58,Jalaun
+S24,Uttar Pradesh,320,Bhongara,GEN,64,Farrukhabad
+S24,Uttar Pradesh,321,Kishni,SC,65,Mainpuri
+S24,Uttar Pradesh,322,Karhal,GEN,65,Mainpuri
+S24,Uttar Pradesh,323,Shikohabad,GEN,68,Firozabad
+S24,Uttar Pradesh,324,Jasrana,GEN,65,Mainpuri
+S24,Uttar Pradesh,325,Ghiror,GEN,65,Mainpuri
+S24,Uttar Pradesh,326,Mainpuri,GEN,65,Mainpuri
+S24,Uttar Pradesh,327,Aliganj,GEN,67,Etah
+S24,Uttar Pradesh,328,Patiyali,GEN,67,Etah
+S24,Uttar Pradesh,329,Sakeet,GEN,67,Etah
+S24,Uttar Pradesh,330,Soron,GEN,67,Etah
+S24,Uttar Pradesh,331,Kasganj,GEN,6,Budaun
+S24,Uttar Pradesh,332,Etah,GEN,67,Etah
+S24,Uttar Pradesh,333,Nidhauli Kalan,GEN,66,Jalesar
+S24,Uttar Pradesh,334,Jalesar,SC,66,Jalesar
+S24,Uttar Pradesh,335,Firozabad,GEN,68,Firozabad
+S24,Uttar Pradesh,336,Bah,GEN,68,Firozabad
+S24,Uttar Pradesh,337,Fatehabad,GEN,68,Firozabad
+S24,Uttar Pradesh,338,Tundla,SC,66,Jalesar
+S24,Uttar Pradesh,339,Etmadpur,SC,66,Jalesar
+S24,Uttar Pradesh,340,Dayalbagh,GEN,69,Agra
+S24,Uttar Pradesh,341,Agra Cantonment,GEN,69,Agra
+S24,Uttar Pradesh,342,Agra East,GEN,69,Agra
+S24,Uttar Pradesh,343,Agra West,SC,69,Agra
+S24,Uttar Pradesh,344,Kheragarh,GEN,10,Bayana
+S24,Uttar Pradesh,345,Fatehpur Sikri,GEN,69,Agra
+S24,Uttar Pradesh,346,Goverdhan,SC,70,Mathura
+S24,Uttar Pradesh,347,Mathura,GEN,70,Mathura
+S24,Uttar Pradesh,348,Chhata,GEN,70,Mathura
+S24,Uttar Pradesh,349,Mat,GEN,70,Mathura
+S24,Uttar Pradesh,350,Gokul,GEN,70,Mathura
+S24,Uttar Pradesh,351,Sadabad,GEN,66,Jalesar
+S24,Uttar Pradesh,352,Hathras,GEN,71,Hathras
+S24,Uttar Pradesh,353,Sasni,SC,71,Hathras
+S24,Uttar Pradesh,354,Sikandara Rao,GEN,71,Hathras
+S24,Uttar Pradesh,355,Gangiri,GEN,71,Hathras
+S24,Uttar Pradesh,356,Atrauli,GEN,71,Hathras
+S24,Uttar Pradesh,357,Aligarh,GEN,72,Aligarh
+S24,Uttar Pradesh,358,Koil,SC,72,Aligarh
+S24,Uttar Pradesh,359,Iglas,GEN,72,Aligarh
+S24,Uttar Pradesh,360,Barauli,GEN,72,Aligarh
+S24,Uttar Pradesh,361,Khair,GEN,72,Aligarh
+S24,Uttar Pradesh,362,Jewar,SC,73,Khurja
+S24,Uttar Pradesh,363,Khurja,GEN,73,Khurja
+S24,Uttar Pradesh,364,Debai,GEN,73,Khurja
+S24,Uttar Pradesh,365,Anupshahr,GEN,74,Bulandshahr
+S24,Uttar Pradesh,366,Siana,GEN,74,Bulandshahr
+S24,Uttar Pradesh,367,Agota,GEN,74,Bulandshahr
+S24,Uttar Pradesh,368,Bulandshahr,GEN,74,Bulandshahr
+S24,Uttar Pradesh,369,Shikarpur,SC,74,Bulandshahr
+S24,Uttar Pradesh,370,Sikandrabad,GEN,73,Khurja
+S24,Uttar Pradesh,371,Dadri,GEN,73,Khurja
+S24,Uttar Pradesh,372,Ghaziabad,GEN,73,Khurja
+S24,Uttar Pradesh,373,Muradnagar,GEN,75,Hapur
+S24,Uttar Pradesh,374,Modinagar,GEN,75,Hapur
+S24,Uttar Pradesh,375,Hapur,SC,75,Hapur
+S24,Uttar Pradesh,376,Garhmukteshwar,GEN,75,Hapur
+S24,Uttar Pradesh,377,Kithore,GEN,76,Meerut
+S24,Uttar Pradesh,378,Hastinapur,SC,76,Meerut
+S24,Uttar Pradesh,379,Sardhana,GEN,78,Muzaffarnagar
+S24,Uttar Pradesh,380,Meerut Cantonment,GEN,76,Meerut
+S24,Uttar Pradesh,381,Meerut,GEN,76,Meerut
+S24,Uttar Pradesh,382,Kharkhauda,GEN,76,Meerut
+S24,Uttar Pradesh,383,Siwalkhas,SC,77,Baghpat
+S24,Uttar Pradesh,384,Khekra,GEN,77,Baghpat
+S24,Uttar Pradesh,385,Baghpat,GEN,77,Baghpat
+S24,Uttar Pradesh,386,Barnawa,GEN,77,Baghpat
+S24,Uttar Pradesh,387,Chhaprauli,GEN,77,Baghpat
+S24,Uttar Pradesh,388,Kandhla,GEN,79,Kairana
+S24,Uttar Pradesh,389,Khatauli,GEN,78,Muzaffarnagar
+S24,Uttar Pradesh,390,Jansath,SC,78,Muzaffarnagar
+S24,Uttar Pradesh,391,Morna,GEN,78,Muzaffarnagar
+S24,Uttar Pradesh,392,Muzaffarnagar,GEN,78,Muzaffarnagar
+S24,Uttar Pradesh,393,Charthawal,SC,79,Kairana
+S24,Uttar Pradesh,394,Baghra,GEN,79,Kairana
+S24,Uttar Pradesh,395,Kairana,GEN,79,Kairana
+S24,Uttar Pradesh,396,Thana Bhawan,GEN,79,Kairana
+S24,Uttar Pradesh,397,Nakur,GEN,80,Saharanpur
+S24,Uttar Pradesh,398,Sarsawa,GEN,80,Saharanpur
+S24,Uttar Pradesh,399,Nagal,SC,80,Saharanpur
+S24,Uttar Pradesh,400,Deoband,GEN,80,Saharanpur
+S24,Uttar Pradesh,401,Harora,SC,80,Saharanpur
+S24,Uttar Pradesh,402,Saharanpur,GEN,80,Saharanpur
+S24,Uttar Pradesh,403,Muzaffarabad,GEN,80,Saharanpur
+S25,West Bengal,1,Mekliganj,SC,3,Jalpaiguri
+S25,West Bengal,2,Sitalkuchi,SC,1,Cooch Behar
+S25,West Bengal,3,Mathabhanga,SC,1,Cooch Behar
+S25,West Bengal,4,Cooch Behar North,GEN,1,Cooch Behar
+S25,West Bengal,5,Cooch Behar West,GEN,1,Cooch Behar
+S25,West Bengal,6,Sitai,GEN,1,Cooch Behar
+S25,West Bengal,7,Dinhata,GEN,1,Cooch Behar
+S25,West Bengal,8,Natabari,GEN,1,Cooch Behar
+S25,West Bengal,9,Tufanganj,SC,2,Alipurduars
+S25,West Bengal,10,Kumargram,ST,2,Alipurduars
+S25,West Bengal,11,Kalchini,ST,2,Alipurduars
+S25,West Bengal,12,Alipurduars,GEN,2,Alipurduars
+S25,West Bengal,13,Falakata,SC,2,Alipurduars
+S25,West Bengal,14,Madarihat,ST,2,Alipurduars
+S25,West Bengal,15,Dhupguri,SC,3,Jalpaiguri
+S25,West Bengal,16,Nagrakata,ST,2,Alipurduars
+S25,West Bengal,17,Mainaguri,SC,3,Jalpaiguri
+S25,West Bengal,18,Mal,ST,3,Jalpaiguri
+S25,West Bengal,19,Kranti,GEN,3,Jalpaiguri
+S25,West Bengal,20,Jalpaiguri,GEN,3,Jalpaiguri
+S25,West Bengal,21,Rajganj,SC,3,Jalpaiguri
+S25,West Bengal,22,Kalimpong,GEN,4,Darjeeling
+S25,West Bengal,23,Darjeeling,GEN,4,Darjeeling
+S25,West Bengal,24,Kurseong,GEN,4,Darjeeling
+S25,West Bengal,25,Siliguri,GEN,4,Darjeeling
+S25,West Bengal,26,Phansidewa,ST,4,Darjeeling
+S25,West Bengal,27,Chopra,GEN,4,Darjeeling
+S25,West Bengal,28,Islampur,GEN,4,Darjeeling
+S25,West Bengal,29,Goalpokhar,GEN,5,Raiganj
+S25,West Bengal,30,Karandighi,GEN,5,Raiganj
+S25,West Bengal,31,Raiganj,SC,5,Raiganj
+S25,West Bengal,32,Kaliaganj,SC,6,Balurghat
+S25,West Bengal,33,Kushmandi,SC,6,Balurghat
+S25,West Bengal,34,Itahar,GEN,5,Raiganj
+S25,West Bengal,35,Gangarampur,GEN,6,Balurghat
+S25,West Bengal,36,Tapan,ST,6,Balurghat
+S25,West Bengal,37,Kumarganj,GEN,6,Balurghat
+S25,West Bengal,38,Balurghat,GEN,6,Balurghat
+S25,West Bengal,39,Habibpur,ST,7,Malda
+S25,West Bengal,40,Gajol,ST,6,Balurghat
+S25,West Bengal,41,Kharba,GEN,5,Raiganj
+S25,West Bengal,42,Harishchandrapur,GEN,5,Raiganj
+S25,West Bengal,43,Ratua,GEN,5,Raiganj
+S25,West Bengal,44,Araidanga,GEN,7,Malda
+S25,West Bengal,45,Malda,SC,7,Malda
+S25,West Bengal,46,Englishbazar,GEN,7,Malda
+S25,West Bengal,47,Manikchak,GEN,7,Malda
+S25,West Bengal,48,Suzapur,GEN,7,Malda
+S25,West Bengal,49,Kaliachak,GEN,7,Malda
+S25,West Bengal,50,Farakka,GEN,1,Rajmahal
+S25,West Bengal,51,Aurangabad,GEN,8,Jangipur
+S25,West Bengal,52,Suti,GEN,8,Jangipur
+S25,West Bengal,53,Sagardighi,SC,8,Jangipur
+S25,West Bengal,54,Jangipur,GEN,8,Jangipur
+S25,West Bengal,55,Lalgola,GEN,9,Murshidabad
+S25,West Bengal,56,Bhagabangola,GEN,9,Murshidabad
+S25,West Bengal,57,Nabagram,GEN,8,Jangipur
+S25,West Bengal,58,Murshidabad,GEN,9,Murshidabad
+S25,West Bengal,59,Jalangi,GEN,9,Murshidabad
+S25,West Bengal,60,Domkal,GEN,9,Murshidabad
+S25,West Bengal,61,Naoda,GEN,10,Berhampore
+S25,West Bengal,62,Hariharpara,GEN,9,Murshidabad
+S25,West Bengal,63,Berhampore,GEN,10,Berhampore
+S25,West Bengal,64,Beldanga,GEN,10,Berhampore
+S25,West Bengal,65,Kandi,GEN,10,Berhampore
+S25,West Bengal,66,Khargram,SC,8,Jangipur
+S25,West Bengal,67,Barwan,GEN,10,Berhampore
+S25,West Bengal,68,Bharatpur,GEN,10,Berhampore
+S25,West Bengal,69,Karimpur,GEN,9,Murshidabad
+S25,West Bengal,70,Palashipara,GEN,11,Krishnagar
+S25,West Bengal,71,Nakashipara,GEN,11,Krishnagar
+S25,West Bengal,72,Kaliganj,GEN,11,Krishnagar
+S25,West Bengal,73,Chapra,GEN,11,Krishnagar
+S25,West Bengal,74,Krishnaganj,SC,11,Krishnagar
+S25,West Bengal,75,Krishnagar East,GEN,11,Krishnagar
+S25,West Bengal,76,Krishnagar West,GEN,12,Nabadwip
+S25,West Bengal,77,Nabadwip,GEN,12,Nabadwip
+S25,West Bengal,78,Santipur,GEN,12,Nabadwip
+S25,West Bengal,79,Hanskhali,SC,12,Nabadwip
+S25,West Bengal,80,Ranaghat East,SC,12,Nabadwip
+S25,West Bengal,81,Ranaghat West,GEN,12,Nabadwip
+S25,West Bengal,82,Chakdaha,GEN,12,Nabadwip
+S25,West Bengal,83,Haringhata,GEN,12,Nabadwip
+S25,West Bengal,84,Bagdaha,SC,13,Barasat
+S25,West Bengal,85,Bongaon,GEN,13,Barasat
+S25,West Bengal,86,Gaighata,GEN,13,Barasat
+S25,West Bengal,87,Habra,GEN,13,Barasat
+S25,West Bengal,88,Ashokenagar,GEN,13,Barasat
+S25,West Bengal,89,Amdanga,GEN,19,Barrackpore
+S25,West Bengal,90,Barasat,GEN,13,Barasat
+S25,West Bengal,91,Rajarhat,SC,20,Dum Dum
+S25,West Bengal,92,Deganga,GEN,13,Barasat
+S25,West Bengal,93,Swarupnagar,GEN,14,Basirhat
+S25,West Bengal,94,Baduria,GEN,14,Basirhat
+S25,West Bengal,95,Basirhat,GEN,14,Basirhat
+S25,West Bengal,96,Hasnabad,GEN,14,Basirhat
+S25,West Bengal,97,Haroa,SC,14,Basirhat
+S25,West Bengal,98,Sandeshkhali,SC,15,Joynagar
+S25,West Bengal,99,Hingalganj,SC,15,Joynagar
+S25,West Bengal,100,Gosaba,SC,15,Joynagar
+S25,West Bengal,101,Basanti,SC,15,Joynagar
+S25,West Bengal,102,Kultali,SC,0,
+S25,West Bengal,103,Joynagar,GEN,15,Joynagar
+S25,West Bengal,104,Baruipur,GEN,18,Jadavpur
+S25,West Bengal,105,Canning West,SC,15,Joynagar
+S25,West Bengal,106,Canning East,GEN,15,Joynagar
+S25,West Bengal,107,Bhangar,GEN,14,Basirhat
+S25,West Bengal,108,Jadavpur,GEN,18,Jadavpur
+S25,West Bengal,109,Sonarpur,SC,23,Calcutta South
+S25,West Bengal,110,Bishnupur East,SC,18,Jadavpur
+S25,West Bengal,111,Bishnupur West,GEN,17,Diamond Harbour
+S25,West Bengal,112,Behala East,GEN,18,Jadavpur
+S25,West Bengal,113,Behala West,GEN,18,Jadavpur
+S25,West Bengal,114,Garden Reach,GEN,24,Howrah
+S25,West Bengal,115,Maheshtala,GEN,17,Diamond Harbour
+S25,West Bengal,116,Budge Budge,GEN,17,Diamond Harbour
+S25,West Bengal,117,Satgachia,GEN,17,Diamond Harbour
+S25,West Bengal,118,Falta,GEN,17,Diamond Harbour
+S25,West Bengal,119,Diamond Harbour,GEN,17,Diamond Harbour
+S25,West Bengal,120,Magrahat West,GEN,18,Jadavpur
+S25,West Bengal,121,Magrahat East,SC,18,Jadavpur
+S25,West Bengal,122,Mandirbazar,SC,16,Mathurapur
+S25,West Bengal,123,Mathurapur,GEN,16,Mathurapur
+S25,West Bengal,124,Kulpi,SC,16,Mathurapur
+S25,West Bengal,125,Patharpratima,GEN,16,Mathurapur
+S25,West Bengal,126,Kakdwip,GEN,16,Mathurapur
+S25,West Bengal,127,Sagar,GEN,0,
+S25,West Bengal,128,Bijpur,GEN,19,Barrackpore
+S25,West Bengal,129,Naihati,GEN,19,Barrackpore
+S25,West Bengal,130,Bhatpara,GEN,19,Barrackpore
+S25,West Bengal,131,Jagatdal,GEN,19,Barrackpore
+S25,West Bengal,132,Noapara,GEN,26,Serampore
+S25,West Bengal,133,Titagarh,GEN,26,Serampore
+S25,West Bengal,134,Khardah,GEN,20,Dum Dum
+S25,West Bengal,135,Panihati,GEN,20,Dum Dum
+S25,West Bengal,136,Kamarhati,GEN,20,Dum Dum
+S25,West Bengal,137,Baranagar,GEN,24,Howrah
+S25,West Bengal,138,Dum Dum,GEN,20,Dum Dum
+S25,West Bengal,139,Belgachia East,GEN,22,Calcutta North East
+S25,West Bengal,140,Cossipur,GEN,24,Howrah
+S25,West Bengal,141,Shyampukur,GEN,24,Howrah
+S25,West Bengal,142,Jorabagan,GEN,24,Howrah
+S25,West Bengal,143,Jorasanko,GEN,24,Howrah
+S25,West Bengal,144,Bara Bazar,GEN,18,Jadavpur
+S25,West Bengal,145,Bow Bazar,GEN,23,Calcutta South
+S25,West Bengal,146,Chowringhee,GEN,18,Jadavpur
+S25,West Bengal,147,Kabitirtha,GEN,18,Jadavpur
+S25,West Bengal,148,Alipore,GEN,18,Jadavpur
+S25,West Bengal,149,Rashbehari Avenue,GEN,18,Jadavpur
+S25,West Bengal,150,Tollygunge,GEN,18,Jadavpur
+S25,West Bengal,151,Dhakuria,GEN,18,Jadavpur
+S25,West Bengal,152,Ballygunge,GEN,23,Calcutta South
+S25,West Bengal,153,Entally,GEN,23,Calcutta South
+S25,West Bengal,154,Taltola,SC,22,Calcutta North East
+S25,West Bengal,155,Beliaghata,GEN,22,Calcutta North East
+S25,West Bengal,156,Sealdah,GEN,23,Calcutta South
+S25,West Bengal,157,Vidyasagar,GEN,21,Calcutta North West
+S25,West Bengal,158,Burtola,GEN,21,Calcutta North West
+S25,West Bengal,159,Manicktola,GEN,22,Calcutta North East
+S25,West Bengal,160,Belgachia West,GEN,21,Calcutta North West
+S25,West Bengal,161,Bally,GEN,24,Howrah
+S25,West Bengal,162,Howrah North,GEN,24,Howrah
+S25,West Bengal,163,Howrah Central,GEN,24,Howrah
+S25,West Bengal,164,Howrah South,GEN,18,Jadavpur
+S25,West Bengal,165,Shibpur,GEN,24,Howrah
+S25,West Bengal,166,Domjur,GEN,24,Howrah
+S25,West Bengal,167,Jagatballavpur,GEN,26,Serampore
+S25,West Bengal,168,Panchla,GEN,26,Serampore
+S25,West Bengal,169,Sankrail,SC,26,Serampore
+S25,West Bengal,170,Uluberia North,SC,25,Uluberia
+S25,West Bengal,171,Uluberia South,GEN,25,Uluberia
+S25,West Bengal,172,Shyampur,GEN,25,Uluberia
+S25,West Bengal,173,Bagnan,GEN,25,Uluberia
+S25,West Bengal,174,Kalyanpur,GEN,25,Uluberia
+S25,West Bengal,175,Amta,GEN,25,Uluberia
+S25,West Bengal,176,Udaynarayanpur,GEN,25,Uluberia
+S25,West Bengal,177,Jangipara,GEN,26,Serampore
+S25,West Bengal,178,Chanditala,GEN,26,Serampore
+S25,West Bengal,179,Uttarpara,GEN,26,Serampore
+S25,West Bengal,180,Serampore,GEN,26,Serampore
+S25,West Bengal,181,Champdani,GEN,26,Serampore
+S25,West Bengal,182,Chandernagore,GEN,27,Hooghly
+S25,West Bengal,183,Singur,GEN,27,Hooghly
+S25,West Bengal,184,Haripal,GEN,27,Hooghly
+S25,West Bengal,185,Tarakeswar,GEN,28,Arambagh
+S25,West Bengal,186,Chinsurah,GEN,27,Hooghly
+S25,West Bengal,187,Bansberia,GEN,27,Hooghly
+S25,West Bengal,188,Balagarh,SC,40,Katwa
+S25,West Bengal,189,Pandua,GEN,40,Katwa
+S25,West Bengal,190,Polba,GEN,27,Hooghly
+S25,West Bengal,191,Dhaniakhali,SC,27,Hooghly
+S25,West Bengal,192,Pursurah,GEN,28,Arambagh
+S25,West Bengal,193,Khanakul,SC,28,Arambagh
+S25,West Bengal,194,Arambagh,GEN,28,Arambagh
+S25,West Bengal,195,Goghat,SC,28,Arambagh
+S25,West Bengal,196,Chandrakona,GEN,28,Arambagh
+S25,West Bengal,197,Ghatal,SC,28,Arambagh
+S25,West Bengal,198,Daspur,GEN,29,Panskura
+S25,West Bengal,199,Nandanpur,GEN,29,Panskura
+S25,West Bengal,200,Panskura West,GEN,29,Panskura
+S25,West Bengal,201,Panskura East,GEN,30,Tamluk
+S25,West Bengal,202,Tamluk,GEN,30,Tamluk
+S25,West Bengal,203,Moyna,GEN,30,Tamluk
+S25,West Bengal,204,Mahishadal,GEN,30,Tamluk
+S25,West Bengal,205,Sutahata,SC,30,Tamluk
+S25,West Bengal,206,Nandigram,GEN,30,Tamluk
+S25,West Bengal,207,Narghat,GEN,30,Tamluk
+S25,West Bengal,208,Bhagabanpur,GEN,31,Contai
+S25,West Bengal,209,Khajuri,SC,31,Contai
+S25,West Bengal,210,Contai North,GEN,31,Contai
+S25,West Bengal,211,Contai South,GEN,31,Contai
+S25,West Bengal,212,Ramnagar,GEN,31,Contai
+S25,West Bengal,213,Egra,GEN,31,Contai
+S25,West Bengal,214,Mugberia,GEN,31,Contai
+S25,West Bengal,215,Pataspur,GEN,32,Midnapore
+S25,West Bengal,216,Sabang,GEN,29,Panskura
+S25,West Bengal,217,Pingla,GEN,29,Panskura
+S25,West Bengal,218,Debra,GEN,29,Panskura
+S25,West Bengal,219,Keshpur,SC,29,Panskura
+S25,West Bengal,220,Garhbeta East,GEN,33,Jhargram
+S25,West Bengal,221,Garhbeta West,SC,33,Jhargram
+S25,West Bengal,222,Salbani,GEN,33,Jhargram
+S25,West Bengal,223,Midnapore,GEN,32,Midnapore
+S25,West Bengal,224,Kharagpur Town,GEN,32,Midnapore
+S25,West Bengal,225,Kharagpur Rural,GEN,32,Midnapore
+S25,West Bengal,226,Keshiari,ST,32,Midnapore
+S25,West Bengal,227,Narayangarh,GEN,32,Midnapore
+S25,West Bengal,228,Dantan,GEN,32,Midnapore
+S25,West Bengal,229,Nayagram,ST,33,Jhargram
+S25,West Bengal,230,Gopiballavpur,GEN,33,Jhargram
+S25,West Bengal,231,Jhargram,GEN,33,Jhargram
+S25,West Bengal,232,Binpur,ST,33,Jhargram
+S25,West Bengal,233,Banduan,ST,34,Purulia
+S25,West Bengal,234,Manbazar,GEN,34,Purulia
+S25,West Bengal,235,Balrampur,ST,34,Purulia
+S25,West Bengal,236,Arsa,GEN,34,Purulia
+S25,West Bengal,237,Jhalda,GEN,34,Purulia
+S25,West Bengal,238,Jaipur,GEN,34,Purulia
+S25,West Bengal,239,Purulia,GEN,34,Purulia
+S25,West Bengal,240,Para,SC,35,Bankura
+S25,West Bengal,241,Raghunathpur,SC,35,Bankura
+S25,West Bengal,242,Kashipur,ST,35,Bankura
+S25,West Bengal,243,Hura,GEN,35,Bankura
+S25,West Bengal,244,Taldangra,GEN,36,Vishnupur
+S25,West Bengal,245,Raipur,ST,36,Vishnupur
+S25,West Bengal,246,Ranibandh,ST,36,Vishnupur
+S25,West Bengal,247,Indpur,SC,36,Vishnupur
+S25,West Bengal,248,Chhatna,GEN,35,Bankura
+S25,West Bengal,249,Gangajalghati,SC,37,Durgapur
+S25,West Bengal,250,Barjora,GEN,37,Durgapur
+S25,West Bengal,251,Bankura,GEN,35,Bankura
+S25,West Bengal,252,Onda,GEN,35,Bankura
+S25,West Bengal,253,Vishnupur,GEN,36,Vishnupur
+S25,West Bengal,254,Kotulpur,GEN,36,Vishnupur
+S25,West Bengal,255,Indas,SC,36,Vishnupur
+S25,West Bengal,256,Sonamukhi,SC,37,Durgapur
+S25,West Bengal,257,Kulti,GEN,38,Asansol
+S25,West Bengal,258,Barabani,GEN,38,Asansol
+S25,West Bengal,259,Hirapur,GEN,38,Asansol
+S25,West Bengal,260,Asansol,GEN,38,Asansol
+S25,West Bengal,261,Raniganj,GEN,38,Asansol
+S25,West Bengal,262,Jamuria,GEN,38,Asansol
+S25,West Bengal,263,Ukhra,SC,38,Asansol
+S25,West Bengal,264,Durgapur-I,GEN,37,Durgapur
+S25,West Bengal,265,Durgapur-II,GEN,37,Durgapur
+S25,West Bengal,266,Kanksa,SC,37,Durgapur
+S25,West Bengal,267,Ausgram,SC,41,Bolpur
+S25,West Bengal,268,Bhatar,GEN,39,Burdwan
+S25,West Bengal,269,Galsi,GEN,37,Durgapur
+S25,West Bengal,270,Burdwan North,GEN,39,Burdwan
+S25,West Bengal,271,Burdwan South,GEN,39,Burdwan
+S25,West Bengal,272,Khandaghosh,SC,36,Vishnupur
+S25,West Bengal,273,Raina,GEN,39,Burdwan
+S25,West Bengal,274,Jamalpur,SC,39,Burdwan
+S25,West Bengal,275,Memari,GEN,39,Burdwan
+S25,West Bengal,276,Kalna,GEN,40,Katwa
+S25,West Bengal,277,Nadanghat,GEN,40,Katwa
+S25,West Bengal,278,Manteswar,GEN,40,Katwa
+S25,West Bengal,279,Purbasthali,GEN,40,Katwa
+S25,West Bengal,280,Katwa,GEN,40,Katwa
+S25,West Bengal,281,Mangalkot,GEN,41,Bolpur
+S25,West Bengal,282,Ketugram,SC,10,Berhampore
+S25,West Bengal,283,Nanur,SC,41,Bolpur
+S25,West Bengal,284,Bolpur,GEN,41,Bolpur
+S25,West Bengal,285,Labhpur,GEN,41,Bolpur
+S25,West Bengal,286,Dubrajpur,GEN,41,Bolpur
+S25,West Bengal,287,Rajnagar,SC,42,Birbhum
+S25,West Bengal,288,Suri,GEN,42,Birbhum
+S25,West Bengal,289,Mahammad Bazar,GEN,42,Birbhum
+S25,West Bengal,290,Mayureswar,SC,41,Bolpur
+S25,West Bengal,291,Rampurhat,GEN,42,Birbhum
+S25,West Bengal,292,Hansan,SC,42,Birbhum
+S25,West Bengal,293,Nalhati,GEN,42,Birbhum
+S25,West Bengal,294,Murarai,GEN,42,Birbhum
+S26,Chhattisgarh,1,Manendragarh,ST,1,Surguja
+S26,Chhattisgarh,2,Baikunthpur,GEN,1,Surguja
+S26,Chhattisgarh,3,Premnagar,ST,1,Surguja
+S26,Chhattisgarh,4,Surajpur,ST,1,Surguja
+S26,Chhattisgarh,5,Pal,ST,1,Surguja
+S26,Chhattisgarh,6,Samri,ST,1,Surguja
+S26,Chhattisgarh,7,Lundra,ST,1,Surguja
+S26,Chhattisgarh,8,Pilkha,ST,1,Surguja
+S26,Chhattisgarh,9,Ambikapur,ST,1,Surguja
+S26,Chhattisgarh,10,Sitapur,ST,1,Surguja
+S26,Chhattisgarh,11,Bagicha,ST,2,Raigarh
+S26,Chhattisgarh,12,Jashpur,ST,2,Raigarh
+S26,Chhattisgarh,13,Tapkara,ST,2,Raigarh
+S26,Chhattisgarh,14,Pathalgaon,ST,2,Raigarh
+S26,Chhattisgarh,15,Dharamjaigarh,ST,2,Raigarh
+S26,Chhattisgarh,16,Lailunga,ST,2,Raigarh
+S26,Chhattisgarh,17,Raigarh,GEN,2,Raigarh
+S26,Chhattisgarh,18,Kharsia,GEN,2,Raigarh
+S26,Chhattisgarh,19,Saria,GEN,5,Sarangarh
+S26,Chhattisgarh,20,Sarangarh,SC,5,Sarangarh
+S26,Chhattisgarh,21,Rampur,ST,3,Janjgir
+S26,Chhattisgarh,22,Katghora,GEN,3,Janjgir
+S26,Chhattisgarh,23,Tanakhar,ST,3,Janjgir
+S26,Chhattisgarh,24,Marwahi,ST,4,Bilaspur
+S26,Chhattisgarh,25,Kota,GEN,4,Bilaspur
+S26,Chhattisgarh,26,Lormi,GEN,4,Bilaspur
+S26,Chhattisgarh,27,Mungeli,SC,4,Bilaspur
+S26,Chhattisgarh,28,Jarhagaon,SC,4,Bilaspur
+S26,Chhattisgarh,29,Takhatpur,GEN,4,Bilaspur
+S26,Chhattisgarh,30,Bilaspur,GEN,4,Bilaspur
+S26,Chhattisgarh,31,Bilha,GEN,4,Bilaspur
+S26,Chhattisgarh,32,Masturi,SC,3,Janjgir
+S26,Chhattisgarh,33,Sipat,GEN,3,Janjgir
+S26,Chhattisgarh,34,Akaltara,GEN,3,Janjgir
+S26,Chhattisgarh,35,Pamgarh,GEN,5,Sarangarh
+S26,Chhattisgarh,36,Champa,GEN,3,Janjgir
+S26,Chhattisgarh,37,Sakti,GEN,3,Janjgir
+S26,Chhattisgarh,38,Malkharoda,SC,5,Sarangarh
+S26,Chhattisgarh,39,Chandrapur,GEN,5,Sarangarh
+S26,Chhattisgarh,40,Raipur Town,GEN,6,Raipur
+S26,Chhattisgarh,41,Raipur Rural,GEN,6,Raipur
+S26,Chhattisgarh,42,Abhanpur,GEN,6,Raipur
+S26,Chhattisgarh,43,Mandirhasod,GEN,6,Raipur
+S26,Chhattisgarh,44,Arang,SC,6,Raipur
+S26,Chhattisgarh,45,Dharsiwa,GEN,6,Raipur
+S26,Chhattisgarh,46,Bhatapara,GEN,6,Raipur
+S26,Chhattisgarh,47,Baloda Bazar,GEN,6,Raipur
+S26,Chhattisgarh,48,Palari,SC,5,Sarangarh
+S26,Chhattisgarh,49,Kasdol,GEN,5,Sarangarh
+S26,Chhattisgarh,50,Bhatgaon,SC,5,Sarangarh
+S26,Chhattisgarh,51,Rajim,GEN,7,Mahasamund
+S26,Chhattisgarh,52,Bindranawagarh,ST,7,Mahasamund
+S26,Chhattisgarh,53,Saraipali,GEN,7,Mahasamund
+S26,Chhattisgarh,54,Basna,GEN,7,Mahasamund
+S26,Chhattisgarh,55,Khallari,GEN,7,Mahasamund
+S26,Chhattisgarh,56,Mahasamund,GEN,7,Mahasamund
+S26,Chhattisgarh,57,Sihawa,ST,8,Kanker
+S26,Chhattisgarh,58,Kurud,GEN,7,Mahasamund
+S26,Chhattisgarh,59,Dhamtari,GEN,7,Mahasamund
+S26,Chhattisgarh,60,Bhanupratappur,ST,8,Kanker
+S26,Chhattisgarh,61,Kanker,ST,8,Kanker
+S26,Chhattisgarh,62,Narayanpur,ST,8,Kanker
+S26,Chhattisgarh,63,Keskal,ST,8,Kanker
+S26,Chhattisgarh,64,Kondagaon,ST,9,Bastar
+S26,Chhattisgarh,65,Bhanpuri,ST,9,Bastar
+S26,Chhattisgarh,66,Jagdalpur,ST,9,Bastar
+S26,Chhattisgarh,67,Keslur,ST,9,Bastar
+S26,Chhattisgarh,68,Chitrakote,ST,9,Bastar
+S26,Chhattisgarh,69,Dantewada,ST,9,Bastar
+S26,Chhattisgarh,70,Konta,ST,9,Bastar
+S26,Chhattisgarh,71,Bijapur,ST,9,Bastar
+S26,Chhattisgarh,72,Maro,SC,10,Durg
+S26,Chhattisgarh,73,Bemetara,GEN,10,Durg
+S26,Chhattisgarh,74,Saja,GEN,10,Durg
+S26,Chhattisgarh,75,Dhamdha,GEN,10,Durg
+S26,Chhattisgarh,76,Durg,GEN,10,Durg
+S26,Chhattisgarh,77,Bhilai,GEN,10,Durg
+S26,Chhattisgarh,78,Patan,GEN,10,Durg
+S26,Chhattisgarh,79,Gunderdehi,GEN,8,Kanker
+S26,Chhattisgarh,80,Khertha,GEN,10,Durg
+S26,Chhattisgarh,81,Balod,GEN,8,Kanker
+S26,Chhattisgarh,82,Dondi Lohara,ST,8,Kanker
+S26,Chhattisgarh,83,Chowki,ST,11,Rajnandgaon
+S26,Chhattisgarh,84,Khujji,GEN,11,Rajnandgaon
+S26,Chhattisgarh,85,Dongargaon,GEN,11,Rajnandgaon
+S26,Chhattisgarh,86,Rajnandgaon,GEN,11,Rajnandgaon
+S26,Chhattisgarh,87,Dongargarh,SC,11,Rajnandgaon
+S26,Chhattisgarh,88,Khairagarh,GEN,11,Rajnandgaon
+S26,Chhattisgarh,89,Birendranagar,GEN,11,Rajnandgaon
+S26,Chhattisgarh,90,Kawardha,GEN,11,Rajnandgaon
+S27,Jharkhand,1,Rajmahal,GEN,1,Rajmahal
+S27,Jharkhand,2,Borio,ST,1,Rajmahal
+S27,Jharkhand,3,Barhait,ST,1,Rajmahal
+S27,Jharkhand,4,Litipara,ST,1,Rajmahal
+S27,Jharkhand,5,Pakaur,GEN,1,Rajmahal
+S27,Jharkhand,6,Maheshpur,ST,1,Rajmahal
+S27,Jharkhand,7,Sikaripara,ST,2,Dumka
+S27,Jharkhand,8,Nala,GEN,2,Dumka
+S27,Jharkhand,9,Jamtara,GEN,2,Dumka
+S27,Jharkhand,10,Dumka,ST,2,Dumka
+S27,Jharkhand,11,Jama,ST,2,Dumka
+S27,Jharkhand,12,Jarmundi,GEN,3,Godda
+S27,Jharkhand,13,Madhupur,GEN,3,Godda
+S27,Jharkhand,14,Sarath,GEN,2,Dumka
+S27,Jharkhand,15,Deoghar,SC,3,Godda
+S27,Jharkhand,16,Poreyahat,GEN,3,Godda
+S27,Jharkhand,17,Godda,GEN,3,Godda
+S27,Jharkhand,18,Mahagama,GEN,1,Rajmahal
+S27,Jharkhand,19,Kodarma,GEN,5,Kodarma
+S27,Jharkhand,20,Barkatha,GEN,5,Kodarma
+S27,Jharkhand,21,Barhi,GEN,14,Hazaribagh
+S27,Jharkhand,22,Barkagaon,GEN,14,Hazaribagh
+S27,Jharkhand,23,Ramgarh,GEN,14,Hazaribagh
+S27,Jharkhand,24,Mandu,GEN,14,Hazaribagh
+S27,Jharkhand,25,Hazaribagh,GEN,14,Hazaribagh
+S27,Jharkhand,26,Simaria,SC,14,Hazaribagh
+S27,Jharkhand,27,Chatra,SC,4,Chatra
+S27,Jharkhand,28,Dhanwar,GEN,5,Kodarma
+S27,Jharkhand,29,Bagodar,GEN,5,Kodarma
+S27,Jharkhand,30,Jamua,SC,5,Kodarma
+S27,Jharkhand,31,Gandey,GEN,5,Kodarma
+S27,Jharkhand,32,Giridih,GEN,6,Giridih
+S27,Jharkhand,33,Dumri,GEN,6,Giridih
+S27,Jharkhand,34,Gomia,GEN,6,Giridih
+S27,Jharkhand,35,Bermo,GEN,6,Giridih
+S27,Jharkhand,36,Bokaro,GEN,7,Dhanbad
+S27,Jharkhand,37,Chandankiyari,SC,7,Dhanbad
+S27,Jharkhand,38,Sindri,GEN,7,Dhanbad
+S27,Jharkhand,39,Nirsa,GEN,7,Dhanbad
+S27,Jharkhand,40,Dhanbad,GEN,7,Dhanbad
+S27,Jharkhand,41,Jharia,GEN,7,Dhanbad
+S27,Jharkhand,42,Tundi,GEN,7,Dhanbad
+S27,Jharkhand,43,Baghmara,GEN,6,Giridih
+S27,Jharkhand,44,Baharagora,GEN,9,Jamshedpur
+S27,Jharkhand,45,Ghatsila,ST,9,Jamshedpur
+S27,Jharkhand,46,Potka,ST,9,Jamshedpur
+S27,Jharkhand,47,Jugsalai,SC,9,Jamshedpur
+S27,Jharkhand,48,Jamshedpur East,GEN,9,Jamshedpur
+S27,Jharkhand,49,Jamshedpur West,GEN,10,Singhbhum
+S27,Jharkhand,50,Ichagarh,GEN,8,Ranchi
+S27,Jharkhand,51,Seraikella,ST,10,Singhbhum
+S27,Jharkhand,52,Chaibasa,ST,10,Singhbhum
+S27,Jharkhand,53,Majhgaon,ST,10,Singhbhum
+S27,Jharkhand,54,Jaganathpur,ST,10,Singhbhum
+S27,Jharkhand,55,Manoharpur,ST,10,Singhbhum
+S27,Jharkhand,56,Chakradharpur,ST,10,Singhbhum
+S27,Jharkhand,57,Kharasawan,ST,11,Khunti
+S27,Jharkhand,58,Tamar,ST,11,Khunti
+S27,Jharkhand,59,Torpa,ST,11,Khunti
+S27,Jharkhand,60,Khunti,ST,11,Khunti
+S27,Jharkhand,61,Silli,GEN,8,Ranchi
+S27,Jharkhand,62,Khijri,ST,8,Ranchi
+S27,Jharkhand,63,Ranchi,GEN,8,Ranchi
+S27,Jharkhand,64,Hatia,GEN,8,Ranchi
+S27,Jharkhand,65,Kanke,SC,8,Ranchi
+S27,Jharkhand,66,Mandar,ST,12,Lohardaga
+S27,Jharkhand,67,Sisai,ST,12,Lohardaga
+S27,Jharkhand,68,Gumla,ST,12,Lohardaga
+S27,Jharkhand,69,Bishnupur,ST,12,Lohardaga
+S27,Jharkhand,70,Simdega,ST,11,Khunti
+S27,Jharkhand,71,Kolebira,ST,11,Khunti
+S27,Jharkhand,72,Lohardaga,ST,12,Lohardaga
+S27,Jharkhand,73,Manika,ST,12,Lohardaga
+S27,Jharkhand,74,Latehar,SC,4,Chatra
+S27,Jharkhand,75,Panki,GEN,4,Chatra
+S27,Jharkhand,76,Daltonganj,GEN,13,Palamu
+S27,Jharkhand,77,Bishrampur,GEN,13,Palamu
+S27,Jharkhand,78,Chhatarpur,SC,13,Palamu
+S27,Jharkhand,79,Hussainabad,GEN,13,Palamu
+S27,Jharkhand,80,Garhwa,GEN,13,Palamu
+S27,Jharkhand,81,Bhawanathpur,GEN,13,Palamu
+S28,Uttaranchal,1,Purola,SC,1,Tehri Garhwal
+S28,Uttaranchal,2,Gangotri,GEN,1,Tehri Garhwal
+S28,Uttaranchal,3,Yamnotri,GEN,1,Tehri Garhwal
+S28,Uttaranchal,4,Pratapnagar,GEN,1,Tehri Garhwal
+S28,Uttaranchal,5,Tehri,GEN,1,Tehri Garhwal
+S28,Uttaranchal,6,Ghansali,GEN,1,Tehri Garhwal
+S28,Uttaranchal,7,Deoprayag,GEN,2,Garhwal
+S28,Uttaranchal,8,Narendranagar,GEN,2,Garhwal
+S28,Uttaranchal,9,Dhanolti,SC,1,Tehri Garhwal
+S28,Uttaranchal,10,Chakrata,ST,1,Tehri Garhwal
+S28,Uttaranchal,11,Vikasnagar,GEN,1,Tehri Garhwal
+S28,Uttaranchal,12,Sahaspur,SC,1,Tehri Garhwal
+S28,Uttaranchal,13,Laxman Chowk,GEN,5,Hardwar
+S28,Uttaranchal,14,Dehradun,GEN,1,Tehri Garhwal
+S28,Uttaranchal,15,Rajpur,GEN,1,Tehri Garhwal
+S28,Uttaranchal,16,Mussoorie,GEN,1,Tehri Garhwal
+S28,Uttaranchal,17,Rishikesh,GEN,5,Hardwar
+S28,Uttaranchal,18,Doiwala,GEN,5,Hardwar
+S28,Uttaranchal,19,Bhagwanpur,SC,5,Hardwar
+S28,Uttaranchal,20,Roorkee,GEN,5,Hardwar
+S28,Uttaranchal,21,Iqbalpur,GEN,5,Hardwar
+S28,Uttaranchal,22,Manglor,GEN,5,Hardwar
+S28,Uttaranchal,23,Landhaur,SC,5,Hardwar
+S28,Uttaranchal,24,Laksar,GEN,5,Hardwar
+S28,Uttaranchal,25,Bahadrabad,GEN,5,Hardwar
+S28,Uttaranchal,26,Hardwar,GEN,5,Hardwar
+S28,Uttaranchal,27,Laldhang,GEN,5,Hardwar
+S28,Uttaranchal,28,Yamakeshwar,GEN,2,Garhwal
+S28,Uttaranchal,29,Kotdwar,GEN,2,Garhwal
+S28,Uttaranchal,30,Dhumakot,GEN,2,Garhwal
+S28,Uttaranchal,31,Bironkhal,GEN,2,Garhwal
+S28,Uttaranchal,32,Lansdowne,GEN,2,Garhwal
+S28,Uttaranchal,33,Pauri,GEN,2,Garhwal
+S28,Uttaranchal,34,Srinagar,SC,2,Garhwal
+S28,Uttaranchal,35,Thalisain,GEN,2,Garhwal
+S28,Uttaranchal,36,Rudraprayag,GEN,2,Garhwal
+S28,Uttaranchal,37,Kedarnath,GEN,2,Garhwal
+S28,Uttaranchal,38,Badrinath,GEN,2,Garhwal
+S28,Uttaranchal,39,Nandprayag,GEN,2,Garhwal
+S28,Uttaranchal,40,Karanprayag,GEN,2,Garhwal
+S28,Uttaranchal,41,Pindar,SC,2,Garhwal
+S28,Uttaranchal,42,Kapkot,GEN,3,Almora
+S28,Uttaranchal,43,Kanda,GEN,3,Almora
+S28,Uttaranchal,44,Bageshwar,SC,3,Almora
+S28,Uttaranchal,45,Dwarahat,GEN,3,Almora
+S28,Uttaranchal,46,Bhikiasain,GEN,3,Almora
+S28,Uttaranchal,47,Salt,GEN,3,Almora
+S28,Uttaranchal,48,Ranikhet,GEN,3,Almora
+S28,Uttaranchal,49,Someshwar,SC,3,Almora
+S28,Uttaranchal,50,Almora,GEN,3,Almora
+S28,Uttaranchal,51,Jageshwar,GEN,3,Almora
+S28,Uttaranchal,52,Mukteshwar,SC,4,Nainital
+S28,Uttaranchal,53,Dhari,GEN,4,Nainital
+S28,Uttaranchal,54,Haldwani,GEN,4,Nainital
+S28,Uttaranchal,55,Nainital,GEN,4,Nainital
+S28,Uttaranchal,56,Ramnagar,GEN,2,Garhwal
+S28,Uttaranchal,57,Jaspur,GEN,4,Nainital
+S28,Uttaranchal,58,Kashipur,GEN,4,Nainital
+S28,Uttaranchal,59,Bajpur,GEN,4,Nainital
+S28,Uttaranchal,60,Pantnagar,GEN,4,Nainital
+S28,Uttaranchal,61,Rudrapur-Kichha,GEN,4,Nainital
+S28,Uttaranchal,62,Sitarganj,SC,4,Nainital
+S28,Uttaranchal,63,Khatima,ST,4,Nainital
+S28,Uttaranchal,64,Champawat,GEN,3,Almora
+S28,Uttaranchal,65,Lohaghat,GEN,3,Almora
+S28,Uttaranchal,66,Pithoragarh,GEN,3,Almora
+S28,Uttaranchal,67,Gangolihat,SC,3,Almora
+S28,Uttaranchal,68,Didihat,GEN,3,Almora
+S28,Uttaranchal,69,Kanalichhina,GEN,3,Almora
+S28,Uttaranchal,70,Dharchula,ST,3,Almora
+U05,Delhi,1,Sarojini Nagar,GEN,2,South Delhi
+U05,Delhi,2,Gole Market,GEN,1,New Delhi
+U05,Delhi,3,Minto Road,GEN,4,East Delhi
+U05,Delhi,4,Kasturba Nagar,GEN,2,South Delhi
+U05,Delhi,5,Jangpura,GEN,3,Outer Delhi
+U05,Delhi,6,Okhla,GEN,3,Outer Delhi
+U05,Delhi,7,Kalkaji,GEN,3,Outer Delhi
+U05,Delhi,8,Malviya Nagar,GEN,3,Outer Delhi
+U05,Delhi,9,Hauz Khas,GEN,3,Outer Delhi
+U05,Delhi,10,R.K.Puram,GEN,3,Outer Delhi
+U05,Delhi,11,Delhi Cantonment,GEN,3,Outer Delhi
+U05,Delhi,12,Janak Puri,GEN,2,South Delhi
+U05,Delhi,13,Hari Nagar,GEN,2,South Delhi
+U05,Delhi,14,Tilak Nagar,GEN,2,South Delhi
+U05,Delhi,15,Rajouri Garden,GEN,2,South Delhi
+U05,Delhi,16,Madipur,SC,7,Karol Bagh
+U05,Delhi,17,Tri Nagar,GEN,7,Karol Bagh
+U05,Delhi,18,Shakurbasti,GEN,7,Karol Bagh
+U05,Delhi,19,Shalimar Bagh,GEN,6,Delhi Sadar
+U05,Delhi,20,Badli,GEN,3,Outer Delhi
+U05,Delhi,21,Sahibabad Dau,GEN,3,Outer Delhi
+U05,Delhi,22,Bawana,SC,3,Outer Delhi
+U05,Delhi,23,Sultanpur Majr,SC,2,South Delhi
+U05,Delhi,24,Mangolpuri,SC,2,South Delhi
+U05,Delhi,25,Nanloi Jat,GEN,3,Outer Delhi
+U05,Delhi,26,Vishnu Garden,GEN,2,South Delhi
+U05,Delhi,27,Hastsal,GEN,3,Outer Delhi
+U05,Delhi,28,Najafgarh,GEN,3,Outer Delhi
+U05,Delhi,29,Nasirpur,GEN,2,South Delhi
+U05,Delhi,30,Palam,GEN,7,Mahendragarh
+U05,Delhi,31,Mahipalpur,GEN,7,Mahendragarh
+U05,Delhi,32,Mehrauli,GEN,3,Outer Delhi
+U05,Delhi,33,Saket,GEN,6,Faridabad
+U05,Delhi,34,Dr. Ambedkar,SC,6,Faridabad
+U05,Delhi,35,Tughlakabad,GEN,6,Faridabad
+U05,Delhi,36,Badarpur,GEN,6,Faridabad
+U05,Delhi,37,Trilokpuri,SC,73,Khurja
+U05,Delhi,38,Patpar Ganj,SC,73,Khurja
+U05,Delhi,39,Mandawali,GEN,73,Khurja
+U05,Delhi,40,Geeta Colony,GEN,4,East Delhi
+U05,Delhi,41,Gandhi Nagar,GEN,4,East Delhi
+U05,Delhi,42,Krishna Nagar,GEN,4,East Delhi
+U05,Delhi,43,Vishwas Naga,GEN,4,East Delhi
+U05,Delhi,44,Shahdara,GEN,77,Baghpat
+U05,Delhi,45,Seemapuri,SC,77,Baghpat
+U05,Delhi,46,Nand Nagari,SC,77,Baghpat
+U05,Delhi,47,Rohtas Nagar,GEN,77,Baghpat
+U05,Delhi,48,Babarpur,GEN,4,East Delhi
+U05,Delhi,49,Seelampur,GEN,4,East Delhi
+U05,Delhi,50,Ghonda,GEN,4,East Delhi
+U05,Delhi,51,Yamuna Vihar,GEN,4,East Delhi
+U05,Delhi,52,Qarawal Nagar,GEN,4,East Delhi
+U05,Delhi,53,Wazirpur,GEN,5,Chandni Chowk
+U05,Delhi,54,Narela,SC,4,East Delhi
+U05,Delhi,55,Bhalswa Jahan,GEN,4,East Delhi
+U05,Delhi,56,Adarsh Nagar,GEN,6,Delhi Sadar
+U05,Delhi,57,Pahar Ganj,GEN,1,New Delhi
+U05,Delhi,58,Matia Mahal,GEN,4,East Delhi
+U05,Delhi,59,Balli Maran,GEN,1,New Delhi
+U05,Delhi,60,Chandni Chow,GEN,1,New Delhi
+U05,Delhi,61,Timarpur,GEN,4,East Delhi
+U05,Delhi,62,Model Town,GEN,5,Chandni Chowk
+U05,Delhi,63,Kamla Nagar,GEN,7,Karol Bagh
+U05,Delhi,64,Sadar Bazar,GEN,1,New Delhi
+U05,Delhi,65,Moti Nagar,GEN,7,Karol Bagh
+U05,Delhi,66,Patel Nagar,GEN,1,New Delhi
+U05,Delhi,67,Rajinder Nagar,GEN,2,South Delhi
+U05,Delhi,68,Karol Bagh,SC,1,New Delhi
+U05,Delhi,69,Ram Nagar,SC,1,New Delhi
+U05,Delhi,70,Baljit Nagar,SC,1,New Delhi
+U07,Pondicherry,1,Muthialpet,GEN,1,Pondicherry
+U07,Pondicherry,2,Cassicade,GEN,1,Pondicherry
+U07,Pondicherry,3,Raj Bhavan,GEN,1,Pondicherry
+U07,Pondicherry,4,Bussy,GEN,1,Pondicherry
+U07,Pondicherry,5,Oupalam,GEN,1,Pondicherry
+U07,Pondicherry,6,Orleampeth,GEN,1,Pondicherry
+U07,Pondicherry,7,Nellithope,GEN,1,Pondicherry
+U07,Pondicherry,8,Modeliarpeth,GEN,1,Pondicherry
+U07,Pondicherry,9,Ariankuppam,GEN,1,Pondicherry
+U07,Pondicherry,10,Embalom,SC,11,Cuddalore
+U07,Pondicherry,11,Nettapakkam,GEN,10,Tindivanam
+U07,Pondicherry,12,Kuruvinatham,GEN,11,Cuddalore
+U07,Pondicherry,13,Bahour,SC,1,Pondicherry
+U07,Pondicherry,14,Thirubuvanai,SC,10,Tindivanam
+U07,Pondicherry,15,Mannadipeth,GEN,1,Pondicherry
+U07,Pondicherry,16,Ossudu,SC,1,Pondicherry
+U07,Pondicherry,17,Villenour,GEN,1,Pondicherry
+U07,Pondicherry,18,Ozhukarai,GEN,11,Cuddalore
+U07,Pondicherry,19,Thattanchavady,GEN,1,Pondicherry
+U07,Pondicherry,20,Reddiarpalayam,GEN,1,Pondicherry
+U07,Pondicherry,21,Lawspet,GEN,10,Tindivanam
+U07,Pondicherry,22,Cotchery,GEN,1,Pondicherry
+U07,Pondicherry,23,Karaikal,GEN,1,Pondicherry
+U07,Pondicherry,24,Karaikal South,GEN,1,Pondicherry
+U07,Pondicherry,25,Neravy-Grand Aldee,GEN,1,Pondicherry
+U07,Pondicherry,26,Tirunallar,GEN,1,Pondicherry
+U07,Pondicherry,27,Neduncadu,SC,1,Pondicherry
+U07,Pondicherry,28,Mahe,GEN,1,Pondicherry
+U07,Pondicherry,29,Palloor,GEN,3,Badagara
+U07,Pondicherry,30,Yanam,GEN,1,Pondicherry
